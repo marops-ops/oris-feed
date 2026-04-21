@@ -44,8 +44,6 @@ HEADERS = {
     "Content-Type": "application/json",
     "Origin": "https://booking.orisdental.no",
     "Referer": "https://booking.orisdental.no/",
-    "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124"',
-"Sec-Ch-Ua-Platform": '"macOS"',
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -282,26 +280,104 @@ def fetch_clinics(session: requests.Session) -> list[dict]:
         return []
 
 
-def fetch_slots(session: requests.Session, clinic_id: int) -> dict:
-    today   = datetime.now(OSLO_TZ)
-    from_dt = today.strftime("%Y-%m-%dT00:00:00Z")
-    to_dt   = (today + timedelta(days=DAYS_AHEAD)).strftime("%Y-%m-%dT23:59:59Z")
+def fetch_slots(session: requests.Session, opus_id: str) -> dict:
+    """
+    To-stegs API-kall:
+    1. Hent behandlingstyper (services) for klinikken
+    2. For den første tilgjengelige behandlingstypen: hent timeslots
+       - Timeslots må hentes per måned (API-krav)
+       - Vi henter inneværende måned + neste måned
+    
+    Returnerer: {'specialists': [...], 'timeslots': [...]}
+    """
+    import time
+    time.sleep(0.5)
+
+    today = datetime.now(OSLO_TZ)
+
+    # Steg 1: Hent behandlingstyper
     try:
+        import calendar
+        last_day = calendar.monthrange(today.year, today.month)[1]
+        from_dt_month = today.strftime("%Y-%m-%dT00:00:00Z")
+        to_dt_month   = today.strftime(f"%Y-%m-{last_day:02d}T23:59:59Z")
+
         resp = session.get(
             "https://api.orisdental.no/api/services",
-            params={"clinic_id": clinic_id, "from_date": from_dt, "to_date": to_dt},
+            params={
+                "clinic_id": opus_id,
+                "from_date": from_dt_month,
+                "to_date":   to_dt_month,
+            },
             timeout=15,
         )
         resp.raise_for_status()
-        return resp.json()
-    except requests.exceptions.HTTPError as e:
-        if e.response.status_code == 404:
+        services = resp.json()
+        if not services:
             return {}
-        print(f"  ⚠ HTTP {e.response.status_code}")
-        return {}
     except Exception as e:
-        print(f"  ⚠ {e}")
+        print(f"  ⚠ Services-feil: {e}")
         return {}
+
+    # Bruk første service_id (vanligvis "NY PAS" eller "Undersøkelse")
+    service_id = services[0]["id"]
+
+    # Steg 2: Hent timeslots for inneværende og neste måned
+    all_timeslots = []
+    all_specialists = {}
+
+    for month_offset in range(2):
+        if month_offset == 0:
+            # Inneværende måned: fra i dag til slutten av måneden
+            last_day = calendar.monthrange(today.year, today.month)[1]
+            from_dt = today.strftime("%Y-%m-%dT00:00:00Z")
+            to_dt   = today.strftime(f"%Y-%m-{last_day:02d}T23:59:59Z")
+        else:
+            # Neste måned: fra første til siste dag
+            if today.month == 12:
+                next_year, next_month = today.year + 1, 1
+            else:
+                next_year, next_month = today.year, today.month + 1
+            last_day = calendar.monthrange(next_year, next_month)[1]
+            from_dt = f"{next_year}-{next_month:02d}-01T00:00:00Z"
+            to_dt   = f"{next_year}-{next_month:02d}-{last_day:02d}T23:59:59Z"
+
+        try:
+            time.sleep(0.3)
+            resp = session.get(
+                "https://api.orisdental.no/api/timeslots",
+                params={
+                    "clinic_id":  opus_id,
+                    "service_id": service_id,
+                    "from_date":  from_dt,
+                    "to_date":    to_dt,
+                },
+                timeout=15,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+
+            if isinstance(data, dict):
+                slots = data.get("timeslots", [])
+                specs = data.get("specialists", [])
+            else:
+                slots = data
+                specs = []
+
+            all_timeslots.extend(slots)
+            for s in specs:
+                all_specialists[s["id"]] = s
+
+        except requests.exceptions.HTTPError as e:
+            if e.response.status_code not in (404, 400):
+                print(f"  ⚠ HTTP {e.response.status_code}")
+        except Exception as e:
+            print(f"  ⚠ Timeslots-feil: {e}")
+
+    return {
+        "specialists": list(all_specialists.values()),
+        "timeslots":   all_timeslots,
+    }
 
 
 # ── Scraping av klinikk-side ───────────────────────────────────────────────────
@@ -505,8 +581,13 @@ def main():
         if is_akutt:
             print(f"  ⚡ Merket som akutt (lang åpningstid / helgeåpent)")
 
-        # Hent ledige timer fra API
-        data = fetch_slots(session, clinic_id)
+        # Hent ledige timer fra API — krever opus_id
+        opus_id = clinic.get("opus_id")
+        if not opus_id:
+            print(f"  ⚠ Ingen opus_id – hopper over")
+            continue
+
+        data = fetch_slots(session, opus_id)
         if not data:
             continue
 
