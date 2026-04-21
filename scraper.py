@@ -415,7 +415,7 @@ def scrape_clinic_page(slug: str) -> dict:
     }
     """
     url = f"{CLINIC_BASE}/{slug}"
-    result = {"photos": {}, "treatments": [], "is_akutt": False}
+    result = {"photos": {}, "treatments": [], "is_akutt": False, "city": "", "canonical_url": ""}
 
     try:
         resp = requests.get(
@@ -425,6 +425,9 @@ def scrape_clinic_page(slug: str) -> dict:
         )
         if resp.status_code != 200:
             return result
+
+        # Faktisk URL etter redirect = kanonisk klinikk-URL
+        result["canonical_url"] = resp.url
 
         soup = BeautifulSoup(resp.text, "html.parser")
 
@@ -600,10 +603,11 @@ def main():
         # Scrape klinikk-siden (bilder + behandlinger + akutt)
         page_data = scrape_clinic_page(clinic_slug)
 
-        photos     = page_data["photos"]
-        treatments = page_data["treatments"]
-        is_akutt   = page_data["is_akutt"]
-        scraped_city = page_data.get("city", "")
+        photos        = page_data["photos"]
+        treatments    = page_data["treatments"]
+        is_akutt      = page_data["is_akutt"]
+        scraped_city  = page_data.get("city", "")
+        canonical_url = page_data.get("canonical_url", "") or f"https://orisdental.no/klinikker/{clinic_slug}"
 
         product_category   = ", ".join(treatments) if treatments else ""
         custom_label_akutt = "akutt" if is_akutt else ""
@@ -666,14 +670,14 @@ def main():
 
             all_items.append({
                 "id":                   f"oris-{clinic_slug}-{clinician_id}",
-                "title":                f"Ledig time – {clinic_name} – {ukedag} {dato} kl. {klokkeslett}",
+                "title":                f"Ledig time – {clinic_name} – {dato} kl. {klokkeslett}",
                 "description":          (
                     f"Book time hos {clinician_name} ({clinician_title}) "
                     f"ved Oris Dental {clinic_name}. "
-                    f"Første ledige time: {ukedag} {dato} kl. {klokkeslett}. "
+                    f"Første ledige time: {dato} kl. {klokkeslett}. "
                     f"Varighet: {duration} min."
                 ),
-                "url":                  f"{BOOKING_BASE}/?clinic={clinic_slug}",
+                "url":                  canonical_url,
                 "clinician_name":       clinician_name,
                 "clinician_title":      clinician_title,
                 "clinician_id":         str(clinician_id),
