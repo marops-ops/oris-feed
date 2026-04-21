@@ -44,6 +44,8 @@ HEADERS = {
     "Content-Type": "application/json",
     "Origin": "https://booking.orisdental.no",
     "Referer": "https://booking.orisdental.no/",
+    "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124"',
+"Sec-Ch-Ua-Platform": '"macOS"',
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
