@@ -44,6 +44,8 @@ HEADERS = {
     "Content-Type": "application/json",
     "Origin": "https://booking.orisdental.no",
     "Referer": "https://booking.orisdental.no/",
+    "Sec-Ch-Ua": '"Chromium";v="124", "Google Chrome";v="124"',
+    "Sec-Ch-Ua-Platform": '"macOS"',
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -280,34 +282,64 @@ def fetch_clinics(session: requests.Session) -> list[dict]:
         return []
 
 
+def fetch_specialists(session: requests.Session, clinic_id: int, opus_id: str) -> dict[int, dict]:
+    """
+    Henter behandlere med navn ved å kalle services-endpointet med numerisk clinic_id.
+    Dette er samme endpoint vi så i DevTools som returnerte specialists[] + timeslots[].
+    Returnerer: {clinician_id: {name, profession}}
+    """
+    import time
+    import calendar
+    time.sleep(1)
+
+    today   = datetime.now(OSLO_TZ)
+    last_day = calendar.monthrange(today.year, today.month)[1]
+    from_dt = today.strftime("%Y-%m-%dT00:00:00Z")
+    to_dt   = today.strftime(f"%Y-%m-{last_day:02d}T23:59:59Z")
+
+    # Prøv med numerisk clinic_id først (gir specialists + timeslots)
+    try:
+        resp = session.get(
+            "https://api.orisdental.no/api/services",
+            params={
+                "clinic_id": clinic_id,
+                "from_date": from_dt,
+                "to_date":   to_dt,
+            },
+            timeout=15,
+        )
+        if resp.status_code == 200:
+            data = resp.json()
+            if isinstance(data, dict) and "specialists" in data:
+                return {s["id"]: s for s in data.get("specialists", [])}
+    except Exception:
+        pass
+
+    return {}
+
+
 def fetch_slots(session: requests.Session, opus_id: str) -> dict:
     """
     To-stegs API-kall:
-    1. Hent behandlingstyper (services) for klinikken
-    2. For den første tilgjengelige behandlingstypen: hent timeslots
-       - Timeslots må hentes per måned (API-krav)
-       - Vi henter inneværende måned + neste måned
-    
-    Returnerer: {'specialists': [...], 'timeslots': [...]}
+    1. Hent behandlingstyper (services) for å få service_id og duration
+    2. Hent timeslots via timeslotmonth for inneværende + neste måned
+       - Returnerer specialists[] med navn + timeslots[]
     """
     import time
-    time.sleep(0.5)
+    import calendar
+    time.sleep(2)
 
     today = datetime.now(OSLO_TZ)
 
-    # Steg 1: Hent behandlingstyper
+    # Steg 1: Hent services for å få service_id og duration
     try:
-        import calendar
         last_day = calendar.monthrange(today.year, today.month)[1]
-        from_dt_month = today.strftime("%Y-%m-%dT00:00:00Z")
-        to_dt_month   = today.strftime(f"%Y-%m-{last_day:02d}T23:59:59Z")
-
         resp = session.get(
             "https://api.orisdental.no/api/services",
             params={
                 "clinic_id": opus_id,
-                "from_date": from_dt_month,
-                "to_date":   to_dt_month,
+                "from_date": today.strftime("%Y-%m-%dT00:00:00Z"),
+                "to_date":   today.strftime(f"%Y-%m-{last_day:02d}T23:59:59Z"),
             },
             timeout=15,
         )
@@ -319,50 +351,41 @@ def fetch_slots(session: requests.Session, opus_id: str) -> dict:
         print(f"  ⚠ Services-feil: {e}")
         return {}
 
-    # Bruk første service_id (vanligvis "NY PAS" eller "Undersøkelse")
+    # Bruk første service
     service_id = services[0]["id"]
+    duration   = services[0].get("duration", 30)
 
-    # Steg 2: Hent timeslots for inneværende og neste måned
-    all_timeslots = []
+    # Steg 2: Hent timeslots via timeslotmonth for inneværende + neste måned
+    all_timeslots  = []
     all_specialists = {}
 
     for month_offset in range(2):
         if month_offset == 0:
-            # Inneværende måned: fra i dag til slutten av måneden
-            last_day = calendar.monthrange(today.year, today.month)[1]
-            from_dt = today.strftime("%Y-%m-%dT00:00:00Z")
-            to_dt   = today.strftime(f"%Y-%m-{last_day:02d}T23:59:59Z")
+            year, month = today.year, today.month
         else:
-            # Neste måned: fra første til siste dag
             if today.month == 12:
-                next_year, next_month = today.year + 1, 1
+                year, month = today.year + 1, 1
             else:
-                next_year, next_month = today.year, today.month + 1
-            last_day = calendar.monthrange(next_year, next_month)[1]
-            from_dt = f"{next_year}-{next_month:02d}-01T00:00:00Z"
-            to_dt   = f"{next_year}-{next_month:02d}-{last_day:02d}T23:59:59Z"
+                year, month = today.year, today.month + 1
 
         try:
-            time.sleep(0.3)
+            time.sleep(1)
             resp = session.get(
-                "https://api.orisdental.no/api/timeslots",
+                "https://api.orisdental.no/api/timeslotmonth",
                 params={
                     "clinic_id":  opus_id,
                     "service_id": service_id,
-                    "from_date":  from_dt,
-                    "to_date":    to_dt,
+                    "duration":   duration,
+                    "year":       year,
+                    "month":      month,
                 },
                 timeout=15,
             )
             resp.raise_for_status()
             data = resp.json()
 
-            if isinstance(data, dict):
-                slots = data.get("timeslots", [])
-                specs = data.get("specialists", [])
-            else:
-                slots = data
-                specs = []
+            slots = data.get("timeslots", [])
+            specs = data.get("specialists", [])
 
             all_timeslots.extend(slots)
             for s in specs:
@@ -434,7 +457,17 @@ def scrape_clinic_page(slug: str) -> dict:
                 break
         result["treatments"] = treatments
 
-        # ── Akutt-logikk basert på åpningstider ───────────────────────────────
+        # ── By-navn fra klinikksiden (korrigerer API-feil som "UIset") ──────────
+        city = ""
+        address_tag = soup.find("a", href=re.compile(r"google.com/maps"))
+        if address_tag:
+            # Adressen er i link-teksten: "Åsane Senter 37, Ulset"
+            addr_text = address_tag.get_text(strip=True)
+            if "," in addr_text:
+                city = addr_text.split(",")[-1].strip()
+                # Fjern postnummer hvis det er med
+                city = re.sub(r"^\d{4}\s*", "", city).strip()
+        result["city"] = city
         # Sjekk om noen dag har åpningstider etter 17:00 eller er åpen i helgen
         page_text = soup.get_text()
 
@@ -570,8 +603,9 @@ def main():
         photos     = page_data["photos"]
         treatments = page_data["treatments"]
         is_akutt   = page_data["is_akutt"]
+        scraped_city = page_data.get("city", "")
 
-        product_category  = ", ".join(treatments) if treatments else ""
+        product_category   = ", ".join(treatments) if treatments else ""
         custom_label_akutt = "akutt" if is_akutt else ""
 
         if photos:
@@ -591,6 +625,7 @@ def main():
         if not data:
             continue
 
+        # Specialists og timeslots kommer nå fra timeslotmonth
         specialists = {s["id"]: s for s in data.get("specialists", [])}
         timeslots   = data.get("timeslots", [])
 
@@ -642,14 +677,14 @@ def main():
                 "clinician_name":       clinician_name,
                 "clinician_title":      clinician_title,
                 "clinician_id":         str(clinician_id),
-                "appointment_date":     f"{ukedag} {dato}",
+                "appointment_date":     dato,
                 "appointment_time":     klokkeslett,
                 "appointment_weekday":  ukedag,
                 "duration_minutes":     str(duration),
                 "time_from_iso":        slot["time_from"],
                 "clinic_name":          clinic_name,
                 "clinic_address":       clinic.get("address", ""),
-                "clinic_city":          clinic.get("city", ""),
+                "clinic_city":          scraped_city or clinic.get("city", ""),
                 "clinic_zip":           clinic.get("zip", ""),
                 "clinic_phone":         clinic.get("phone", ""),
                 "clinic_region":        region,
