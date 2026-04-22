@@ -512,12 +512,17 @@ def build_feed(items: list[dict]) -> str:
             el = ET.SubElement(listing, tag)
             el.text = str(text) if text is not None else ""
 
-        # Påkrevde felt
+        # Påkrevde Meta-felt
         add("id",                           item["id"])
         add("title",                        item["title"])
         add("description",                  item["description"])
+        add("link",                         item["url"])
         add("url",                          item["url"])
         add("availability",                 "in stock")
+        add("condition",                    "new")
+        add("brand",                        "Oris Dental")
+        add("google_product_category",      item["google_product_category"])
+        add("price",                        f"{item['price']}.00 {item['price_currency']}")
 
         # Behandler
         add("clinician_name",               item["clinician_name"])
@@ -528,6 +533,7 @@ def build_feed(items: list[dict]) -> str:
         add("appointment_date",             item["appointment_date"])
         add("appointment_time",             item["appointment_time"])
         add("appointment_weekday",          item["appointment_weekday"])
+        add("appointment_weekday_date",     item["appointment_weekday_date"])
         add("appointment_duration_minutes", item["duration_minutes"])
         add("time_from_iso",                item["time_from_iso"])
 
@@ -544,7 +550,6 @@ def build_feed(items: list[dict]) -> str:
         add("longitude",                    item["longitude"])
         add("geo_radius_value",             item["radius_value"])
         add("geo_radius_unit",              item["radius_unit"])
-        # Kombinert felt for plattformer som støtter det
         add("geo_coordinates",              f"{item['latitude']},{item['longitude']}")
 
         # Behandlinger og kategori
@@ -556,10 +561,9 @@ def build_feed(items: list[dict]) -> str:
         # Meta
         add("feed_generated_at",            generated_at)
 
-        # Bilde
-        if item.get("photo_url"):
-            photo_el = ET.SubElement(listing, "g:image_link")
-            photo_el.text = item["photo_url"]
+        # Bilde — alltid satt (fallback hvis ingen behandlerbilde)
+        photo_el = ET.SubElement(listing, "g:image_link")
+        photo_el.text = item["photo_url"]
 
     raw = ET.tostring(root, encoding="unicode")
     reparsed = minidom.parseString(f'<?xml version="1.0" encoding="UTF-8"?>{raw}')
@@ -665,40 +669,64 @@ def main():
                     photo_url = web_photo
                     break
 
+            # Fallback-bilde hvis behandler ikke har bilde
+            FALLBACK_IMAGE = "https://odnowwwproduction.blob.core.windows.net/app/uploads/240424_Oris_5125_med-logo-1.jpg"
+            image_url = photo_url if photo_url else FALLBACK_IMAGE
+
             dato, klokkeslett, ukedag = format_oslo_time(slot["time_from"])
             duration = compute_duration(slot)
 
+            # Klinikksnavn med "Oris Dental" prefix hvis det mangler
+            display_clinic_name = clinic_name
+            if not clinic_name.lower().startswith("oris dental"):
+                display_clinic_name = f"Oris Dental {clinic_name}"
+
+            # Pris — hent tallverdi fra prisliste (fallback 0)
+            price_display, price_raw = ("Se prisliste", "0")
+            try:
+                price_display, price_raw = lookup_price(clinician_title)
+            except Exception:
+                pass
+
             all_items.append({
-                "id":                   f"oris-{clinic_slug}-{clinician_id}",
-                "title":                f"Ledig time – {clinic_name} – {dato} kl. {klokkeslett}",
-                "description":          (
+                "id":                        f"oris-{clinic_slug}-{clinician_id}",
+                "title":                     f"Ledig time – {display_clinic_name} – {dato} kl. {klokkeslett}",
+                "description":               (
                     f"Book time hos {clinician_name} ({clinician_title}) "
-                    f"ved Oris Dental {clinic_name}. "
+                    f"ved {display_clinic_name}. "
                     f"Første ledige time: {dato} kl. {klokkeslett}. "
                     f"Varighet: {duration} min."
                 ),
-                "url":                  canonical_url,
-                "clinician_name":       clinician_name,
-                "clinician_title":      clinician_title,
-                "clinician_id":         str(clinician_id),
-                "appointment_date":     dato,
-                "appointment_time":     klokkeslett,
-                "appointment_weekday":  ukedag,
-                "duration_minutes":     str(duration),
-                "time_from_iso":        slot["time_from"],
-                "clinic_name":          clinic_name,
-                "clinic_address":       clinic.get("address", ""),
-                "clinic_city":          scraped_city or clinic.get("city", ""),
-                "clinic_zip":           clinic.get("zip", ""),
-                "clinic_phone":         clinic.get("phone", ""),
-                "clinic_region":        region,
-                "latitude":             str(geo["lat"]),
-                "longitude":            str(geo["lng"]),
-                "radius_value":         str(geo["radius"]),
-                "radius_unit":          geo["unit"],
-                "product_category":     product_category,
-                "custom_label_akutt":   custom_label_akutt,
-                "photo_url":            photo_url,
+                "url":                       canonical_url,
+                "link":                      canonical_url,
+                "availability":              "in stock",
+                "condition":                 "new",
+                "brand":                     "Oris Dental",
+                "google_product_category":   "Health & Beauty > Health Care",
+                "price":                     price_raw if price_raw else "0",
+                "price_currency":            "NOK",
+                "clinician_name":            clinician_name,
+                "clinician_title":           clinician_title,
+                "clinician_id":              str(clinician_id),
+                "appointment_date":          dato,
+                "appointment_time":          klokkeslett,
+                "appointment_weekday":       ukedag,
+                "appointment_weekday_date":  f"{ukedag} {dato}",
+                "duration_minutes":          str(duration),
+                "time_from_iso":             slot["time_from"],
+                "clinic_name":               display_clinic_name,
+                "clinic_address":            clinic.get("address", ""),
+                "clinic_city":               scraped_city or clinic.get("city", ""),
+                "clinic_zip":                clinic.get("zip", ""),
+                "clinic_phone":              clinic.get("phone", ""),
+                "clinic_region":             region,
+                "latitude":                  str(geo["lat"]),
+                "longitude":                 str(geo["lng"]),
+                "radius_value":              str(geo["radius"]),
+                "radius_unit":               geo["unit"],
+                "product_category":          product_category,
+                "custom_label_akutt":        custom_label_akutt,
+                "photo_url":                 image_url,
             })
 
             photo_icon = "📷" if photo_url else "  "
