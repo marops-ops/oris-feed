@@ -555,7 +555,9 @@ def build_feed(items: list[dict]) -> str:
         g("title",                    item["title"])
         g("description",              item["description"])
         g("link",                     item["url"])
-        g("image_link",               item["photo_url"])
+        from urllib.parse import quote
+        safe_image = quote(item["photo_url"], safe=":/?=&%")
+        g("image_link", safe_image)
         g("availability",             "in stock")
         g("condition",                "new")
         g("brand",                    "Oris Dental")
