@@ -351,9 +351,32 @@ def fetch_slots(session: requests.Session, opus_id: str) -> dict:
         print(f"  ⚠ Services-feil: {e}")
         return {}
 
-    # Bruk første service
-    service_id = services[0]["id"]
-    duration   = services[0].get("duration", 30)
+    # Undersøkelse-nøkkelord — vi vil kun vise behandlere som utfører tannsjekk
+    UNDERSOKELSE_KEYWORDS = [
+        "undersøkelse", "undersokelse", "ny pas", "rutine",
+        "tannsjekk", "kontroll", "new patient", "examination"
+    ]
+
+    def is_undersokelse(service_name: str) -> bool:
+        name = service_name.lower()
+        return any(kw in name for kw in UNDERSOKELSE_KEYWORDS)
+
+    # Finn undersøkelse-service — foretrekk denne over alt annet
+    selected_service = None
+    for s in services:
+        if is_undersokelse(s.get("name", "")):
+            selected_service = s
+            break
+
+    # Fallback: bruk første service hvis ingen undersøkelse finnes
+    if not selected_service:
+        selected_service = services[0]
+        print(f"  ⚠ Ingen undersøkelse-service funnet, bruker: {selected_service['name']}")
+    else:
+        print(f"  ✓ Undersøkelse-service: {selected_service['name']}")
+
+    service_id = selected_service["id"]
+    duration   = selected_service.get("duration", 40)
 
     # Steg 2: Hent timeslots via timeslotmonth for inneværende + neste måned
     all_timeslots  = []
@@ -501,75 +524,75 @@ def scrape_clinic_page(slug: str) -> dict:
 # ── XML-generering ─────────────────────────────────────────────────────────────
 
 def build_feed(items: list[dict]) -> str:
-    root = ET.Element("listings")
+    root = ET.Element("rss")
+    root.set("version", "2.0")
     root.set("xmlns:g", "http://base.google.com/ns/1.0")
+
+    channel = ET.SubElement(root, "channel")
+
+    title_el = ET.SubElement(channel, "title")
+    title_el.text = "Oris Dental – Ledige timer"
+    link_el = ET.SubElement(channel, "link")
+    link_el.text = "https://orisdental.no"
+    desc_el = ET.SubElement(channel, "description")
+    desc_el.text = "Automatisk oppdatert feed med ledige tannlegetimer hos Oris Dental"
+
     generated_at = datetime.now(OSLO_TZ).strftime("%Y-%m-%dT%H:%M:%S%z")
 
     for item in items:
-        listing = ET.SubElement(root, "listing")
+        entry = ET.SubElement(channel, "item")
 
-        def add(tag: str, text):
-            el = ET.SubElement(listing, tag)
+        def g(tag: str, text):
+            el = ET.SubElement(entry, f"g:{tag}")
             el.text = str(text) if text is not None else ""
 
-        # Påkrevde Meta-felt
-        add("id",                           item["id"])
-        add("title",                        item["title"])
-        add("description",                  item["description"])
-        add("link",                         item["url"])
-        add("url",                          item["url"])
-        add("availability",                 "in stock")
-        add("condition",                    "new")
-        add("brand",                        "Oris Dental")
-        add("google_product_category",      item["google_product_category"])
-        add("price",                        f"{item['price']}.00 {item['price_currency']}")
+        def add(tag: str, text):
+            el = ET.SubElement(entry, tag)
+            el.text = str(text) if text is not None else ""
 
-        # Behandler
-        add("clinician_name",               item["clinician_name"])
-        add("clinician_title",              item["clinician_title"])
-        add("clinician_id",                 item["clinician_id"])
+        # Påkrevde Google/Meta-felt med g: prefiks
+        g("id",                       item["id"])
+        g("title",                    item["title"])
+        g("description",              item["description"])
+        g("link",                     item["url"])
+        g("image_link",               item["photo_url"])
+        g("availability",             "in stock")
+        g("condition",                "new")
+        g("brand",                    "Oris Dental")
+        g("google_product_category",  "Health &amp; Beauty")
+        g("price",                    f"{item['price']}.00 NOK")
 
-        # Tidspunkt
+        # Custom felt uten g: prefiks
         add("appointment_date",             item["appointment_date"])
         add("appointment_time",             item["appointment_time"])
         add("appointment_weekday",          item["appointment_weekday"])
         add("appointment_weekday_date",     item["appointment_weekday_date"])
         add("appointment_duration_minutes", item["duration_minutes"])
         add("time_from_iso",                item["time_from_iso"])
-
-        # Klinikk
+        add("clinician_name",               item["clinician_name"])
+        add("clinician_title",              item["clinician_title"])
+        add("clinician_id",                 item["clinician_id"])
         add("clinic_name",                  item["clinic_name"])
         add("clinic_address",               item["clinic_address"])
         add("clinic_city",                  item["clinic_city"])
         add("clinic_zip",                   item["clinic_zip"])
         add("clinic_phone",                 item["clinic_phone"])
         add("clinic_region",                item["clinic_region"])
-
-        # Geo
         add("latitude",                     item["latitude"])
         add("longitude",                    item["longitude"])
         add("geo_radius_value",             item["radius_value"])
         add("geo_radius_unit",              item["radius_unit"])
         add("geo_coordinates",              f"{item['latitude']},{item['longitude']}")
-
-        # Behandlinger og kategori
         add("product_category",             item["product_category"])
-
-        # Custom labels
         add("custom_label_akutt",           item["custom_label_akutt"])
-
-        # Meta
         add("feed_generated_at",            generated_at)
-
-        # Bilde — alltid satt (fallback hvis ingen behandlerbilde)
-        photo_el = ET.SubElement(listing, "g:image_link")
-        photo_el.text = item["photo_url"]
 
     raw = ET.tostring(root, encoding="unicode")
     reparsed = minidom.parseString(f'<?xml version="1.0" encoding="UTF-8"?>{raw}')
     return reparsed.toprettyxml(indent="  ", encoding=None).replace(
         '<?xml version="1.0" ?>', '<?xml version="1.0" encoding="UTF-8"?>'
     )
+
 
 
 # ── Hoved-logikk ──────────────────────────────────────────────────────────────
@@ -681,12 +704,8 @@ def main():
             if not clinic_name.lower().startswith("oris dental"):
                 display_clinic_name = f"Oris Dental {clinic_name}"
 
-            # Pris — hent tallverdi fra prisliste (fallback 0)
-            price_display, price_raw = ("Se prisliste", "0")
-            try:
-                price_display, price_raw = lookup_price(clinician_title)
-            except Exception:
-                pass
+            # Pris — fast pris for tannundersøkelse
+            price_raw = "1423"
 
             all_items.append({
                 "id":                        f"oris-{clinic_slug}-{clinician_id}",
