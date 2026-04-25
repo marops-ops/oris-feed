@@ -709,7 +709,7 @@ def main():
 
             # Fallback-bilde hvis behandler ikke har bilde
             FALLBACK_IMAGE = "https://odnowwwproduction.blob.core.windows.net/app/uploads/240424_Oris_5125_med-logo-1.jpg"
-            image_url = photo_url if photo_url else FALLBACK_IMAGE
+            image_url = photo_url if (photo_url and "Avatar" not in photo_url) else FALLBACK_IMAGE
 
             dato, klokkeslett, ukedag = format_oslo_time(slot["time_from"])
             duration = compute_duration(slot)
