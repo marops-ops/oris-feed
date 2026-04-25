@@ -150,6 +150,9 @@ CLINIC_GEO = {
     "al":                             {"lat": 60.6288,  "lng": 8.5606,   "radius": 40, "unit": "km"},
 }
 
+# Global cache: behandlernavn → bilde-URL (fylles opp etter hvert som klinikker scrapes)
+PHOTO_CACHE: dict[str, str] = {}
+
 # ── Hjelpefunksjoner ───────────────────────────────────────────────────────────
 
 def normalize_name(name: str) -> str:
@@ -638,6 +641,11 @@ def main():
         scraped_city  = page_data.get("city", "")
         canonical_url = page_data.get("canonical_url", "") or f"https://orisdental.no/klinikker/{clinic_slug}"
 
+        # Legg nye navn→bilde i global cache (første match vinner)
+        for web_name, web_photo in photos.items():
+            if web_name not in PHOTO_CACHE and web_photo:
+                PHOTO_CACHE[web_name] = web_photo
+
         product_category   = ", ".join(treatments) if treatments else ""
         custom_label_akutt = "akutt" if is_akutt else ""
 
@@ -687,12 +695,17 @@ def main():
             clinician_name  = specialist.get("name", "Tilgjengelig behandler")
             clinician_title = specialist.get("profession", "Tannlege")
 
-            # Match bilde på navn
+            # Match bilde på navn — sjekk lokal først, deretter global cache
             photo_url = ""
             for web_name, web_photo in photos.items():
                 if name_match(clinician_name, web_name):
                     photo_url = web_photo
                     break
+            if not photo_url:
+                for web_name, web_photo in PHOTO_CACHE.items():
+                    if name_match(clinician_name, web_name):
+                        photo_url = web_photo
+                        break
 
             # Fallback-bilde hvis behandler ikke har bilde
             FALLBACK_IMAGE = "https://odnowwwproduction.blob.core.windows.net/app/uploads/240424_Oris_5125_med-logo-1.jpg"
