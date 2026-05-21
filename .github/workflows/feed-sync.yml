@@ -33,6 +33,6 @@ jobs:
         run: |
           git config user.name "Feed Bot"
           git config user.email "feedbot@orisdental-feed"
-          git add docs/feed.xml
+          git add docs/feed.xml docs/feed.json
           git diff --staged --quiet || git commit -m "chore: update feed $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
