@@ -163,11 +163,19 @@ def normalize_name(name: str) -> str:
 def name_match(api_name: str, web_name: str) -> bool:
     a = normalize_name(api_name)
     b = normalize_name(web_name)
+    # Fullt navn-match alltid prioritert
     if a == b:
         return True
-    a_last = a.split()[-1] if a.split() else a
-    b_last = b.split()[-1] if b.split() else b
-    return a_last == b_last and len(a_last) > 3
+    # Fornavn-match: begge fornavn må stemme i tillegg til etternavn
+    a_parts = a.split()
+    b_parts = b.split()
+    if len(a_parts) >= 2 and len(b_parts) >= 2:
+        a_first = a_parts[0]
+        b_first = b_parts[0]
+        a_last = a_parts[-1]
+        b_last = b_parts[-1]
+        return a_last == b_last and a_first == b_first and len(a_last) > 3
+    return False
 
 
 def format_oslo_time(iso_str: str) -> tuple[str, str, str]:
