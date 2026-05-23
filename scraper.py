@@ -774,7 +774,53 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(build_feed(all_items))
 
-    print(f"✓ Feed skrevet til: {OUTPUT_FILE}\n")
+    print(f"✓ XML-feed skrevet til: {OUTPUT_FILE}")
+
+    # JSON-feed
+    import json
+    json_file = os.path.join(OUTPUT_DIR, "feed.json")
+    json_feed = [
+        {
+            "id":                       item["id"],
+            "title":                    item["title"],
+            "description":              item["description"],
+            "link":                     item["url"],
+            "image_link":               item["photo_url"],
+            "availability":             "in stock",
+            "condition":                "new",
+            "brand":                    "Oris Dental",
+            "google_product_category":  "Health & Beauty",
+            "price":                    f"{item['price']}.00",
+            "price_currency":           "NOK",
+            "clinician_name":           item["clinician_name"],
+            "clinician_title":          item["clinician_title"],
+            "clinician_id":             item["clinician_id"],
+            "appointment_date":         item["appointment_date"],
+            "appointment_time":         item["appointment_time"],
+            "appointment_weekday":      item["appointment_weekday"],
+            "appointment_weekday_date": item["appointment_weekday_date"],
+            "appointment_duration_minutes": item["duration_minutes"],
+            "time_from_iso":            item["time_from_iso"],
+            "clinic_name":              item["clinic_name"],
+            "clinic_address":           item["clinic_address"],
+            "clinic_city":              item["clinic_city"],
+            "clinic_zip":               item["clinic_zip"],
+            "clinic_phone":             item["clinic_phone"],
+            "clinic_region":            item["clinic_region"],
+            "latitude":                 item["latitude"],
+            "longitude":                item["longitude"],
+            "geo_radius_value":         item["radius_value"],
+            "geo_radius_unit":          item["radius_unit"],
+            "product_category":         item["product_category"],
+            "custom_label_0":           item["clinic_city"],
+            "custom_label_1":           item["clinic_region"],
+            "custom_label_4":           item["custom_label_akutt"],
+        }
+        for item in all_items
+    ]
+    with open(json_file, "w", encoding="utf-8") as f:
+        json.dump(json_feed, f, ensure_ascii=False, indent=2)
+    print(f"✓ JSON-feed skrevet til: {json_file}\n")
 
 
 if __name__ == "__main__":
