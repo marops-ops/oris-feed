@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T12:29:08+0200",
+  "generated_at": "2026-05-23T14:06:20+0200",
   "total_items": 170,
   "items": [
     {
@@ -7,7 +7,7 @@
       "title": "Ledig time – Oris Dental Aker Brygge – 4. juni kl. 09:00",
       "description": "Book time hos Mariann Sørensen (Tannlege) ved Oris Dental Aker Brygge. Første ledige time: 4. juni kl. 09:00. Varighet: 40 min.",
       "link": "https://orisdental.no/klinikker/aker-brygge",
-      "image_link": "https://odnowwwproduction.blob.core.windows.net/app/uploads/240424_Oris_5125_med-logo-1.jpg",
+      "image_link": "https://odnowwwproduction.blob.core.windows.net/app/uploads/Mariann-Sorensen.jpg",
       "availability": "in stock",
       "condition": "new",
       "brand": "Oris Dental",
@@ -33,8 +33,8 @@
       "longitude": "10.7259",
       "geo_radius_value": "2",
       "geo_radius_unit": "km",
-      "product_category": "",
-      "custom_label_akutt": ""
+      "product_category": "Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling med laser, Bitt og tannstilling, Tannregulering, Usynlig tannregulering",
+      "custom_label_akutt": "akutt"
     },
     {
       "id": "oris-arendal-spesialistklinikk-14245",
@@ -5716,8 +5716,8 @@
     },
     {
       "id": "oris-voyenenga-7763",
-      "title": "Ledig time – Oris Dental Vøyenenga – 29. mai kl. 12:30",
-      "description": "Book time hos Ane Linnea Horn (Tannlege) ved Oris Dental Vøyenenga. Første ledige time: 29. mai kl. 12:30. Varighet: 60 min.",
+      "title": "Ledig time – Oris Dental Vøyenenga – 5. juni kl. 10:00",
+      "description": "Book time hos Ane Linnea Horn (Tannlege) ved Oris Dental Vøyenenga. Første ledige time: 5. juni kl. 10:00. Varighet: 60 min.",
       "link": "https://orisdental.no/klinikker/voyenenga",
       "image_link": "https://odnowwwproduction.blob.core.windows.net/app/uploads/Voyenenga-dentist-Ane-Linnea-Horn.jpg",
       "availability": "in stock",
@@ -5729,12 +5729,12 @@
       "clinician_name": "Ane Linnea Horn",
       "clinician_title": "Tannlege",
       "clinician_id": "7763",
-      "appointment_date": "29. mai",
-      "appointment_time": "12:30",
+      "appointment_date": "5. juni",
+      "appointment_time": "10:00",
       "appointment_weekday": "Fredag",
-      "appointment_weekday_date": "Fredag 29. mai",
+      "appointment_weekday_date": "Fredag 5. juni",
       "appointment_duration_minutes": "60",
-      "time_from_iso": "2026-05-29T10:30:00Z",
+      "time_from_iso": "2026-06-05T08:00:00Z",
       "clinic_name": "Oris Dental Vøyenenga",
       "clinic_address": "Vøyenengtunet 4",
       "clinic_city": "​1339Vøyenenga",
