@@ -467,7 +467,7 @@ def scrape_clinic_page(slug: str) -> dict:
 
         # ── Behandler-bilder ──────────────────────────────────────────────────
         for link in soup.find_all("a", href=re.compile(r"/ansatte/")):
-            name = link.get_text(strip=True)
+            name = " ".join(link.get_text(strip=True).split())
             if not name or len(name) < 3:
                 continue
             photo_url = ""
