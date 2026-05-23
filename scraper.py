@@ -163,11 +163,19 @@ def normalize_name(name: str) -> str:
 def name_match(api_name: str, web_name: str) -> bool:
     a = normalize_name(api_name)
     b = normalize_name(web_name)
+    # Fullt navn-match alltid prioritert
     if a == b:
         return True
-    a_last = a.split()[-1] if a.split() else a
-    b_last = b.split()[-1] if b.split() else b
-    return a_last == b_last and len(a_last) > 3
+    # Fornavn-match: begge fornavn må stemme i tillegg til etternavn
+    a_parts = a.split()
+    b_parts = b.split()
+    if len(a_parts) >= 2 and len(b_parts) >= 2:
+        a_first = a_parts[0]
+        b_first = b_parts[0]
+        a_last = a_parts[-1]
+        b_last = b_parts[-1]
+        return a_last == b_last and a_first == b_first and len(a_last) > 3
+    return False
 
 
 def format_oslo_time(iso_str: str) -> tuple[str, str, str]:
@@ -589,7 +597,9 @@ def build_feed(items: list[dict]) -> str:
         add("geo_radius_unit",              item["radius_unit"])
         add("geo_coordinates",              f"{item['latitude']},{item['longitude']}")
         add("product_category",             item["product_category"])
-        add("custom_label_akutt",           item["custom_label_akutt"])
+        g("custom_label_0",                 item["clinic_city"])
+        g("custom_label_1",                 item["clinic_region"])
+        g("custom_label_4",                 item["custom_label_akutt"])
         add("feed_generated_at",            generated_at)
 
     raw = ET.tostring(root, encoding="unicode")
@@ -678,9 +688,22 @@ def main():
         if clinic.get("category_slugs"):
             region = clinic["category_slugs"][0].replace("-", " ").title()
 
+        # Kun første ledige time per klinikk — kun tannleger
+        future_slots = sorted(
+            [
+                s for s in timeslots
+                if datetime.fromisoformat(s["time_from"].replace("Z", "+00:00")) > now
+                and specialists.get(s.get("clinician_id"), {}).get("profession", "").lower() == "tannlege"
+            ],
+            key=lambda s: s["time_from"]
+        )
+        if not future_slots:
+            continue
+        timeslots = [future_slots[0]]
+
         seen_clinicians = set()
 
-        for slot in sorted(timeslots, key=lambda s: s["time_from"]):
+        for slot in timeslots:
             clinician_id = slot.get("clinician_id")
             if clinician_id in seen_clinicians:
                 continue
@@ -708,7 +731,7 @@ def main():
                         break
 
             # Fallback-bilde hvis behandler ikke har bilde
-            FALLBACK_IMAGE = "https://odnowwwproduction.blob.core.windows.net/app/uploads/240424_Oris_5125_med-logo-1.jpg"
+            FALLBACK_IMAGE = "https://marops-ops.github.io/oris-feed/fallback.jpg"
             image_url = photo_url if (photo_url and "Avatar" not in photo_url) else FALLBACK_IMAGE
 
             dato, klokkeslett, ukedag = format_oslo_time(slot["time_from"])
@@ -774,7 +797,53 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(build_feed(all_items))
 
-    print(f"✓ Feed skrevet til: {OUTPUT_FILE}\n")
+    print(f"✓ XML-feed skrevet til: {OUTPUT_FILE}")
+
+    # JSON-feed
+    import json
+    json_file = os.path.join(OUTPUT_DIR, "feed.json")
+    json_feed = [
+        {
+            "id":                       item["id"],
+            "title":                    item["title"],
+            "description":              item["description"],
+            "link":                     item["url"],
+            "image_link":               item["photo_url"],
+            "availability":             "in stock",
+            "condition":                "new",
+            "brand":                    "Oris Dental",
+            "google_product_category":  "Health & Beauty",
+            "price":                    f"{item['price']}.00",
+            "price_currency":           "NOK",
+            "clinician_name":           item["clinician_name"],
+            "clinician_title":          item["clinician_title"],
+            "clinician_id":             item["clinician_id"],
+            "appointment_date":         item["appointment_date"],
+            "appointment_time":         item["appointment_time"],
+            "appointment_weekday":      item["appointment_weekday"],
+            "appointment_weekday_date": item["appointment_weekday_date"],
+            "appointment_duration_minutes": item["duration_minutes"],
+            "time_from_iso":            item["time_from_iso"],
+            "clinic_name":              item["clinic_name"],
+            "clinic_address":           item["clinic_address"],
+            "clinic_city":              item["clinic_city"],
+            "clinic_zip":               item["clinic_zip"],
+            "clinic_phone":             item["clinic_phone"],
+            "clinic_region":            item["clinic_region"],
+            "latitude":                 item["latitude"],
+            "longitude":                item["longitude"],
+            "geo_radius_value":         item["radius_value"],
+            "geo_radius_unit":          item["radius_unit"],
+            "product_category":         item["product_category"],
+            "custom_label_0":           item["clinic_city"],
+            "custom_label_1":           item["clinic_region"],
+            "custom_label_4":           item["custom_label_akutt"],
+        }
+        for item in all_items
+    ]
+    with open(json_file, "w", encoding="utf-8") as f:
+        json.dump(json_feed, f, ensure_ascii=False, indent=2)
+    print(f"✓ JSON-feed skrevet til: {json_file}\n")
 
 
 if __name__ == "__main__":
