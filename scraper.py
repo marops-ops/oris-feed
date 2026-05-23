@@ -589,7 +589,9 @@ def build_feed(items: list[dict]) -> str:
         add("geo_radius_unit",              item["radius_unit"])
         add("geo_coordinates",              f"{item['latitude']},{item['longitude']}")
         add("product_category",             item["product_category"])
-        add("custom_label_akutt",           item["custom_label_akutt"])
+        g("custom_label_0",                 item["clinic_city"])
+        g("custom_label_1",                 item["clinic_region"])
+        g("custom_label_4",                 item["custom_label_akutt"])
         add("feed_generated_at",            generated_at)
 
     raw = ET.tostring(root, encoding="unicode")
@@ -708,7 +710,7 @@ def main():
                         break
 
             # Fallback-bilde hvis behandler ikke har bilde
-            FALLBACK_IMAGE = "https://odnowwwproduction.blob.core.windows.net/app/uploads/240424_Oris_5125_med-logo-1.jpg"
+            FALLBACK_IMAGE = "https://marops-ops.github.io/oris-feed/fallback.jpg"
             image_url = photo_url if (photo_url and "Avatar" not in photo_url) else FALLBACK_IMAGE
 
             dato, klokkeslett, ukedag = format_oslo_time(slot["time_from"])
