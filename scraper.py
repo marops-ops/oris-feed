@@ -600,6 +600,8 @@ def build_feed(items: list[dict]) -> str:
         g("custom_label_0",                 item["clinic_city"])
         g("custom_label_1",                 item["clinic_region"])
         g("custom_label_4",                 item["custom_label_akutt"])
+        if item.get("daily_budget"):
+            g("daily_budget",               item["daily_budget"])
         add("feed_generated_at",            generated_at)
 
     raw = ET.tostring(root, encoding="unicode")
@@ -617,6 +619,22 @@ def main():
     print("  Oris Dental – Feed Generator")
     print(f"  {datetime.now(OSLO_TZ).strftime('%d.%m.%Y %H:%M')}")
     print("="*60 + "\n")
+
+    # Hent dagsbudsjett fra Google Sheet
+    import csv, io
+    BUDGET_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQLUA19wFC-k8Gg-cyn7DcwuA9xFopbUmSrEAh8tXWJ7LX010dnJtStAAHjtyKJovHJRM8n97m8sssF/pub?output=csv"
+    budget_map = {}
+    try:
+        r = requests.get(BUDGET_URL, timeout=10)
+        reader = csv.DictReader(io.StringIO(r.text))
+        for row in reader:
+            gid = row.get("g:id", "").strip()
+            budget = row.get("daily_budget", "").strip()
+            if gid and budget:
+                budget_map[gid] = budget
+        print(f"✓ Dagsbudsjett hentet for {len(budget_map)} klinikker")
+    except Exception as e:
+        print(f"⚠ Kunne ikke hente budsjett: {e}")
 
     token   = get_bearer_token()
     session = build_session(token)
@@ -783,6 +801,7 @@ def main():
                 "radius_unit":               geo["unit"],
                 "product_category":          product_category,
                 "custom_label_akutt":        custom_label_akutt,
+                "daily_budget":              budget_map.get(f"oris-{clinic_slug}-{clinician_id}", ""),
                 "photo_url":                 image_url,
             })
 
@@ -838,6 +857,7 @@ def main():
             "custom_label_0":           item["clinic_city"],
             "custom_label_1":           item["clinic_region"],
             "custom_label_4":           item["custom_label_akutt"],
+            "daily_budget":             item.get("daily_budget", ""),
         }
         for item in all_items
     ]
