@@ -154,7 +154,7 @@ SLUG_OVERRIDES = {
     "arendal-spesialistklinikk":            "https://orisdental.no/klinikker/arendal",
     "gronnegata-tannlegesenter":            "https://orisdental.no/klinikker/gronnegata",
     "lykkegarden-tidligere-trondheim-torg": "https://orisdental.no/klinikker/lykkegaarden",
-    "strandgaten":                          "https://orisdental.no/klinikker/broegelmannhuset",
+    "strandgaten":                          "https://orisdental.no/klinikker/tannlege-i-bergen-sentrum",
     "godtanna-gol":                         "https://orisdental.no/klinikker/godtannagol",
     "maloy":                                "https://orisdental.no/klinikker/maaloy",
     "naerbo":                               "https://orisdental.no/klinikker/narbo",
