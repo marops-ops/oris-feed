@@ -5,25 +5,25 @@
     <link>https://orisdental.no</link>
     <description>Automatisk oppdatert feed med ledige tannlegetimer hos Oris Dental</description>
     <item>
-      <g:id>oris-aker-brygge-1146</g:id>
-      <g:title>Ledig time – Oris Dental Aker Brygge – 18. juni kl. 14:40</g:title>
-      <g:description>Book time hos Kristian Lunde (Tannlege) ved Oris Dental Aker Brygge. Første ledige time: 18. juni kl. 14:40. Varighet: 50 min.</g:description>
+      <g:id>oris-aker-brygge-1216</g:id>
+      <g:title>Ledig time – Oris Dental Aker Brygge – 29. juni kl. 09:00</g:title>
+      <g:description>Book time hos Mariann Sørensen (Tannlege) ved Oris Dental Aker Brygge. Første ledige time: 29. juni kl. 09:00. Varighet: 50 min.</g:description>
       <g:link>https://orisdental.no/klinikker/aker-brygge</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Kristian-Lunde-dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mariann-Sorensen.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>18. juni</appointment_date>
-      <appointment_time>14:40</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 18. juni</appointment_weekday_date>
+      <appointment_date>29. juni</appointment_date>
+      <appointment_time>09:00</appointment_time>
+      <appointment_weekday>Mandag</appointment_weekday>
+      <appointment_weekday_date>Mandag 29. juni</appointment_weekday_date>
       <appointment_duration_minutes>50</appointment_duration_minutes>
-      <time_from_iso>2026-06-18T12:40:00Z</time_from_iso>
-      <clinician_name>Kristian Lunde</clinician_name>
+      <time_from_iso>2026-06-29T07:00:00Z</time_from_iso>
+      <clinician_name>Mariann Sørensen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>1146</clinician_id>
+      <clinician_id>1216</clinician_id>
       <clinic_name>Oris Dental Aker Brygge</clinic_name>
       <clinic_address>Grundingen 6</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -32,14 +32,14 @@
       <clinic_region>Oslo</clinic_region>
       <latitude>59.9103</latitude>
       <longitude>10.7259</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.9103,10.7259</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling med laser, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-arendal-spesialistklinikk-14245</g:id>
@@ -69,7 +69,7 @@
       <clinic_region>Agder</clinic_region>
       <latitude>58.4612</latitude>
       <longitude>8.7663</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.4612,8.7663</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
@@ -77,7 +77,7 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-arken-asane-39483</g:id>
@@ -107,19 +107,19 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>60.4654</latitude>
       <longitude>5.3235</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.4654,5.3235</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>UIset</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bodo-44284</g:id>
-      <g:title>Ledig time – Oris Dental Bodø – 22. juni kl. 13:00</g:title>
-      <g:description>Book time hos Marius Moldovanu (Tannlege) ved Oris Dental Bodø. Første ledige time: 22. juni kl. 13:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Bodø – 23. juni kl. 15:45</g:title>
+      <g:description>Book time hos Marius Moldovanu (Tannlege) ved Oris Dental Bodø. Første ledige time: 23. juni kl. 15:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/bodo</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Marius-Moldovanu-tannlege-marius.maldovanu%40orisdental.no_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -127,12 +127,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>22. juni</appointment_date>
-      <appointment_time>13:00</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 22. juni</appointment_weekday_date>
+      <appointment_date>23. juni</appointment_date>
+      <appointment_time>15:45</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 23. juni</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-06-22T11:00:00Z</time_from_iso>
+      <time_from_iso>2026-06-23T13:45:00Z</time_from_iso>
       <clinician_name>Marius Moldovanu</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>44284</clinician_id>
@@ -144,7 +144,7 @@
       <clinic_region>Nordland</clinic_region>
       <latitude>67.2831</latitude>
       <longitude>14.3795</longitude>
-      <geo_radius_value>50</geo_radius_value>
+      <geo_radius_value>50000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>67.2831,14.3795</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -152,28 +152,28 @@
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>103 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-broegelmannhuset-37055</g:id>
-      <g:title>Ledig time – Oris Dental Broegelmannhuset – 18. juni kl. 14:45</g:title>
-      <g:description>Book time hos Marianne Fleten (Tannlege) ved Oris Dental Broegelmannhuset. Første ledige time: 18. juni kl. 14:45. Varighet: 30 min.</g:description>
+      <g:id>oris-broegelmannhuset-15275</g:id>
+      <g:title>Ledig time – Oris Dental Broegelmannhuset – 18. juni kl. 17:45</g:title>
+      <g:description>Book time hos Arne Lund (Tannlege) ved Oris Dental Broegelmannhuset. Første ledige time: 18. juni kl. 17:45. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/broegelmannhuset</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Marianne-Fleten-Tannlege-Broegelmannshuset.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-Arne-Lund-arne.lund%40orisdental.no-Tannlege-12-the-last-one-was-blurry.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>18. juni</appointment_date>
-      <appointment_time>14:45</appointment_time>
+      <appointment_time>17:45</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 18. juni</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-06-18T12:45:00Z</time_from_iso>
-      <clinician_name>Marianne Fleten</clinician_name>
+      <time_from_iso>2026-06-18T15:45:00Z</time_from_iso>
+      <clinician_name>Arne Lund</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>37055</clinician_id>
+      <clinician_id>15275</clinician_id>
       <clinic_name>Oris Dental Broegelmannhuset</clinic_name>
       <clinic_address>Strandgaten 5</clinic_address>
       <clinic_city>Bergen</clinic_city>
@@ -182,14 +182,15 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>60.3938</latitude>
       <longitude>5.3236</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.3938,5.3236</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <g:daily_budget>138 kr</g:daily_budget>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-brosundet-13454</g:id>
@@ -219,7 +220,7 @@
       <clinic_region>Alesund</clinic_region>
       <latitude>62.4722</latitude>
       <longitude>6.1528</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>62.4722,6.1528</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -227,7 +228,7 @@
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bryn-29393</g:id>
@@ -257,7 +258,7 @@
       <clinic_region>Oslo</clinic_region>
       <latitude>59.907</latitude>
       <longitude>10.822</longitude>
-      <geo_radius_value>4</geo_radius_value>
+      <geo_radius_value>4000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.907,10.822</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
@@ -265,7 +266,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>158 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-44210</g:id>
@@ -295,7 +296,7 @@
       <clinic_region>Buskerud</clinic_region>
       <latitude>59.7451</latitude>
       <longitude>10.2062</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.7451,10.2062</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -303,7 +304,7 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-avd-landfalloya-10198</g:id>
@@ -333,7 +334,7 @@
       <clinic_region>Buskerud</clinic_region>
       <latitude>59.7533</latitude>
       <longitude>10.18</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.7533,10.18</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -341,7 +342,7 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-egersund-11936</g:id>
@@ -371,14 +372,14 @@
       <clinic_region>Egersund</clinic_region>
       <latitude>58.4526</latitude>
       <longitude>6.0028</longitude>
-      <geo_radius_value>30</geo_radius_value>
+      <geo_radius_value>30000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.4526,6.0028</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon</product_category>
       <g:custom_label_0>Egersund</g:custom_label_0>
       <g:custom_label_1>Egersund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-eikas-8899</g:id>
@@ -408,7 +409,7 @@
       <clinic_region>Nord Vest</clinic_region>
       <latitude>61.9056</latitude>
       <longitude>5.9902</longitude>
-      <geo_radius_value>40</geo_radius_value>
+      <geo_radius_value>40000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>61.9056,5.9902</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Tannbehandling med laser, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -416,7 +417,7 @@
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-fredrikstad-16007</g:id>
@@ -446,7 +447,7 @@
       <clinic_region>Ostfold</clinic_region>
       <latitude>59.21</latitude>
       <longitude>10.93</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.21,10.93</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
@@ -454,7 +455,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-galleri-oslo-74625</g:id>
@@ -484,35 +485,35 @@
       <clinic_region>Oslo</clinic_region>
       <latitude>59.911</latitude>
       <longitude>10.758</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.911,10.758</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-gressvik-889</g:id>
-      <g:title>Ledig time – Oris Dental Gressvik – 18. juni kl. 15:15</g:title>
-      <g:description>Book time hos Tien Thao Nguyen (Tannlege) ved Oris Dental Gressvik. Første ledige time: 18. juni kl. 15:15. Varighet: 45 min.</g:description>
+      <g:id>oris-gressvik-469</g:id>
+      <g:title>Ledig time – Oris Dental Gressvik – 19. juni kl. 14:30</g:title>
+      <g:description>Book time hos Egil Jakobsen (Tannlege) ved Oris Dental Gressvik. Første ledige time: 19. juni kl. 14:30. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/gressvik</g:link>
-      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Egil-Jakobsen-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>18. juni</appointment_date>
-      <appointment_time>15:15</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 18. juni</appointment_weekday_date>
+      <appointment_date>19. juni</appointment_date>
+      <appointment_time>14:30</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 19. juni</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-06-18T13:15:00Z</time_from_iso>
-      <clinician_name>Tien Thao Nguyen</clinician_name>
+      <time_from_iso>2026-06-19T12:30:00Z</time_from_iso>
+      <clinician_name>Egil Jakobsen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>889</clinician_id>
+      <clinician_id>469</clinician_id>
       <clinic_name>Oris Dental Gressvik</clinic_name>
       <clinic_address>Gressvik Torg 36</clinic_address>
       <clinic_city>Gressvik</clinic_city>
@@ -521,15 +522,14 @@
       <clinic_region>Ostfold</clinic_region>
       <latitude>59.225</latitude>
       <longitude>10.89</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.225,10.89</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Gressvik</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <g:daily_budget>30 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-gronnegata-tannlegesenter-37674</g:id>
@@ -559,7 +559,7 @@
       <clinic_region>Troms</clinic_region>
       <latitude>69.6517</latitude>
       <longitude>18.9587</longitude>
-      <geo_radius_value>30</geo_radius_value>
+      <geo_radius_value>30000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>69.6517,18.9587</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
@@ -567,7 +567,7 @@
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>148 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hamar-43852</g:id>
@@ -599,7 +599,7 @@
       <clinic_region>Innlandet</clinic_region>
       <latitude>60.7952</latitude>
       <longitude>11.0694</longitude>
-      <geo_radius_value>20</geo_radius_value>
+      <geo_radius_value>20000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.7952,11.0694</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
@@ -607,7 +607,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>63 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-harstad-torv-15179</g:id>
@@ -637,7 +637,7 @@
       <clinic_region>Troms</clinic_region>
       <latitude>68.8005</latitude>
       <longitude>16.5413</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>68.8005,16.5413</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -645,7 +645,7 @@
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>47 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-haugesund-5224</g:id>
@@ -675,7 +675,7 @@
       <clinic_region>Haugesund</clinic_region>
       <latitude>59.4079</latitude>
       <longitude>5.2753</longitude>
-      <geo_radius_value>20</geo_radius_value>
+      <geo_radius_value>20000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.4079,5.2753</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Rotfylling, Trekke tann, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
@@ -683,7 +683,7 @@
       <g:custom_label_1>Haugesund</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>73 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hinna-park-142371</g:id>
@@ -713,7 +713,7 @@
       <clinic_region>Stavanger</clinic_region>
       <latitude>58.916</latitude>
       <longitude>5.736</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.916,5.736</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
@@ -721,7 +721,7 @@
       <g:custom_label_1>Stavanger</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>79 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-homansbyen-55997</g:id>
@@ -751,7 +751,7 @@
       <clinic_region>Oslo</clinic_region>
       <latitude>59.923</latitude>
       <longitude>10.728</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.923,10.728</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -759,7 +759,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hvalertannlegene-2171</g:id>
@@ -789,19 +789,19 @@
       <clinic_region>Ostfold</clinic_region>
       <latitude>59.1023</latitude>
       <longitude>10.9105</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.1023,10.9105</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Gebiss (tannprotese), Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Vesterøy</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-knapstad-2328</g:id>
-      <g:title>Ledig time – Oris Dental Knapstad – 22. juni kl. 10:30</g:title>
-      <g:description>Book time hos Dalia Shwan (Tannlege) ved Oris Dental Knapstad. Første ledige time: 22. juni kl. 10:30. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Knapstad – 22. juni kl. 10:00</g:title>
+      <g:description>Book time hos Dalia Shwan (Tannlege) ved Oris Dental Knapstad. Første ledige time: 22. juni kl. 10:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/knapstad</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Dalia-Shwan_Tannlege_Knapstad.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -810,11 +810,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>22. juni</appointment_date>
-      <appointment_time>10:30</appointment_time>
+      <appointment_time>10:00</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 22. juni</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-06-22T08:30:00Z</time_from_iso>
+      <time_from_iso>2026-06-22T08:00:00Z</time_from_iso>
       <clinician_name>Dalia Shwan</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>2328</clinician_id>
@@ -826,7 +826,7 @@
       <clinic_region>Ostfold</clinic_region>
       <latitude>59.6179</latitude>
       <longitude>11.0425</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.6179,11.0425</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne</product_category>
@@ -834,7 +834,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-kolsas-469</g:id>
@@ -864,14 +864,14 @@
       <clinic_region>Akershus</clinic_region>
       <latitude>59.916</latitude>
       <longitude>10.518</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.916,10.518</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens</product_category>
       <g:custom_label_0>Kolsås</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-kristiansand-11563</g:id>
@@ -901,14 +901,14 @@
       <clinic_region>Agder</clinic_region>
       <latitude>58.1461</latitude>
       <longitude>7.9961</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.1461,7.9961</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Kristiansand S</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-leutenhaven-19296</g:id>
@@ -938,14 +938,14 @@
       <clinic_region>Trondelag</clinic_region>
       <latitude>63.43</latitude>
       <longitude>10.39</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.43,10.39</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lillehammer-20366</g:id>
@@ -975,14 +975,14 @@
       <clinic_region>Innlandet</clinic_region>
       <latitude>61.115</latitude>
       <longitude>10.4672</longitude>
-      <geo_radius_value>30</geo_radius_value>
+      <geo_radius_value>30000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>61.115,10.4672</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Lillehammer</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lokketangen-19538</g:id>
@@ -1012,7 +1012,7 @@
       <clinic_region>Akershus</clinic_region>
       <latitude>59.892</latitude>
       <longitude>10.525</longitude>
-      <geo_radius_value>3</geo_radius_value>
+      <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.892,10.525</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -1020,7 +1020,7 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lokkeveien-137712</g:id>
@@ -1050,19 +1050,19 @@
       <clinic_region>Sor Vest</clinic_region>
       <latitude>58.9696</latitude>
       <longitude>5.7289</longitude>
-      <geo_radius_value>3</geo_radius_value>
+      <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.9696,5.7289</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lykkegarden-tidligere-trondheim-torg-35156</g:id>
-      <g:title>Ledig time – Oris Dental Lykkegården (Tidligere Trondheim Torg) – 18. juni kl. 14:20</g:title>
-      <g:description>Book time hos Anette Svenson (Tannlege) ved Oris Dental Lykkegården (Tidligere Trondheim Torg). Første ledige time: 18. juni kl. 14:20. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Lykkegården (Tidligere Trondheim Torg) – 18. juni kl. 15:00</g:title>
+      <g:description>Book time hos Anette Svenson (Tannlege) ved Oris Dental Lykkegården (Tidligere Trondheim Torg). Første ledige time: 18. juni kl. 15:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lykkegaarden</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Anette-Svenson-tannlege_size_down.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1071,11 +1071,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>18. juni</appointment_date>
-      <appointment_time>14:20</appointment_time>
+      <appointment_time>15:00</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 18. juni</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-06-18T12:20:00Z</time_from_iso>
+      <time_from_iso>2026-06-18T13:00:00Z</time_from_iso>
       <clinician_name>Anette Svenson</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>35156</clinician_id>
@@ -1087,14 +1087,14 @@
       <clinic_region>Trondelag</clinic_region>
       <latitude>63.431</latitude>
       <longitude>10.395</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.431,10.395</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lysaker-504</g:id>
@@ -1124,7 +1124,7 @@
       <clinic_region>Akershus</clinic_region>
       <latitude>59.913</latitude>
       <longitude>10.6409</longitude>
-      <geo_radius_value>3</geo_radius_value>
+      <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.913,10.6409</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
@@ -1132,28 +1132,28 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>79 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-madla-145530</g:id>
-      <g:title>Ledig time – Oris Dental Madla – 19. juni kl. 09:30</g:title>
-      <g:description>Book time hos Victoria Read-Vänskä (Tannlege) ved Oris Dental Madla. Første ledige time: 19. juni kl. 09:30. Varighet: 30 min.</g:description>
+      <g:id>oris-madla-128394</g:id>
+      <g:title>Ledig time – Oris Dental Madla – 25. juni kl. 09:00</g:title>
+      <g:description>Book time hos Evelina Brukiene (Tannlege) ved Oris Dental Madla. Første ledige time: 25. juni kl. 09:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/madla</g:link>
-      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Evelina-Brukiene-tannlegeevelina.brukiene%40orisdental.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>19. juni</appointment_date>
-      <appointment_time>09:30</appointment_time>
-      <appointment_weekday>Fredag</appointment_weekday>
-      <appointment_weekday_date>Fredag 19. juni</appointment_weekday_date>
+      <appointment_date>25. juni</appointment_date>
+      <appointment_time>09:00</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 25. juni</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-06-19T07:30:00Z</time_from_iso>
-      <clinician_name>Victoria Read-Vänskä</clinician_name>
+      <time_from_iso>2026-06-25T07:00:00Z</time_from_iso>
+      <clinician_name>Evelina Brukiene</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>145530</clinician_id>
+      <clinician_id>128394</clinician_id>
       <clinic_name>Oris Dental Madla</clinic_name>
       <clinic_address>Madlagården, Madlamarkveien 2A</clinic_address>
       <clinic_city>Hafrsfjord</clinic_city>
@@ -1162,15 +1162,14 @@
       <clinic_region>Sor Vest</clinic_region>
       <latitude>58.955</latitude>
       <longitude>5.69</longitude>
-      <geo_radius_value>4</geo_radius_value>
+      <geo_radius_value>4000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.955,5.69</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Hafrsfjord</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-maloy-4433</g:id>
@@ -1200,7 +1199,7 @@
       <clinic_region>Nord Vest</clinic_region>
       <latitude>61.9347</latitude>
       <longitude>5.1141</longitude>
-      <geo_radius_value>40</geo_radius_value>
+      <geo_radius_value>40000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>61.9347,5.1141</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannkrone, Tannbro, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Gebiss (tannprotese)</product_category>
@@ -1208,7 +1207,7 @@
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-mo-i-rana-5491</g:id>
@@ -1238,14 +1237,14 @@
       <clinic_region>Nordland</clinic_region>
       <latitude>66.3134</latitude>
       <longitude>14.1432</longitude>
-      <geo_radius_value>50</geo_radius_value>
+      <geo_radius_value>50000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>66.3134,14.1432</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Mo i Rana</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moa-469</g:id>
@@ -1275,7 +1274,7 @@
       <clinic_region>Alesund</clinic_region>
       <latitude>62.47</latitude>
       <longitude>6.33</longitude>
-      <geo_radius_value>10</geo_radius_value>
+      <geo_radius_value>10000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>62.47,6.33</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
@@ -1283,7 +1282,7 @@
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>99 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moelv-14505</g:id>
@@ -1313,7 +1312,7 @@
       <clinic_region>Innlandet</clinic_region>
       <latitude>60.9328</latitude>
       <longitude>10.6974</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.9328,10.6974</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne</product_category>
@@ -1321,7 +1320,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moss-spesialistklinikk-28759</g:id>
@@ -1351,7 +1350,7 @@
       <clinic_region>Ostfold</clinic_region>
       <latitude>59.4344</latitude>
       <longitude>10.6582</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.4344,10.6582</geo_coordinates>
       <product_category>Generell tannlegebehandling, Min tannhelsestatus</product_category>
@@ -1359,7 +1358,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>69 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-narvik-13771</g:id>
@@ -1389,7 +1388,7 @@
       <clinic_region>Nordland</clinic_region>
       <latitude>68.4388</latitude>
       <longitude>17.4278</longitude>
-      <geo_radius_value>40</geo_radius_value>
+      <geo_radius_value>40000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>68.4388,17.4278</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Tannbehandling med laser, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -1397,7 +1396,7 @@
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>42 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-nesttun-26141</g:id>
@@ -1427,14 +1426,14 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>60.317</latitude>
       <longitude>5.35</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.317,5.35</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Nesttun</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-orkanger-5499</g:id>
@@ -1464,14 +1463,14 @@
       <clinic_region>Trondelag</clinic_region>
       <latitude>63.3039</latitude>
       <longitude>9.8519</longitude>
-      <geo_radius_value>20</geo_radius_value>
+      <geo_radius_value>20000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.3039,9.8519</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Orkanger</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-oyrane-torg-8089</g:id>
@@ -1501,14 +1500,14 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>60.42</latitude>
       <longitude>5.465</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.42,5.465</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Gebiss (tannprotese), Tannbehandling i narkose eller sedasjon</product_category>
       <g:custom_label_0>Indre Arna</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-raufoss-16755</g:id>
@@ -1538,14 +1537,14 @@
       <clinic_region>Innlandet</clinic_region>
       <latitude>60.7267</latitude>
       <longitude>10.6033</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.7267,10.6033</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Raufoss</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-rommen-7015</g:id>
@@ -1575,35 +1574,35 @@
       <clinic_region>Oslo</clinic_region>
       <latitude>59.96</latitude>
       <longitude>10.905</longitude>
-      <geo_radius_value>4</geo_radius_value>
+      <geo_radius_value>4000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.96,10.905</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-ryen-11888</g:id>
-      <g:title>Ledig time – Oris Dental Ryen – 18. juni kl. 14:35</g:title>
-      <g:description>Book time hos Sarwat Malik (Tannlege) ved Oris Dental Ryen. Første ledige time: 18. juni kl. 14:35. Varighet: 40 min.</g:description>
+      <g:id>oris-ryen-469</g:id>
+      <g:title>Ledig time – Oris Dental Ryen – 19. juni kl. 08:30</g:title>
+      <g:description>Book time hos Ole Kristian Aas (Tannlege) ved Oris Dental Ryen. Første ledige time: 19. juni kl. 08:30. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/ryen</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Sarwat-Malik-dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ole-Kristian-Aas-Tannlege-Ryen%40orisdental-4.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>18. juni</appointment_date>
-      <appointment_time>14:35</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 18. juni</appointment_weekday_date>
+      <appointment_date>19. juni</appointment_date>
+      <appointment_time>08:30</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 19. juni</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-06-18T12:35:00Z</time_from_iso>
-      <clinician_name>Sarwat Malik</clinician_name>
+      <time_from_iso>2026-06-19T06:30:00Z</time_from_iso>
+      <clinician_name>Ole Kristian Aas</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>11888</clinician_id>
+      <clinician_id>469</clinician_id>
       <clinic_name>Oris Dental Ryen</clinic_name>
       <clinic_address>Ryensvingen 5</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -1612,14 +1611,14 @@
       <clinic_region>Oslo</clinic_region>
       <latitude>59.896</latitude>
       <longitude>10.805</longitude>
-      <geo_radius_value>3</geo_radius_value>
+      <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.896,10.805</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sanden-24404</g:id>
@@ -1649,14 +1648,14 @@
       <clinic_region>Trondelag</clinic_region>
       <latitude>63.43</latitude>
       <longitude>10.385</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.43,10.385</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sandnes-9533</g:id>
@@ -1686,35 +1685,35 @@
       <clinic_region>Sor Vest</clinic_region>
       <latitude>58.8514</latitude>
       <longitude>5.7368</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.8514,5.7368</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Sandnes</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-sarpsborg-7315</g:id>
-      <g:title>Ledig time – Oris Dental Sarpsborg – 18. juni kl. 14:30</g:title>
-      <g:description>Book time hos Anne-Sophie Indrevær (Tannlege) ved Oris Dental Sarpsborg. Første ledige time: 18. juni kl. 14:30. Varighet: 30 min.</g:description>
+      <g:id>oris-sarpsborg-7314</g:id>
+      <g:title>Ledig time – Oris Dental Sarpsborg – 18. juni kl. 15:10</g:title>
+      <g:description>Book time hos Tore Indrevær (Tannlege) ved Oris Dental Sarpsborg. Første ledige time: 18. juni kl. 15:10. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sarpsborg</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-Anne-Sophie-Indrevaer-%E2%80%93-tannlege-6.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tore-Indrevaer-tannlege-5.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>18. juni</appointment_date>
-      <appointment_time>14:30</appointment_time>
+      <appointment_time>15:10</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 18. juni</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-06-18T12:30:00Z</time_from_iso>
-      <clinician_name>Anne-Sophie Indrevær</clinician_name>
+      <time_from_iso>2026-06-18T13:10:00Z</time_from_iso>
+      <clinician_name>Tore Indrevær</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7315</clinician_id>
+      <clinician_id>7314</clinician_id>
       <clinic_name>Oris Dental Sarpsborg</clinic_name>
       <clinic_address>Kirkegata 63</clinic_address>
       <clinic_city>Sarpsborg</clinic_city>
@@ -1723,14 +1722,14 @@
       <clinic_region>Ostfold</clinic_region>
       <latitude>59.284</latitude>
       <longitude>11.1091</longitude>
-      <geo_radius_value>8</geo_radius_value>
+      <geo_radius_value>8000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.284,11.1091</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Sarpsborg</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sirkus-shopping-13722</g:id>
@@ -1760,14 +1759,14 @@
       <clinic_region>Trondelag</clinic_region>
       <latitude>63.435</latitude>
       <longitude>10.45</longitude>
-      <geo_radius_value>3</geo_radius_value>
+      <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.435,10.45</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-skoyen-11995</g:id>
@@ -1797,7 +1796,7 @@
       <clinic_region>Oslo</clinic_region>
       <latitude>59.921</latitude>
       <longitude>10.68</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.921,10.68</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannpleie, Trekke tann, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannbleking hos tannlege, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -1805,7 +1804,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-slemmestad-8316</g:id>
@@ -1835,14 +1834,14 @@
       <clinic_region>Akershus</clinic_region>
       <latitude>59.7821</latitude>
       <longitude>10.4939</longitude>
-      <geo_radius_value>10</geo_radius_value>
+      <geo_radius_value>10000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.7821,10.4939</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Slemmestad</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sogne-18136</g:id>
@@ -1872,14 +1871,14 @@
       <clinic_region>Agder</clinic_region>
       <latitude>58.0932</latitude>
       <longitude>7.7834</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.0932,7.7834</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Tannimplantat, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Søgne</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stoa-i-arendal-5720</g:id>
@@ -1909,14 +1908,14 @@
       <clinic_region>Agder</clinic_region>
       <latitude>58.46</latitude>
       <longitude>8.7</longitude>
-      <geo_radius_value>10</geo_radius_value>
+      <geo_radius_value>10000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.46,8.7</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Arendal</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stokmarknes-7672</g:id>
@@ -1946,14 +1945,14 @@
       <clinic_region>Nordland</clinic_region>
       <latitude>68.5653</latitude>
       <longitude>14.9126</longitude>
-      <geo_radius_value>30</geo_radius_value>
+      <geo_radius_value>30000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>68.5653,14.9126</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Stokmarknes</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stord-leirvik-22552</g:id>
@@ -1983,7 +1982,7 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>59.78</latitude>
       <longitude>5.5</longitude>
-      <geo_radius_value>10</geo_radius_value>
+      <geo_radius_value>10000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.78,5.5</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -1991,7 +1990,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>36 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-strandgaten-23013</g:id>
@@ -2021,14 +2020,14 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>60.394</latitude>
       <longitude>5.324</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.394,5.324</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tannteam-spesialistklinikk-9728</g:id>
@@ -2058,7 +2057,7 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>60.317</latitude>
       <longitude>5.352</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.317,5.352</geo_coordinates>
       <product_category>Generell tannlegebehandling, Min tannhelsestatus, Bitt og tannstilling, Usynlig tannregulering</product_category>
@@ -2066,7 +2065,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tarnplassen-7488</g:id>
@@ -2096,14 +2095,14 @@
       <clinic_region>Vestland</clinic_region>
       <latitude>60.392</latitude>
       <longitude>5.323</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.392,5.323</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese)</product_category>
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tonsberg-38122</g:id>
@@ -2133,14 +2132,14 @@
       <clinic_region>Vestfold</clinic_region>
       <latitude>59.2678</latitude>
       <longitude>10.4072</longitude>
-      <geo_radius_value>15</geo_radius_value>
+      <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.2678,10.4072</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Tønsberg</g:custom_label_0>
       <g:custom_label_1>Vestfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-vagsbygd-7003</g:id>
@@ -2170,35 +2169,35 @@
       <clinic_region>Agder</clinic_region>
       <latitude>58.12</latitude>
       <longitude>7.96</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.12,7.96</geo_coordinates>
       <product_category>Generell tannlegebehandling, Min tannhelsestatus</product_category>
       <g:custom_label_0>Kristiansand</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-voyenenga-7763</g:id>
-      <g:title>Ledig time – Oris Dental Vøyenenga – 19. juni kl. 08:15</g:title>
-      <g:description>Book time hos Ane Linnea Horn (Tannlege) ved Oris Dental Vøyenenga. Første ledige time: 19. juni kl. 08:15. Varighet: 60 min.</g:description>
+      <g:id>oris-voyenenga-9962</g:id>
+      <g:title>Ledig time – Oris Dental Vøyenenga – 19. juni kl. 10:30</g:title>
+      <g:description>Book time hos Emily Briksdal (Tannlege) ved Oris Dental Vøyenenga. Første ledige time: 19. juni kl. 10:30. Varighet: 60 min.</g:description>
       <g:link>https://orisdental.no/klinikker/voyenenga</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Voyenenga-dentist-Ane-Linnea-Horn.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Navn-Emily-Briksdal_-dentist_-vaeyenenga_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>19. juni</appointment_date>
-      <appointment_time>08:15</appointment_time>
+      <appointment_time>10:30</appointment_time>
       <appointment_weekday>Fredag</appointment_weekday>
       <appointment_weekday_date>Fredag 19. juni</appointment_weekday_date>
       <appointment_duration_minutes>60</appointment_duration_minutes>
-      <time_from_iso>2026-06-19T06:15:00Z</time_from_iso>
-      <clinician_name>Ane Linnea Horn</clinician_name>
+      <time_from_iso>2026-06-19T08:30:00Z</time_from_iso>
+      <clinician_name>Emily Briksdal</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7763</clinician_id>
+      <clinician_id>9962</clinician_id>
       <clinic_name>Oris Dental Vøyenenga</clinic_name>
       <clinic_address>Vøyenengtunet 4</clinic_address>
       <clinic_city>​1339Vøyenenga</clinic_city>
@@ -2207,14 +2206,14 @@
       <clinic_region>Akershus</clinic_region>
       <latitude>59.9079</latitude>
       <longitude>10.4851</longitude>
-      <geo_radius_value>5</geo_radius_value>
+      <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.9079,10.4851</geo_coordinates>
       <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannfylling, Trekke tann, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Gebiss (tannprotese)</product_category>
       <g:custom_label_0>​1339Vøyenenga</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-06-18T14:24:18+0200</feed_generated_at>
+      <feed_generated_at>2026-06-18T14:53:38+0200</feed_generated_at>
     </item>
   </channel>
 </rss>
