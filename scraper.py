@@ -152,6 +152,13 @@ CLINIC_GEO = {
 # Global cache: behandlernavn → bilde-URL (fylles opp etter hvert som klinikker scrapes)
 PHOTO_CACHE: dict[str, str] = {}
 
+# Manuell overstyring av klinikk-URL for sider som gir 403 fra Actions
+SLUG_OVERRIDES = {
+    "arendal-spesialistklinikk": "https://orisdental.no/klinikker/arendal",
+    "gronnegata-tannlegesenter":  "https://orisdental.no/klinikker/gronnegata",
+    "lykkegarden-tidligere-trondheim-torg": "https://orisdental.no/klinikker/lykkegaarden",
+}
+
 # ── Hjelpefunksjoner ───────────────────────────────────────────────────────────
 
 def normalize_name(name: str) -> str:
@@ -666,7 +673,7 @@ def main():
         treatments    = page_data["treatments"]
         is_akutt      = page_data["is_akutt"]
         scraped_city  = page_data.get("city", "")
-        canonical_url = page_data.get("canonical_url", "") or f"https://orisdental.no/klinikker/{clinic_slug}"
+        canonical_url = SLUG_OVERRIDES.get(clinic_slug) or page_data.get("canonical_url", "") or f"https://orisdental.no/klinikker/{clinic_slug}"
 
         # Legg nye navn→bilde i global cache (første match vinner)
         for web_name, web_photo in photos.items():
