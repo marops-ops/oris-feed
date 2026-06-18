@@ -664,7 +664,9 @@ def main():
             continue
 
         # Scrape klinikk-siden (bilder + behandlinger + akutt)
-        page_data = scrape_clinic_page(clinic_slug)
+        # Bruk override-slug hvis klinikken har feil URL fra API
+        scrape_slug = SLUG_OVERRIDES.get(clinic_slug, "").replace("https://orisdental.no/klinikker/", "") or clinic_slug
+        page_data = scrape_clinic_page(scrape_slug)
 
         photos        = page_data["photos"]
         treatments    = page_data["treatments"]
