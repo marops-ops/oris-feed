@@ -684,6 +684,8 @@ def main():
 
         if photos:
             print(f"  ✓ {len(photos)} bilder hentet")
+        else:
+            print(f"  ⚠ Ingen bilder hentet – sjekk: https://orisdental.no/klinikker/{scrape_slug}")
         if treatments:
             print(f"  ✓ {len(treatments)} behandlingstyper hentet")
         if is_akutt:
