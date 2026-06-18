@@ -601,7 +601,7 @@ def build_feed(items: list[dict]) -> str:
         add("clinic_region",                item["clinic_region"])
         add("latitude",                     item["latitude"])
         add("longitude",                    item["longitude"])
-        add("geo_radius_value",             item["radius_value"])
+        add("geo_radius_value",             str(int(item["radius_value"]) * 1000))
         add("geo_radius_unit",              item["radius_unit"])
         add("geo_coordinates",              f"{item['latitude']},{item['longitude']}")
         add("product_category",             item["product_category"])
@@ -863,7 +863,7 @@ def main():
             "clinic_region":            item["clinic_region"],
             "latitude":                 item["latitude"],
             "longitude":                item["longitude"],
-            "geo_radius_value":         item["radius_value"],
+            "geo_radius_value":         str(int(item["radius_value"]) * 1000),
             "geo_radius_unit":          item["radius_unit"],
             "product_category":         item["product_category"],
             "custom_label_0":           item["clinic_city"],
