@@ -151,9 +151,14 @@ PHOTO_CACHE: dict[str, str] = {}
 
 # Manuell overstyring av klinikk-URL for sider som gir 403 fra Actions
 SLUG_OVERRIDES = {
-    "arendal-spesialistklinikk": "https://orisdental.no/klinikker/arendal",
-    "gronnegata-tannlegesenter":  "https://orisdental.no/klinikker/gronnegata",
+    "arendal-spesialistklinikk":            "https://orisdental.no/klinikker/arendal",
+    "gronnegata-tannlegesenter":            "https://orisdental.no/klinikker/gronnegata",
     "lykkegarden-tidligere-trondheim-torg": "https://orisdental.no/klinikker/lykkegaarden",
+    "strandgaten":                          "https://orisdental.no/klinikker/broegelmannhuset",
+    "godtanna-gol":                         "https://orisdental.no/klinikker/godtannagol",
+    "maloy":                                "https://orisdental.no/klinikker/maaloy",
+    "naerbo":                               "https://orisdental.no/klinikker/narbo",
+    "stoa-i-arendal":                       "https://orisdental.no/klinikker/stoa",
 }
 
 # ── Hjelpefunksjoner ───────────────────────────────────────────────────────────
