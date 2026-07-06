@@ -6,8 +6,8 @@
     <description>Automatisk oppdatert feed med ledige tannlegetimer hos Oris Dental</description>
     <item>
       <g:id>oris-aker-brygge-1216</g:id>
-      <g:title>Ledig time – Oris Dental Aker Brygge – 6. juli kl. 12:30</g:title>
-      <g:description>Book time hos Mariann Sørensen (Tannlege) ved Oris Dental Aker Brygge. Første ledige time: 6. juli kl. 12:30. Varighet: 50 min.</g:description>
+      <g:title>Ledig time – Oris Dental Aker Brygge – 6. juli kl. 13:10</g:title>
+      <g:description>Book time hos Mariann Sørensen (Tannlege) ved Oris Dental Aker Brygge. Første ledige time: 6. juli kl. 13:10. Varighet: 50 min.</g:description>
       <g:link>https://orisdental.no/klinikker/aker-brygge</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mariann-Sorensen.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -16,11 +16,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>12:30</appointment_time>
+      <appointment_time>13:10</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>50</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T10:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-06T11:10:00Z</time_from_iso>
       <clinician_name>Mariann Sørensen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>1216</clinician_id>
@@ -39,12 +39,12 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-arendal-spesialistklinikk-14245</g:id>
-      <g:title>Ledig time – Oris Dental Arendal Spesialistklinikk – 7. juli kl. 09:30</g:title>
-      <g:description>Book time hos Arielka Patricia Håland (Tannlege) ved Oris Dental Arendal Spesialistklinikk. Første ledige time: 7. juli kl. 09:30. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Arendal Spesialistklinikk – 7. juli kl. 10:15</g:title>
+      <g:description>Book time hos Arielka Patricia Håland (Tannlege) ved Oris Dental Arendal Spesialistklinikk. Første ledige time: 7. juli kl. 10:15. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/arendal</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/187-Arendal-Arielka-Patricia-Haland-1.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -53,11 +53,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>7. juli</appointment_date>
-      <appointment_time>09:30</appointment_time>
+      <appointment_time>10:15</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
       <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T07:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T08:15:00Z</time_from_iso>
       <clinician_name>Arielka Patricia Håland</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>14245</clinician_id>
@@ -77,28 +77,28 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-arken-asane-94502</g:id>
-      <g:title>Ledig time – Oris Dental Arken Åsane – 6. juli kl. 14:30</g:title>
-      <g:description>Book time hos Celine Haavik (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 6. juli kl. 14:30. Varighet: 30 min.</g:description>
+      <g:id>oris-arken-asane-12450</g:id>
+      <g:title>Ledig time – Oris Dental Arken Åsane – 6. juli kl. 15:00</g:title>
+      <g:description>Book time hos Elina Leppälä (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 6. juli kl. 15:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/arken-asane</g:link>
-      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mari-Iselin-Andersson_-tannlege_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>14:30</appointment_time>
+      <appointment_time>15:00</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T12:30:00Z</time_from_iso>
-      <clinician_name>Celine Haavik</clinician_name>
+      <time_from_iso>2026-07-06T13:00:00Z</time_from_iso>
+      <clinician_name>Elina Leppälä</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>94502</clinician_id>
+      <clinician_id>12450</clinician_id>
       <clinic_name>Oris Dental Arken Åsane</clinic_name>
       <clinic_address>Åsane Senter 37</clinic_address>
       <clinic_city>UIset</clinic_city>
@@ -114,7 +114,8 @@
       <g:custom_label_0>UIset</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <g:daily_budget>79 kr</g:daily_budget>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-askoy-469</g:id>
@@ -151,28 +152,28 @@
       <g:custom_label_0>Kleppestø</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-bodo-31224</g:id>
-      <g:title>Ledig time – Oris Dental Bodø – 7. juli kl. 08:15</g:title>
-      <g:description>Book time hos Carl Haavard Knutssøn (Tannlege) ved Oris Dental Bodø. Første ledige time: 7. juli kl. 08:15. Varighet: 45 min.</g:description>
+      <g:id>oris-bodo-14660</g:id>
+      <g:title>Ledig time – Oris Dental Bodø – 8. juli kl. 08:15</g:title>
+      <g:description>Book time hos Øystein Johnsløv (Tannlege) ved Oris Dental Bodø. Første ledige time: 8. juli kl. 08:15. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/bodo</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Carl-Havard-tannlege-kopi.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Oystein-tannlege-kopi.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>7. juli</appointment_date>
+      <appointment_date>8. juli</appointment_date>
       <appointment_time>08:15</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T06:15:00Z</time_from_iso>
-      <clinician_name>Carl Haavard Knutssøn</clinician_name>
+      <time_from_iso>2026-07-08T06:15:00Z</time_from_iso>
+      <clinician_name>Øystein Johnsløv</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>31224</clinician_id>
+      <clinician_id>14660</clinician_id>
       <clinic_name>Oris Dental Bodø</clinic_name>
       <clinic_address>Dronningensgate 102</clinic_address>
       <clinic_city>Bodø</clinic_city>
@@ -188,28 +189,28 @@
       <g:custom_label_0>Bodø</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-broegelmannhuset-6366</g:id>
-      <g:title>Ledig time – Oris Dental Broegelmannhuset – 6. juli kl. 14:15</g:title>
-      <g:description>Book time hos Tom Paulseth (Tannlege) ved Oris Dental Broegelmannhuset. Første ledige time: 6. juli kl. 14:15. Varighet: 30 min.</g:description>
+      <g:id>oris-broegelmannhuset-15275</g:id>
+      <g:title>Ledig time – Oris Dental Broegelmannhuset – 7. juli kl. 14:30</g:title>
+      <g:description>Book time hos Arne Lund (Tannlege) ved Oris Dental Broegelmannhuset. Første ledige time: 7. juli kl. 14:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/broegelmannhuset</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tom-Richard-Paulseth-tom.paulseth%40uib.no-%E2%80%93-Tannlege-6.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-Arne-Lund-arne.lund%40orisdental.no-Tannlege-12-the-last-one-was-blurry.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>14:15</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>7. juli</appointment_date>
+      <appointment_time>14:30</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T12:15:00Z</time_from_iso>
-      <clinician_name>Tom Paulseth</clinician_name>
+      <time_from_iso>2026-07-07T12:30:00Z</time_from_iso>
+      <clinician_name>Arne Lund</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>6366</clinician_id>
+      <clinician_id>15275</clinician_id>
       <clinic_name>Oris Dental Broegelmannhuset</clinic_name>
       <clinic_address>Strandgaten 5</clinic_address>
       <clinic_city>Bergen</clinic_city>
@@ -225,7 +226,8 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <g:daily_budget>138 kr</g:daily_budget>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-brosundet-19384</g:id>
@@ -262,12 +264,12 @@
       <g:custom_label_0>Ålesund</g:custom_label_0>
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bryn-8737</g:id>
-      <g:title>Ledig time – Oris Dental Bryn – 6. juli kl. 09:30</g:title>
-      <g:description>Book time hos Ulla Rognsaa Kildal (Tannlege) ved Oris Dental Bryn. Første ledige time: 6. juli kl. 09:30. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Bryn – 6. juli kl. 13:00</g:title>
+      <g:description>Book time hos Ulla Rognsaa Kildal (Tannlege) ved Oris Dental Bryn. Første ledige time: 6. juli kl. 13:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/bryn</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ulla-Rognsaa-Kildal-tannlege-10.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -276,11 +278,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>09:30</appointment_time>
+      <appointment_time>13:00</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T07:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-06T11:00:00Z</time_from_iso>
       <clinician_name>Ulla Rognsaa Kildal</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>8737</clinician_id>
@@ -299,7 +301,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bryne-14334</g:id>
@@ -336,12 +338,12 @@
       <g:custom_label_0>Bryne</g:custom_label_0>
       <g:custom_label_1>Bryne</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-44210</g:id>
-      <g:title>Ledig time – Oris Dental Drammen – 16. juli kl. 10:30</g:title>
-      <g:description>Book time hos Sebastian Geissler (Tannlege) ved Oris Dental Drammen. Første ledige time: 16. juli kl. 10:30. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Drammen – 22. juli kl. 10:00</g:title>
+      <g:description>Book time hos Sebastian Geissler (Tannlege) ved Oris Dental Drammen. Første ledige time: 22. juli kl. 10:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/drammen</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Sebastian-Geissler-Allmenntannlege-drammen%40orisdental-4.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -349,12 +351,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>16. juli</appointment_date>
-      <appointment_time>10:30</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 16. juli</appointment_weekday_date>
+      <appointment_date>22. juli</appointment_date>
+      <appointment_time>10:00</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 22. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-16T08:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-22T08:00:00Z</time_from_iso>
       <clinician_name>Sebastian Geissler</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>44210</clinician_id>
@@ -374,7 +376,7 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-avd-landfalloya-10198</g:id>
@@ -412,12 +414,12 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-egersund-11936</g:id>
-      <g:title>Ledig time – Oris Dental Egersund – 6. juli kl. 12:00</g:title>
-      <g:description>Book time hos Benedikte Hetland (Tannlege) ved Oris Dental Egersund. Første ledige time: 6. juli kl. 12:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Egersund – 6. juli kl. 13:00</g:title>
+      <g:description>Book time hos Benedikte Hetland (Tannlege) ved Oris Dental Egersund. Første ledige time: 6. juli kl. 13:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/egersund</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Benedicte-dentist-egerdun.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -426,11 +428,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>12:00</appointment_time>
+      <appointment_time>13:00</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T10:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-06T11:00:00Z</time_from_iso>
       <clinician_name>Benedikte Hetland</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>11936</clinician_id>
@@ -449,7 +451,7 @@
       <g:custom_label_0>Egersund</g:custom_label_0>
       <g:custom_label_1>Egersund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-eikas-7786</g:id>
@@ -486,7 +488,7 @@
       <g:custom_label_0>Nordfjordeid</g:custom_label_0>
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-fredrikstad-16007</g:id>
@@ -524,28 +526,28 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-galleri-oslo-66466</g:id>
-      <g:title>Ledig time – Oris Dental Galleri Oslo – 17. juli kl. 10:30</g:title>
-      <g:description>Book time hos Jolanta Nazaretian (Tannlege) ved Oris Dental Galleri Oslo. Første ledige time: 17. juli kl. 10:30. Varighet: 45 min.</g:description>
+      <g:id>oris-galleri-oslo-73415</g:id>
+      <g:title>Ledig time – Oris Dental Galleri Oslo – 9. juli kl. 11:00</g:title>
+      <g:description>Book time hos Thomas Alexander Hunter (Tannlege) ved Oris Dental Galleri Oslo. Første ledige time: 9. juli kl. 11:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/galleri-oslo</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Jolanta-Nazaretian-tannlege%C2%A8.jpg</g:image_link>
+      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>17. juli</appointment_date>
-      <appointment_time>10:30</appointment_time>
-      <appointment_weekday>Fredag</appointment_weekday>
-      <appointment_weekday_date>Fredag 17. juli</appointment_weekday_date>
+      <appointment_date>9. juli</appointment_date>
+      <appointment_time>11:00</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 9. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-17T08:30:00Z</time_from_iso>
-      <clinician_name>Jolanta Nazaretian</clinician_name>
+      <time_from_iso>2026-07-09T09:00:00Z</time_from_iso>
+      <clinician_name>Thomas Alexander Hunter</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>66466</clinician_id>
+      <clinician_id>73415</clinician_id>
       <clinic_name>Oris Dental Galleri Oslo</clinic_name>
       <clinic_address>Schweigaardsgate 6, 4 et</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -561,12 +563,13 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <g:daily_budget>99 kr</g:daily_budget>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-gressvik-3021</g:id>
-      <g:title>Ledig time – Oris Dental Gressvik – 7. juli kl. 09:00</g:title>
-      <g:description>Book time hos Nina Viktoria Mielnicki (Tannlege) ved Oris Dental Gressvik. Første ledige time: 7. juli kl. 09:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Gressvik – 7. juli kl. 14:45</g:title>
+      <g:description>Book time hos Nina Viktoria Mielnicki (Tannlege) ved Oris Dental Gressvik. Første ledige time: 7. juli kl. 14:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/gressvik</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nina-Viktoria-Mielnicki-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -575,11 +578,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>7. juli</appointment_date>
-      <appointment_time>09:00</appointment_time>
+      <appointment_time>14:45</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
       <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T07:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T12:45:00Z</time_from_iso>
       <clinician_name>Nina Viktoria Mielnicki</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>3021</clinician_id>
@@ -598,7 +601,7 @@
       <g:custom_label_0>Gressvik</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-gronnegata-tannlegesenter-37674</g:id>
@@ -636,13 +639,13 @@
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>148 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hamar-43852</g:id>
-      <g:title>Ledig time – Oris Dental Hamar – 11. august kl. 12:45</g:title>
+      <g:title>Ledig time – Oris Dental Hamar – 11. august kl. 13:30</g:title>
       <g:description>Book time hos  Nora Hui
- Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 11. august kl. 12:45. Varighet: 45 min.</g:description>
+ Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 11. august kl. 13:30. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/hamar</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nora-Hui-Andersen-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -651,11 +654,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>11. august</appointment_date>
-      <appointment_time>12:45</appointment_time>
+      <appointment_time>13:30</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
       <appointment_weekday_date>Tirsdag 11. august</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-08-11T10:45:00Z</time_from_iso>
+      <time_from_iso>2026-08-11T11:30:00Z</time_from_iso>
       <clinician_name> Nora Hui
  Andersen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
@@ -676,12 +679,12 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>63 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-harstad-torv-15179</g:id>
-      <g:title>Ledig time – Oris Dental Harstad Torv – 16. juli kl. 09:45</g:title>
-      <g:description>Book time hos Isabel Eriksen Bruun (Tannlege) ved Oris Dental Harstad Torv. Første ledige time: 16. juli kl. 09:45. Varighet: 60 min.</g:description>
+      <g:title>Ledig time – Oris Dental Harstad Torv – 8. juli kl. 14:15</g:title>
+      <g:description>Book time hos Isabel Eriksen Bruun (Tannlege) ved Oris Dental Harstad Torv. Første ledige time: 8. juli kl. 14:15. Varighet: 60 min.</g:description>
       <g:link>https://orisdental.no/klinikker/harstad-torv</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/017-Bruun-Isabel-Eriksen_dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -689,12 +692,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>16. juli</appointment_date>
-      <appointment_time>09:45</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 16. juli</appointment_weekday_date>
+      <appointment_date>8. juli</appointment_date>
+      <appointment_time>14:15</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>60</appointment_duration_minutes>
-      <time_from_iso>2026-07-16T07:45:00Z</time_from_iso>
+      <time_from_iso>2026-07-08T12:15:00Z</time_from_iso>
       <clinician_name>Isabel Eriksen Bruun</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>15179</clinician_id>
@@ -714,7 +717,7 @@
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>47 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-haugesund-5224</g:id>
@@ -752,7 +755,7 @@
       <g:custom_label_1>Haugesund</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>73 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hinna-park-56129</g:id>
@@ -789,7 +792,7 @@
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Stavanger</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-homansbyen-55997</g:id>
@@ -827,12 +830,12 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hvalertannlegene-2171</g:id>
-      <g:title>Ledig time – Oris Dental Hvalertannlegene – 7. juli kl. 12:30</g:title>
-      <g:description>Book time hos Andrea Marie Andersen (Tannlege) ved Oris Dental Hvalertannlegene. Første ledige time: 7. juli kl. 12:30. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Hvalertannlegene – 7. juli kl. 09:00</g:title>
+      <g:description>Book time hos Andrea Marie Andersen (Tannlege) ved Oris Dental Hvalertannlegene. Første ledige time: 7. juli kl. 09:00. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/hvalertannlegene</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/andrea-marie-andersen_-dentist_-sarpsborg_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -841,11 +844,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>7. juli</appointment_date>
-      <appointment_time>12:30</appointment_time>
+      <appointment_time>09:00</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
       <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T10:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T07:00:00Z</time_from_iso>
       <clinician_name>Andrea Marie Andersen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>2171</clinician_id>
@@ -864,7 +867,7 @@
       <g:custom_label_0>Vesterøy</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-knapstad-2328</g:id>
@@ -902,28 +905,28 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-kristiansand-11563</g:id>
-      <g:title>Ledig time – Oris Dental Kristiansand – 6. juli kl. 10:30</g:title>
-      <g:description>Book time hos Kha Duong (Tannlege) ved Oris Dental Kristiansand. Første ledige time: 6. juli kl. 10:30. Varighet: 40 min.</g:description>
+      <g:id>oris-kristiansand-37786</g:id>
+      <g:title>Ledig time – Oris Dental Kristiansand – 6. juli kl. 12:30</g:title>
+      <g:description>Book time hos Thea M. Håbesland (Tannlege) ved Oris Dental Kristiansand. Første ledige time: 6. juli kl. 12:30. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/kristiansand</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tannlege-Kha-Doung-kdbergen%40outlook.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Thea-Matilde-Moe-Habesland-Tannlege-avd.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>10:30</appointment_time>
+      <appointment_time>12:30</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T08:30:00Z</time_from_iso>
-      <clinician_name>Kha Duong</clinician_name>
+      <time_from_iso>2026-07-06T10:30:00Z</time_from_iso>
+      <clinician_name>Thea M. Håbesland</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>11563</clinician_id>
+      <clinician_id>37786</clinician_id>
       <clinic_name>Oris Dental Kristiansand</clinic_name>
       <clinic_address>Markensgate 17</clinic_address>
       <clinic_city>Kristiansand S</clinic_city>
@@ -939,28 +942,28 @@
       <g:custom_label_0>Kristiansand S</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-leutenhaven-6274</g:id>
-      <g:title>Ledig time – Oris Dental Leutenhaven – 6. juli kl. 08:15</g:title>
-      <g:description>Book time hos Ghavam Naghavi (Tannlege) ved Oris Dental Leutenhaven. Første ledige time: 6. juli kl. 08:15. Varighet: 30 min.</g:description>
+      <g:id>oris-leutenhaven-90208</g:id>
+      <g:title>Ledig time – Oris Dental Leutenhaven – 6. juli kl. 14:10</g:title>
+      <g:description>Book time hos Synne Marie Waagenes (Tannlege) ved Oris Dental Leutenhaven. Første ledige time: 6. juli kl. 14:10. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/leutenhaven</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ghavam-Naghavi-tannlege-2.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Synne-Marie-Tonne-Waagenes-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>08:15</appointment_time>
+      <appointment_time>14:10</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T06:15:00Z</time_from_iso>
-      <clinician_name>Ghavam Naghavi</clinician_name>
+      <time_from_iso>2026-07-06T12:10:00Z</time_from_iso>
+      <clinician_name>Synne Marie Waagenes</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>6274</clinician_id>
+      <clinician_id>90208</clinician_id>
       <clinic_name>Oris Dental Leutenhaven</clinic_name>
       <clinic_address>Kongensgate 49</clinic_address>
       <clinic_city>Trondheim</clinic_city>
@@ -976,7 +979,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lillehammer-20366</g:id>
@@ -1013,12 +1016,12 @@
       <g:custom_label_0>Lillehammer</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lokketangen-19538</g:id>
-      <g:title>Ledig time – Oris Dental Løkketangen – 6. juli kl. 12:40</g:title>
-      <g:description>Book time hos Henriette Næss Liisberg (Tannlege) ved Oris Dental Løkketangen. Første ledige time: 6. juli kl. 12:40. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Løkketangen – 7. juli kl. 09:00</g:title>
+      <g:description>Book time hos Henriette Næss Liisberg (Tannlege) ved Oris Dental Løkketangen. Første ledige time: 7. juli kl. 09:00. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lokketangen</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Henriette-Naess-Liisberg-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1026,12 +1029,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>12:40</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>7. juli</appointment_date>
+      <appointment_time>09:00</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T10:40:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T07:00:00Z</time_from_iso>
       <clinician_name>Henriette Næss Liisberg</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>19538</clinician_id>
@@ -1051,28 +1054,28 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-lokkeveien-79043</g:id>
-      <g:title>Ledig time – Oris Dental Løkkeveien – 7. juli kl. 08:00</g:title>
-      <g:description>Book time hos Ivan Yanchev (Tannlege) ved Oris Dental Løkkeveien. Første ledige time: 7. juli kl. 08:00. Varighet: 30 min.</g:description>
+      <g:id>oris-lokkeveien-137712</g:id>
+      <g:title>Ledig time – Oris Dental Løkkeveien – 14. juli kl. 09:50</g:title>
+      <g:description>Book time hos Liliana Khadisova (Tannlege) ved Oris Dental Løkkeveien. Første ledige time: 14. juli kl. 09:50. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lokkeveien</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ivan-Yanchev-tannlege_size_down.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-Liliana-Khadisova-dentist_size_down.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>7. juli</appointment_date>
-      <appointment_time>08:00</appointment_time>
+      <appointment_date>14. juli</appointment_date>
+      <appointment_time>09:50</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
+      <appointment_weekday_date>Tirsdag 14. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T06:00:00Z</time_from_iso>
-      <clinician_name>Ivan Yanchev</clinician_name>
+      <time_from_iso>2026-07-14T07:50:00Z</time_from_iso>
+      <clinician_name>Liliana Khadisova</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>79043</clinician_id>
+      <clinician_id>137712</clinician_id>
       <clinic_name>Oris Dental Løkkeveien</clinic_name>
       <clinic_address>Løkkeveien 56</clinic_address>
       <clinic_city>Stavanger</clinic_city>
@@ -1088,28 +1091,28 @@
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-lykkegarden-tidligere-trondheim-torg-60452</g:id>
-      <g:title>Ledig time – Oris Dental Lykkegården (Tidligere Trondheim Torg) – 6. juli kl. 08:40</g:title>
-      <g:description>Book time hos Linda Ulvan Olsen  (Tannlege) ved Oris Dental Lykkegården (Tidligere Trondheim Torg). Første ledige time: 6. juli kl. 08:40. Varighet: 30 min.</g:description>
+      <g:id>oris-lykkegarden-tidligere-trondheim-torg-25379</g:id>
+      <g:title>Ledig time – Oris Dental Lykkegården (Tidligere Trondheim Torg) – 6. juli kl. 12:30</g:title>
+      <g:description>Book time hos Tore Andrè Ohm (Tannlege) ved Oris Dental Lykkegården (Tidligere Trondheim Torg). Første ledige time: 6. juli kl. 12:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lykkegaarden</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Linda-Ulvan-Olsen-tannlege_size_down.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tore-Andre-Ohm-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>08:40</appointment_time>
+      <appointment_time>12:30</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T06:40:00Z</time_from_iso>
-      <clinician_name>Linda Ulvan Olsen </clinician_name>
+      <time_from_iso>2026-07-06T10:30:00Z</time_from_iso>
+      <clinician_name>Tore Andrè Ohm</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>60452</clinician_id>
+      <clinician_id>25379</clinician_id>
       <clinic_name>Oris Dental Lykkegården (Tidligere Trondheim Torg)</clinic_name>
       <clinic_address>Munkegata 48</clinic_address>
       <clinic_city>Trondheim</clinic_city>
@@ -1125,12 +1128,12 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lysaker-469</g:id>
-      <g:title>Ledig time – Oris Dental Lysaker – 8. juli kl. 13:10</g:title>
-      <g:description>Book time hos Arild Aarnseth (Tannlege) ved Oris Dental Lysaker. Første ledige time: 8. juli kl. 13:10. Varighet: 50 min.</g:description>
+      <g:title>Ledig time – Oris Dental Lysaker – 8. juli kl. 13:40</g:title>
+      <g:description>Book time hos Arild Aarnseth (Tannlege) ved Oris Dental Lysaker. Første ledige time: 8. juli kl. 13:40. Varighet: 50 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lysaker</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tannlege-Arild-Aarnseth-arild.aarnseth%40orisdental-1.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1139,11 +1142,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>8. juli</appointment_date>
-      <appointment_time>13:10</appointment_time>
+      <appointment_time>13:40</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>50</appointment_duration_minutes>
-      <time_from_iso>2026-07-08T11:10:00Z</time_from_iso>
+      <time_from_iso>2026-07-08T11:40:00Z</time_from_iso>
       <clinician_name>Arild Aarnseth</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>469</clinician_id>
@@ -1162,28 +1165,28 @@
       <g:custom_label_0>Lysaker</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-madla-45556</g:id>
-      <g:title>Ledig time – Oris Dental Madla – 6. juli kl. 12:40</g:title>
-      <g:description>Book time hos Tone Rekeland (Tannlege) ved Oris Dental Madla. Første ledige time: 6. juli kl. 12:40. Varighet: 30 min.</g:description>
+      <g:id>oris-madla-128394</g:id>
+      <g:title>Ledig time – Oris Dental Madla – 8. juli kl. 09:30</g:title>
+      <g:description>Book time hos Evelina Brukiene (Tannlege) ved Oris Dental Madla. Første ledige time: 8. juli kl. 09:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/madla</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tone-Rekeland-tannlegetone%40oris-stavanger-23.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Evelina-Brukiene-tannlegeevelina.brukiene%40orisdental.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>12:40</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>8. juli</appointment_date>
+      <appointment_time>09:30</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T10:40:00Z</time_from_iso>
-      <clinician_name>Tone Rekeland</clinician_name>
+      <time_from_iso>2026-07-08T07:30:00Z</time_from_iso>
+      <clinician_name>Evelina Brukiene</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>45556</clinician_id>
+      <clinician_id>128394</clinician_id>
       <clinic_name>Oris Dental Madla</clinic_name>
       <clinic_address>Madlagården, Madlamarkveien 2A</clinic_address>
       <clinic_city>Hafrsfjord</clinic_city>
@@ -1199,12 +1202,12 @@
       <g:custom_label_0>Hafrsfjord</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-maloy-4433</g:id>
-      <g:title>Ledig time – Oris Dental Måløy – 9. juli kl. 14:00</g:title>
-      <g:description>Book time hos Kristina Enoksson (Tannlege) ved Oris Dental Måløy. Første ledige time: 9. juli kl. 14:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Måløy – 10. juli kl. 08:00</g:title>
+      <g:description>Book time hos Kristina Enoksson (Tannlege) ved Oris Dental Måløy. Første ledige time: 10. juli kl. 08:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/maaloy</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/DSC09006-kopi-2web.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1212,12 +1215,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>9. juli</appointment_date>
-      <appointment_time>14:00</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 9. juli</appointment_weekday_date>
+      <appointment_date>10. juli</appointment_date>
+      <appointment_time>08:00</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 10. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-09T12:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-10T06:00:00Z</time_from_iso>
       <clinician_name>Kristina Enoksson</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>4433</clinician_id>
@@ -1237,12 +1240,12 @@
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-mo-i-rana-5491</g:id>
-      <g:title>Ledig time – Oris Dental Mo i Rana – 9. juli kl. 15:00</g:title>
-      <g:description>Book time hos Colin Eriksen (Tannlege) ved Oris Dental Mo i Rana. Første ledige time: 9. juli kl. 15:00. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Mo i Rana – 7. juli kl. 08:15</g:title>
+      <g:description>Book time hos Colin Eriksen (Tannlege) ved Oris Dental Mo i Rana. Første ledige time: 7. juli kl. 08:15. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/mo-i-rana</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Colin-Eriksen-tannlege-colin.eriksen%40orisdental.no_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1250,12 +1253,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>9. juli</appointment_date>
-      <appointment_time>15:00</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 9. juli</appointment_weekday_date>
+      <appointment_date>7. juli</appointment_date>
+      <appointment_time>08:15</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-09T13:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T06:15:00Z</time_from_iso>
       <clinician_name>Colin Eriksen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>5491</clinician_id>
@@ -1274,12 +1277,12 @@
       <g:custom_label_0>Mo i Rana</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moa-469</g:id>
-      <g:title>Ledig time – Oris Dental Moa – 7. juli kl. 09:30</g:title>
-      <g:description>Book time hos Fredrik Skodje (Tannlege) ved Oris Dental Moa. Første ledige time: 7. juli kl. 09:30. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Moa – 7. juli kl. 09:00</g:title>
+      <g:description>Book time hos Fredrik Skodje (Tannlege) ved Oris Dental Moa. Første ledige time: 7. juli kl. 09:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/moa</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-fREDRIK-sKODJE_-specialist-5__.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1288,11 +1291,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>7. juli</appointment_date>
-      <appointment_time>09:30</appointment_time>
+      <appointment_time>09:00</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
       <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T07:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T07:00:00Z</time_from_iso>
       <clinician_name>Fredrik Skodje</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>469</clinician_id>
@@ -1312,7 +1315,7 @@
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>99 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moelv-14505</g:id>
@@ -1350,7 +1353,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moss-spesialistklinikk-28759</g:id>
@@ -1388,12 +1391,12 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>69 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-narvik-13771</g:id>
-      <g:title>Ledig time – Oris Dental Narvik – 7. juli kl. 09:00</g:title>
-      <g:description>Book time hos Mathias Gyllan Hanssen (Tannlege) ved Oris Dental Narvik. Første ledige time: 7. juli kl. 09:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Narvik – 9. juli kl. 08:45</g:title>
+      <g:description>Book time hos Mathias Gyllan Hanssen (Tannlege) ved Oris Dental Narvik. Første ledige time: 9. juli kl. 08:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/narvik</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mathias-Gylland-Dentist-Tannlege-20250117-R5__0023_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1401,12 +1404,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>7. juli</appointment_date>
-      <appointment_time>09:00</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
+      <appointment_date>9. juli</appointment_date>
+      <appointment_time>08:45</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 9. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T07:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-09T06:45:00Z</time_from_iso>
       <clinician_name>Mathias Gyllan Hanssen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>13771</clinician_id>
@@ -1426,12 +1429,12 @@
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>42 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-nesttun-7346</g:id>
-      <g:title>Ledig time – Oris Dental Nesttun – 7. juli kl. 14:00</g:title>
-      <g:description>Book time hos Randi Berge Jacobsen (Tannlege) ved Oris Dental Nesttun. Første ledige time: 7. juli kl. 14:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Nesttun – 10. juli kl. 10:15</g:title>
+      <g:description>Book time hos Randi Berge Jacobsen (Tannlege) ved Oris Dental Nesttun. Første ledige time: 10. juli kl. 10:15. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/nesttun</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Randi-Berge-Jacobsen-Tannlege-randi.jacobsen%40orisdental-4.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1439,12 +1442,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>7. juli</appointment_date>
-      <appointment_time>14:00</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
+      <appointment_date>10. juli</appointment_date>
+      <appointment_time>10:15</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 10. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-07T12:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-10T08:15:00Z</time_from_iso>
       <clinician_name>Randi Berge Jacobsen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>7346</clinician_id>
@@ -1464,7 +1467,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-orkanger-14454</g:id>
@@ -1502,7 +1505,7 @@
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>24 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-raufoss-17141</g:id>
@@ -1540,12 +1543,12 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>28 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-rommen-7173</g:id>
-      <g:title>Ledig time – Oris Dental Rommen – 6. juli kl. 09:20</g:title>
-      <g:description>Book time hos Helen Blindheim Svenøy (Tannlege) ved Oris Dental Rommen. Første ledige time: 6. juli kl. 09:20. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Rommen – 7. juli kl. 13:50</g:title>
+      <g:description>Book time hos Helen Blindheim Svenøy (Tannlege) ved Oris Dental Rommen. Første ledige time: 7. juli kl. 13:50. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/rommen</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/RS3461_Helen-Blinheim-Svenoy-avdelingsleder.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1553,12 +1556,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>09:20</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>7. juli</appointment_date>
+      <appointment_time>13:50</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T07:20:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T11:50:00Z</time_from_iso>
       <clinician_name>Helen Blindheim Svenøy</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>7173</clinician_id>
@@ -1578,7 +1581,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>128 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-ryen-471</g:id>
@@ -1616,12 +1619,12 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sanden-24404</g:id>
-      <g:title>Ledig time – Oris Dental Sanden – 6. juli kl. 10:20</g:title>
-      <g:description>Book time hos Daniel Hafzi (Tannlege) ved Oris Dental Sanden. Første ledige time: 6. juli kl. 10:20. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Sanden – 6. juli kl. 13:30</g:title>
+      <g:description>Book time hos Daniel Hafzi (Tannlege) ved Oris Dental Sanden. Første ledige time: 6. juli kl. 13:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sanden</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Daniel-Hafzi_Tannlege_Sanden.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1630,11 +1633,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>6. juli</appointment_date>
-      <appointment_time>10:20</appointment_time>
+      <appointment_time>13:30</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T08:20:00Z</time_from_iso>
+      <time_from_iso>2026-07-06T11:30:00Z</time_from_iso>
       <clinician_name>Daniel Hafzi</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>24404</clinician_id>
@@ -1653,12 +1656,12 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sandnes-39929</g:id>
-      <g:title>Ledig time – Oris Dental Sandnes – 13. juli kl. 09:30</g:title>
-      <g:description>Book time hos Richard Cornelius Roth (Tannlege) ved Oris Dental Sandnes. Første ledige time: 13. juli kl. 09:30. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Sandnes – 14. juli kl. 08:00</g:title>
+      <g:description>Book time hos Richard Cornelius Roth (Tannlege) ved Oris Dental Sandnes. Første ledige time: 14. juli kl. 08:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sandnes</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/RS6944_Richard-Cornelius-Roth_Tannlege_143-Sandnes_web.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1666,12 +1669,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>13. juli</appointment_date>
-      <appointment_time>09:30</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 13. juli</appointment_weekday_date>
+      <appointment_date>14. juli</appointment_date>
+      <appointment_time>08:00</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 14. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-13T07:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-14T06:00:00Z</time_from_iso>
       <clinician_name>Richard Cornelius Roth</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>39929</clinician_id>
@@ -1690,12 +1693,12 @@
       <g:custom_label_0>Sandnes</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sarpsborg-4859</g:id>
-      <g:title>Ledig time – Oris Dental Sarpsborg – 6. juli kl. 08:00</g:title>
-      <g:description>Book time hos Andrea Marie Andersen (Tannlege) ved Oris Dental Sarpsborg. Første ledige time: 6. juli kl. 08:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Sarpsborg – 8. juli kl. 10:20</g:title>
+      <g:description>Book time hos Andrea Marie Andersen (Tannlege) ved Oris Dental Sarpsborg. Første ledige time: 8. juli kl. 10:20. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sarpsborg</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/andrea-marie-andersen_-dentist_-sarpsborg_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1703,12 +1706,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>08:00</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>8. juli</appointment_date>
+      <appointment_time>10:20</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T06:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-08T08:20:00Z</time_from_iso>
       <clinician_name>Andrea Marie Andersen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>4859</clinician_id>
@@ -1727,12 +1730,12 @@
       <g:custom_label_0>Sarpsborg</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sirkus-shopping-4372</g:id>
-      <g:title>Ledig time – Oris Dental Sirkus Shopping – 6. juli kl. 15:00</g:title>
-      <g:description>Book time hos Jens Petter Finstad (Tannlege) ved Oris Dental Sirkus Shopping. Første ledige time: 6. juli kl. 15:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Sirkus Shopping – 7. juli kl. 10:45</g:title>
+      <g:description>Book time hos Jens Petter Finstad (Tannlege) ved Oris Dental Sirkus Shopping. Første ledige time: 7. juli kl. 10:45. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sirkus-shopping</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Jens-petter-finstad-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1740,12 +1743,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>15:00</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>7. juli</appointment_date>
+      <appointment_time>10:45</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 7. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T13:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-07T08:45:00Z</time_from_iso>
       <clinician_name>Jens Petter Finstad</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>4372</clinician_id>
@@ -1764,28 +1767,28 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-skoyen-11995</g:id>
-      <g:title>Ledig time – Oris Dental Skøyen – 6. juli kl. 13:00</g:title>
-      <g:description>Book time hos Fanny Bjørnstad (Tannlege) ved Oris Dental Skøyen. Første ledige time: 6. juli kl. 13:00. Varighet: 40 min.</g:description>
+      <g:id>oris-skoyen-21696</g:id>
+      <g:title>Ledig time – Oris Dental Skøyen – 8. juli kl. 09:10</g:title>
+      <g:description>Book time hos Dalia Shwan (Tannlege) ved Oris Dental Skøyen. Første ledige time: 8. juli kl. 09:10. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/skoyen</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Fanny-Bjornstad-dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Dalia-Shwan_Tannlege_Knapstad.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>13:00</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>8. juli</appointment_date>
+      <appointment_time>09:10</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T11:00:00Z</time_from_iso>
-      <clinician_name>Fanny Bjørnstad</clinician_name>
+      <time_from_iso>2026-07-08T07:10:00Z</time_from_iso>
+      <clinician_name>Dalia Shwan</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>11995</clinician_id>
+      <clinician_id>21696</clinician_id>
       <clinic_name>Oris Dental Skøyen</clinic_name>
       <clinic_address>Karenslyst allé 9 C</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -1801,8 +1804,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
-      <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-slemmestad-8316</g:id>
@@ -1839,12 +1841,12 @@
       <g:custom_label_0>Slemmestad</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sogne-18418</g:id>
-      <g:title>Ledig time – Oris Dental Søgne – 9. juli kl. 10:45</g:title>
-      <g:description>Book time hos Vegard Tronstad (Tannlege) ved Oris Dental Søgne. Første ledige time: 9. juli kl. 10:45. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Søgne – 9. juli kl. 09:45</g:title>
+      <g:description>Book time hos Vegard Tronstad (Tannlege) ved Oris Dental Søgne. Første ledige time: 9. juli kl. 09:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sogne</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Vegard-Tronstad-dentist-bla.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1853,11 +1855,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>9. juli</appointment_date>
-      <appointment_time>10:45</appointment_time>
+      <appointment_time>09:45</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 9. juli</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-07-09T08:45:00Z</time_from_iso>
+      <time_from_iso>2026-07-09T07:45:00Z</time_from_iso>
       <clinician_name>Vegard Tronstad</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>18418</clinician_id>
@@ -1877,12 +1879,12 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>30 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stoa-i-arendal-8784</g:id>
-      <g:title>Ledig time – Oris Dental Stoa i Arendal – 6. juli kl. 13:00</g:title>
-      <g:description>Book time hos Vidar Erlandsen (Tannlege) ved Oris Dental Stoa i Arendal. Første ledige time: 6. juli kl. 13:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Stoa i Arendal – 9. juli kl. 12:00</g:title>
+      <g:description>Book time hos Vidar Erlandsen (Tannlege) ved Oris Dental Stoa i Arendal. Første ledige time: 9. juli kl. 12:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/stoa</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Erlandsen.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1890,12 +1892,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>13:00</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>9. juli</appointment_date>
+      <appointment_time>12:00</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 9. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T11:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-09T10:00:00Z</time_from_iso>
       <clinician_name>Vidar Erlandsen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>8784</clinician_id>
@@ -1915,65 +1917,28 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-stokmarknes-7672</g:id>
-      <g:title>Ledig time – Oris Dental Stokmarknes – 9. juli kl. 10:30</g:title>
-      <g:description>Book time hos Tamar Tinnan (Tannlege) ved Oris Dental Stokmarknes. Første ledige time: 9. juli kl. 10:30. Varighet: 40 min.</g:description>
-      <g:link>https://orisdental.no/klinikker/stokmarknes</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tamar-Tinnan.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Oris Dental</g:brand>
-      <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
-      <g:price>1423.00 NOK</g:price>
-      <appointment_date>9. juli</appointment_date>
-      <appointment_time>10:30</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 9. juli</appointment_weekday_date>
-      <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-09T08:30:00Z</time_from_iso>
-      <clinician_name>Tamar Tinnan</clinician_name>
-      <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7672</clinician_id>
-      <clinic_name>Oris Dental Stokmarknes</clinic_name>
-      <clinic_address>Markedsgata 11A</clinic_address>
-      <clinic_city>Stokmarknes</clinic_city>
-      <clinic_zip>8450</clinic_zip>
-      <clinic_phone>76 15 20 00</clinic_phone>
-      <clinic_region>Nordland</clinic_region>
-      <latitude>68.5653</latitude>
-      <longitude>14.9126</longitude>
-      <geo_radius_value>30000</geo_radius_value>
-      <geo_radius_unit>km</geo_radius_unit>
-      <geo_coordinates>68.5653,14.9126</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse (periodontitt), Gebiss (tannprotese)</product_category>
-      <g:custom_label_0>Stokmarknes</g:custom_label_0>
-      <g:custom_label_1>Nordland</g:custom_label_1>
-      <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
-    </item>
-    <item>
-      <g:id>oris-stord-leirvik-40366</g:id>
-      <g:title>Ledig time – Oris Dental Stord Leirvik – 5. august kl. 10:40</g:title>
-      <g:description>Book time hos Maria Moen Larsen (Tannlege) ved Oris Dental Stord Leirvik. Første ledige time: 5. august kl. 10:40. Varighet: 30 min.</g:description>
+      <g:id>oris-stord-leirvik-22552</g:id>
+      <g:title>Ledig time – Oris Dental Stord Leirvik – 8. juli kl. 10:50</g:title>
+      <g:description>Book time hos Piotr Pominkiewicz (Tannlege) ved Oris Dental Stord Leirvik. Første ledige time: 8. juli kl. 10:50. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/stord-leirvik</g:link>
-      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Bilde-00697-Tannlege-Piotr-Pominkiewicz-avd-173-Stord-og-165-Leirvik-dentist-blue-1.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>5. august</appointment_date>
-      <appointment_time>10:40</appointment_time>
+      <appointment_date>8. juli</appointment_date>
+      <appointment_time>10:50</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 5. august</appointment_weekday_date>
+      <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-08-05T08:40:00Z</time_from_iso>
-      <clinician_name>Maria Moen Larsen</clinician_name>
+      <time_from_iso>2026-07-08T08:50:00Z</time_from_iso>
+      <clinician_name>Piotr Pominkiewicz</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>40366</clinician_id>
+      <clinician_id>22552</clinician_id>
       <clinic_name>Oris Dental Stord Leirvik</clinic_name>
       <clinic_address>Borggata 9</clinic_address>
       <clinic_city>Stord</clinic_city>
@@ -1989,12 +1954,13 @@
       <g:custom_label_0>Stord</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <g:daily_budget>36 kr</g:daily_budget>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-strandgaten-22403</g:id>
-      <g:title>Ledig time – Oris Dental Strandgaten – 8. juli kl. 09:45</g:title>
-      <g:description>Book time hos Liv Karin Søvik Johnsen (Tannlege) ved Oris Dental Strandgaten. Første ledige time: 8. juli kl. 09:45. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Strandgaten – 8. juli kl. 10:45</g:title>
+      <g:description>Book time hos Liv Karin Søvik Johnsen (Tannlege) ved Oris Dental Strandgaten. Første ledige time: 8. juli kl. 10:45. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/tannlege-i-bergen-sentrum</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Liv-Karin-Sovik-Johnsen-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -2003,11 +1969,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>8. juli</appointment_date>
-      <appointment_time>09:45</appointment_time>
+      <appointment_time>10:45</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-08T07:45:00Z</time_from_iso>
+      <time_from_iso>2026-07-08T08:45:00Z</time_from_iso>
       <clinician_name>Liv Karin Søvik Johnsen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>22403</clinician_id>
@@ -2027,7 +1993,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tannteam-spesialistklinikk-9728</g:id>
@@ -2065,12 +2031,12 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tarnplassen-7488</g:id>
-      <g:title>Ledig time – Oris Dental Tårnplassen – 6. juli kl. 12:00</g:title>
-      <g:description>Book time hos Vibeke Nøst Henriksen (Tannlege) ved Oris Dental Tårnplassen. Første ledige time: 6. juli kl. 12:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Tårnplassen – 8. juli kl. 09:30</g:title>
+      <g:description>Book time hos Vibeke Nøst Henriksen (Tannlege) ved Oris Dental Tårnplassen. Første ledige time: 8. juli kl. 09:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/tarnplassen</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Vibeke-Nost-Henriksen-tannlege-vibekenh%40yahoo.no-11.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -2078,12 +2044,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>6. juli</appointment_date>
-      <appointment_time>12:00</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 6. juli</appointment_weekday_date>
+      <appointment_date>8. juli</appointment_date>
+      <appointment_time>09:30</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 8. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-06T10:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-08T07:30:00Z</time_from_iso>
       <clinician_name>Vibeke Nøst Henriksen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>7488</clinician_id>
@@ -2102,7 +2068,7 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tonsberg-38122</g:id>
@@ -2139,7 +2105,7 @@
       <g:custom_label_0>Tønsberg</g:custom_label_0>
       <g:custom_label_1>Vestfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-vagsbygd-7003</g:id>
@@ -2176,7 +2142,7 @@
       <g:custom_label_0>Kristiansand</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-voyenenga-9962</g:id>
@@ -2213,7 +2179,7 @@
       <g:custom_label_0>​1339Vøyenenga</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-05T21:04:17+0200</feed_generated_at>
+      <feed_generated_at>2026-07-06T11:56:25+0200</feed_generated_at>
     </item>
   </channel>
 </rss>
