@@ -39,7 +39,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-arendal-spesialistklinikk-14245</g:id>
@@ -77,12 +77,12 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-arken-asane-87376</g:id>
-      <g:title>Ledig time – Oris Dental Arken Åsane – 11. juli kl. 12:30</g:title>
-      <g:description>Book time hos Bashar Alshiekh (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 11. juli kl. 12:30. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Arken Åsane – 11. juli kl. 14:45</g:title>
+      <g:description>Book time hos Bashar Alshiekh (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 11. juli kl. 14:45. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/arken-asane</g:link>
       <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -91,11 +91,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>11. juli</appointment_date>
-      <appointment_time>12:30</appointment_time>
+      <appointment_time>14:45</appointment_time>
       <appointment_weekday>Lørdag</appointment_weekday>
       <appointment_weekday_date>Lørdag 11. juli</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-07-11T10:30:00Z</time_from_iso>
+      <time_from_iso>2026-07-11T12:45:00Z</time_from_iso>
       <clinician_name>Bashar Alshiekh</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>87376</clinician_id>
@@ -114,7 +114,7 @@
       <g:custom_label_0>UIset</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-askoy-469</g:id>
@@ -151,7 +151,7 @@
       <g:custom_label_0>Kleppestø</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bodo-31224</g:id>
@@ -188,7 +188,7 @@
       <g:custom_label_0>Bodø</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-broegelmannhuset-6366</g:id>
@@ -225,7 +225,7 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-brosundet-19384</g:id>
@@ -262,7 +262,7 @@
       <g:custom_label_0>Ålesund</g:custom_label_0>
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bryn-11824</g:id>
@@ -299,7 +299,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bryne-14334</g:id>
@@ -336,7 +336,7 @@
       <g:custom_label_0>Bryne</g:custom_label_0>
       <g:custom_label_1>Bryne</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-44210</g:id>
@@ -374,7 +374,7 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-avd-landfalloya-10198</g:id>
@@ -412,7 +412,7 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-egersund-11936</g:id>
@@ -449,7 +449,7 @@
       <g:custom_label_0>Egersund</g:custom_label_0>
       <g:custom_label_1>Egersund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-eikas-7786</g:id>
@@ -486,7 +486,7 @@
       <g:custom_label_0>Nordfjordeid</g:custom_label_0>
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-fredrikstad-16007</g:id>
@@ -524,7 +524,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-galleri-oslo-74625</g:id>
@@ -561,7 +561,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-gressvik-3021</g:id>
@@ -598,7 +598,7 @@
       <g:custom_label_0>Gressvik</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-gronnegata-tannlegesenter-37674</g:id>
@@ -636,7 +636,7 @@
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>148 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hamar-43852</g:id>
@@ -676,7 +676,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>63 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-harstad-torv-9094</g:id>
@@ -713,7 +713,7 @@
       <g:custom_label_0>Harstad</g:custom_label_0>
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-haugesund-5224</g:id>
@@ -751,7 +751,7 @@
       <g:custom_label_1>Haugesund</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>73 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hinna-park-59187</g:id>
@@ -788,7 +788,7 @@
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Stavanger</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-homansbyen-55997</g:id>
@@ -826,7 +826,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hvalertannlegene-2943</g:id>
@@ -864,7 +864,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>9 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-knapstad-2328</g:id>
@@ -902,12 +902,12 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-kristiansand-37786</g:id>
-      <g:title>Ledig time – Oris Dental Kristiansand – 13. juli kl. 09:00</g:title>
-      <g:description>Book time hos Thea M. Håbesland (Tannlege) ved Oris Dental Kristiansand. Første ledige time: 13. juli kl. 09:00. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Kristiansand – 13. juli kl. 09:30</g:title>
+      <g:description>Book time hos Thea M. Håbesland (Tannlege) ved Oris Dental Kristiansand. Første ledige time: 13. juli kl. 09:30. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/kristiansand</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Thea-Matilde-Moe-Habesland-Tannlege-avd.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -916,11 +916,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>13. juli</appointment_date>
-      <appointment_time>09:00</appointment_time>
+      <appointment_time>09:30</appointment_time>
       <appointment_weekday>Mandag</appointment_weekday>
       <appointment_weekday_date>Mandag 13. juli</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-07-13T07:00:00Z</time_from_iso>
+      <time_from_iso>2026-07-13T07:30:00Z</time_from_iso>
       <clinician_name>Thea M. Håbesland</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>37786</clinician_id>
@@ -939,7 +939,7 @@
       <g:custom_label_0>Kristiansand S</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-leutenhaven-19296</g:id>
@@ -976,7 +976,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lillehammer-20366</g:id>
@@ -1013,7 +1013,7 @@
       <g:custom_label_0>Lillehammer</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lokketangen-19538</g:id>
@@ -1051,7 +1051,7 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lokkeveien-116316</g:id>
@@ -1089,7 +1089,7 @@
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lykkegarden-tidligere-trondheim-torg-35156</g:id>
@@ -1126,7 +1126,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lysaker-596</g:id>
@@ -1163,7 +1163,7 @@
       <g:custom_label_0>Lysaker</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-madla-135377</g:id>
@@ -1200,7 +1200,7 @@
       <g:custom_label_0>Hafrsfjord</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-maloy-4433</g:id>
@@ -1238,7 +1238,7 @@
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-mo-i-rana-18649</g:id>
@@ -1275,7 +1275,7 @@
       <g:custom_label_0>Mo i Rana</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moa-469</g:id>
@@ -1313,7 +1313,7 @@
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>99 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moelv-14505</g:id>
@@ -1351,7 +1351,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moss-spesialistklinikk-28759</g:id>
@@ -1389,7 +1389,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>69 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-narvik-13771</g:id>
@@ -1427,7 +1427,7 @@
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>42 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-nesttun-26141</g:id>
@@ -1464,7 +1464,7 @@
       <g:custom_label_0>Nesttun</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-orkanger-14454</g:id>
@@ -1502,7 +1502,7 @@
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>24 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-raufoss-17141</g:id>
@@ -1540,7 +1540,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>28 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-rommen-7173</g:id>
@@ -1578,7 +1578,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>128 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-ryen-471</g:id>
@@ -1616,7 +1616,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sanden-24404</g:id>
@@ -1653,7 +1653,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sandnes-39929</g:id>
@@ -1690,7 +1690,7 @@
       <g:custom_label_0>Sandnes</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sarpsborg-7314</g:id>
@@ -1727,7 +1727,7 @@
       <g:custom_label_0>Sarpsborg</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sirkus-shopping-17579</g:id>
@@ -1764,7 +1764,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-skoyen-21696</g:id>
@@ -1801,7 +1801,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-slemmestad-8316</g:id>
@@ -1838,7 +1838,7 @@
       <g:custom_label_0>Slemmestad</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sogne-17916</g:id>
@@ -1875,7 +1875,7 @@
       <g:custom_label_0>Søgne</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stoa-i-arendal-8784</g:id>
@@ -1913,7 +1913,7 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stord-leirvik-22552</g:id>
@@ -1951,7 +1951,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>36 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-strandgaten-23013</g:id>
@@ -1988,7 +1988,7 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tannteam-spesialistklinikk-9728</g:id>
@@ -2026,7 +2026,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tarnplassen-7488</g:id>
@@ -2063,7 +2063,7 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tonsberg-38501</g:id>
@@ -2100,7 +2100,7 @@
       <g:custom_label_0>Tønsberg</g:custom_label_0>
       <g:custom_label_1>Vestfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-vagsbygd-7003</g:id>
@@ -2137,7 +2137,7 @@
       <g:custom_label_0>Kristiansand</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-voyenenga-9962</g:id>
@@ -2174,7 +2174,7 @@
       <g:custom_label_0>​1339Vøyenenga</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-07-11T09:37:16+0200</feed_generated_at>
+      <feed_generated_at>2026-07-11T11:21:10+0200</feed_generated_at>
     </item>
   </channel>
 </rss>
