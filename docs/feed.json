@@ -141,10 +141,10 @@
     "longitude": "5.2263",
     "geo_radius_value": "8000",
     "geo_radius_unit": "km",
-    "product_category": "Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse (periodontitt), Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering",
+    "product_category": "",
     "custom_label_0": "Kleppestø",
     "custom_label_1": "Vestland",
-    "custom_label_4": "akutt",
+    "custom_label_4": "",
     "daily_budget": ""
   },
   {
