@@ -74,20 +74,20 @@
     "daily_budget": "89 kr"
   },
   {
-    "id": "oris-arken-asane-12450",
+    "id": "oris-arken-asane-45695",
     "title": "Ledig time – Oris Dental Arken Åsane – 11. august kl. 08:15",
-    "description": "Book time hos Elina Leppälä (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 11. august kl. 08:15. Varighet: 30 min.",
+    "description": "Book time hos Linn Johannesen (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 11. august kl. 08:15. Varighet: 30 min.",
     "link": "https://orisdental.no/klinikker/arken-asane",
-    "image_link": "https://odnowwwproduction.blob.core.windows.net/app/uploads/Mari-Iselin-Andersson_-tannlege_.jpg",
+    "image_link": "https://odnowwwproduction.blob.core.windows.net/app/uploads/Linn-Iren-Johannesen-tannlege.jpg",
     "availability": "in stock",
     "condition": "new",
     "brand": "Oris Dental",
     "google_product_category": "Health & Beauty",
     "price": "1423.00",
     "price_currency": "NOK",
-    "clinician_name": "Elina Leppälä",
+    "clinician_name": "Linn Johannesen",
     "clinician_title": "Tannlege",
-    "clinician_id": "12450",
+    "clinician_id": "45695",
     "appointment_date": "11. august",
     "appointment_time": "08:15",
     "appointment_weekday": "Tirsdag",
@@ -108,7 +108,7 @@
     "custom_label_0": "UIset",
     "custom_label_1": "Vestland",
     "custom_label_4": "akutt",
-    "daily_budget": "79 kr"
+    "daily_budget": ""
   },
   {
     "id": "oris-askoy-13289",
