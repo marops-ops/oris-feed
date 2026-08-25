@@ -182,7 +182,12 @@ def name_match(api_name: str, web_name: str) -> bool:
         b_first = b_parts[0]
         a_last = a_parts[-1]
         b_last = b_parts[-1]
-        return a_last == b_last and a_first == b_first and len(a_last) > 3
+        # Eksakt match på fornavn + etternavn
+        if a_last == b_last and a_first == b_first and len(a_last) > 3:
+            return True
+        # API-navn er delstreng av nettsidenavn (f.eks. "Tien Thao Nguyen" vs "Tien Thao Nguyen Lerengen")
+        if a in b or b in a:
+            return True
     return False
 
 
