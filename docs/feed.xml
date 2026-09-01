@@ -6,8 +6,8 @@
     <description>Automatisk oppdatert feed med ledige tannlegetimer hos Oris Dental</description>
     <item>
       <g:id>oris-aker-brygge-1216</g:id>
-      <g:title>Ledig time – Oris Dental Aker Brygge – 3. september kl. 08:00</g:title>
-      <g:description>Book time hos Mariann Sørensen (Tannlege) ved Oris Dental Aker Brygge. Første ledige time: 3. september kl. 08:00. Varighet: 50 min.</g:description>
+      <g:title>Ledig time – Oris Dental Aker Brygge – 3. september kl. 09:00</g:title>
+      <g:description>Book time hos Mariann Sørensen (Tannlege) ved Oris Dental Aker Brygge. Første ledige time: 3. september kl. 09:00. Varighet: 50 min.</g:description>
       <g:link>https://orisdental.no/klinikker/aker-brygge</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mariann-Sorensen.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -16,11 +16,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>3. september</appointment_date>
-      <appointment_time>08:00</appointment_time>
+      <appointment_time>09:00</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>50</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T06:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-03T07:00:00Z</time_from_iso>
       <clinician_name>Mariann Sørensen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>1216</clinician_id>
@@ -35,11 +35,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.9103,10.7259</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling med laser, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling med laser, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-arendal-spesialistklinikk-14245</g:id>
@@ -77,28 +77,28 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-arken-asane-45695</g:id>
-      <g:title>Ledig time – Oris Dental Arken Åsane – 1. september kl. 13:15</g:title>
-      <g:description>Book time hos Linn Johannesen (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 1. september kl. 13:15. Varighet: 30 min.</g:description>
+      <g:id>oris-arken-asane-94501</g:id>
+      <g:title>Ledig time – Oris Dental Arken Åsane – 1. september kl. 19:30</g:title>
+      <g:description>Book time hos Olaa Elnour (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 1. september kl. 19:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/arken-asane</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Linn-Iren-Johannesen-tannlege.jpg</g:image_link>
+      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>1. september</appointment_date>
-      <appointment_time>13:15</appointment_time>
+      <appointment_time>19:30</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
       <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:15:00Z</time_from_iso>
-      <clinician_name>Linn Johannesen</clinician_name>
+      <time_from_iso>2026-09-01T17:30:00Z</time_from_iso>
+      <clinician_name>Olaa Elnour</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>45695</clinician_id>
+      <clinician_id>94501</clinician_id>
       <clinic_name>Oris Dental Arken Åsane</clinic_name>
       <clinic_address>Åsane Senter 37</clinic_address>
       <clinic_city>UIset</clinic_city>
@@ -110,11 +110,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.4654,5.3235</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>UIset</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-askoy-5072</g:id>
@@ -147,16 +147,16 @@
       <geo_radius_value>8000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.4087,5.2263</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Kleppestø</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bodo-14660</g:id>
-      <g:title>Ledig time – Oris Dental Bodø – 2. september kl. 08:15</g:title>
-      <g:description>Book time hos Øystein Johnsløv (Tannlege) ved Oris Dental Bodø. Første ledige time: 2. september kl. 08:15. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Bodø – 2. september kl. 11:15</g:title>
+      <g:description>Book time hos Øystein Johnsløv (Tannlege) ved Oris Dental Bodø. Første ledige time: 2. september kl. 11:15. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/bodo</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Oystein-tannlege-kopi.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -165,11 +165,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>2. september</appointment_date>
-      <appointment_time>08:15</appointment_time>
+      <appointment_time>11:15</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-02T06:15:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T09:15:00Z</time_from_iso>
       <clinician_name>Øystein Johnsløv</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>14660</clinician_id>
@@ -184,11 +184,11 @@
       <geo_radius_value>50000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>67.2831,14.3795</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Bodø</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-broegelmannhuset-37055</g:id>
@@ -225,28 +225,28 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-brosundet-13454</g:id>
-      <g:title>Ledig time – Oris Dental Brosundet – 3. september kl. 10:30</g:title>
-      <g:description>Book time hos Mary Joy Grytten (Tannlege) ved Oris Dental Brosundet. Første ledige time: 3. september kl. 10:30. Varighet: 45 min.</g:description>
+      <g:id>oris-brosundet-6368</g:id>
+      <g:title>Ledig time – Oris Dental Brosundet – 2. september kl. 12:00</g:title>
+      <g:description>Book time hos Ricarda Rossbach (Tannlege) ved Oris Dental Brosundet. Første ledige time: 2. september kl. 12:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/brosundet</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mary-Joy-Grytten-dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ricarda-Rossbach-dentistbrosundet.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>3. september</appointment_date>
-      <appointment_time>10:30</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>12:00</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T08:30:00Z</time_from_iso>
-      <clinician_name>Mary Joy Grytten</clinician_name>
+      <time_from_iso>2026-09-02T10:00:00Z</time_from_iso>
+      <clinician_name>Ricarda Rossbach</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>13454</clinician_id>
+      <clinician_id>6368</clinician_id>
       <clinic_name>Oris Dental Brosundet</clinic_name>
       <clinic_address>Notenesgata 3</clinic_address>
       <clinic_city>Ålesund</clinic_city>
@@ -258,33 +258,32 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>62.4722,6.1528</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Ålesund</g:custom_label_0>
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4/>
-      <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-bryn-8737</g:id>
-      <g:title>Ledig time – Oris Dental Bryn – 1. september kl. 15:00</g:title>
-      <g:description>Book time hos Ulla Rognsaa Kildal (Tannlege) ved Oris Dental Bryn. Første ledige time: 1. september kl. 15:00. Varighet: 30 min.</g:description>
+      <g:id>oris-bryn-11824</g:id>
+      <g:title>Ledig time – Oris Dental Bryn – 2. september kl. 10:00</g:title>
+      <g:description>Book time hos Lars Ove Haug (Tannlege) ved Oris Dental Bryn. Første ledige time: 2. september kl. 10:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/bryn</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ulla-Rognsaa-Kildal-tannlege-10.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Lars-Ove-Haug-tannlege-4.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>15:00</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>10:00</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T13:00:00Z</time_from_iso>
-      <clinician_name>Ulla Rognsaa Kildal</clinician_name>
+      <time_from_iso>2026-09-02T08:00:00Z</time_from_iso>
+      <clinician_name>Lars Ove Haug</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>8737</clinician_id>
+      <clinician_id>11824</clinician_id>
       <clinic_name>Oris Dental Bryn</clinic_name>
       <clinic_address>Østensjøveien 79</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -300,7 +299,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-bryne-14334</g:id>
@@ -337,7 +336,7 @@
       <g:custom_label_0>Bryne</g:custom_label_0>
       <g:custom_label_1>Bryne</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-14968</g:id>
@@ -370,16 +369,16 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.7451,10.2062</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Drammen</g:custom_label_0>
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-drammen-avd-landfalloya-10198</g:id>
-      <g:title>Ledig time – Oris Dental Drammen avd. Landfalløya – 2. september kl. 10:20</g:title>
-      <g:description>Book time hos Linn Christine Nygaard (Tannlege) ved Oris Dental Drammen avd. Landfalløya. Første ledige time: 2. september kl. 10:20. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Drammen avd. Landfalløya – 2. september kl. 12:00</g:title>
+      <g:description>Book time hos Linn Christine Nygaard (Tannlege) ved Oris Dental Drammen avd. Landfalløya. Første ledige time: 2. september kl. 12:00. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/drammen-avd-landfalloya</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Linn-Christine-Nygaard-Tannlege-linnchristine%40msn-5.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -388,11 +387,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>2. september</appointment_date>
-      <appointment_time>10:20</appointment_time>
+      <appointment_time>12:00</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-02T08:20:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T10:00:00Z</time_from_iso>
       <clinician_name>Linn Christine Nygaard</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>10198</clinician_id>
@@ -407,17 +406,17 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.7533,10.18</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Drammen</g:custom_label_0>
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-egersund-11936</g:id>
-      <g:title>Ledig time – Oris Dental Egersund – 3. september kl. 12:00</g:title>
-      <g:description>Book time hos Benedikte Hetland (Tannlege) ved Oris Dental Egersund. Første ledige time: 3. september kl. 12:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Egersund – 4. september kl. 09:00</g:title>
+      <g:description>Book time hos Benedikte Hetland (Tannlege) ved Oris Dental Egersund. Første ledige time: 4. september kl. 09:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/egersund</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Benedicte-dentist-egerdun.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -425,12 +424,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>3. september</appointment_date>
-      <appointment_time>12:00</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
+      <appointment_date>4. september</appointment_date>
+      <appointment_time>09:00</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 4. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T10:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-04T07:00:00Z</time_from_iso>
       <clinician_name>Benedikte Hetland</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>11936</clinician_id>
@@ -445,32 +444,32 @@
       <geo_radius_value>30000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.4526,6.0028</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling i narkose eller sedasjon</product_category>
       <g:custom_label_0>Egersund</g:custom_label_0>
       <g:custom_label_1>Egersund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-eikas-8899</g:id>
-      <g:title>Ledig time – Oris Dental Eikås – 3. september kl. 13:10</g:title>
-      <g:description>Book time hos Nina   Tisthamar  (Tannlege) ved Oris Dental Eikås. Første ledige time: 3. september kl. 13:10. Varighet: 40 min.</g:description>
+      <g:id>oris-eikas-7786</g:id>
+      <g:title>Ledig time – Oris Dental Eikås – 7. september kl. 08:40</g:title>
+      <g:description>Book time hos Nina Hope Eikås (Tannlege) ved Oris Dental Eikås. Første ledige time: 7. september kl. 08:40. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/eikas</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nina-T_-dentist_-Nordfjordeid_-kopi.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nina_-dentist_-nordjoreid_-kopi.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>3. september</appointment_date>
-      <appointment_time>13:10</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
+      <appointment_date>7. september</appointment_date>
+      <appointment_time>08:40</appointment_time>
+      <appointment_weekday>Mandag</appointment_weekday>
+      <appointment_weekday_date>Mandag 7. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T11:10:00Z</time_from_iso>
-      <clinician_name>Nina   Tisthamar </clinician_name>
+      <time_from_iso>2026-09-07T06:40:00Z</time_from_iso>
+      <clinician_name>Nina Hope Eikås</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>8899</clinician_id>
+      <clinician_id>7786</clinician_id>
       <clinic_name>Oris Dental Eikås</clinic_name>
       <clinic_address>Eidsgata 45</clinic_address>
       <clinic_city>Nordfjordeid</clinic_city>
@@ -486,13 +485,12 @@
       <g:custom_label_0>Nordfjordeid</g:custom_label_0>
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-fredrikstad-16007</g:id>
-      <g:title>Ledig time – Oris Dental Fredrikstad – 1. september kl. 13:30</g:title>
-      <g:description>Book time hos Sara Østborg (Tannlege) ved Oris Dental Fredrikstad. Første ledige time: 1. september kl. 13:30. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Fredrikstad – 7. september kl. 13:30</g:title>
+      <g:description>Book time hos Sara Østborg (Tannlege) ved Oris Dental Fredrikstad. Første ledige time: 7. september kl. 13:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/fredrikstad</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Sara-OstborgTannlegeFredrikstad.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -500,12 +498,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
+      <appointment_date>7. september</appointment_date>
       <appointment_time>13:30</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_weekday>Mandag</appointment_weekday>
+      <appointment_weekday_date>Mandag 7. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:30:00Z</time_from_iso>
+      <time_from_iso>2026-09-07T11:30:00Z</time_from_iso>
       <clinician_name>Sara Østborg</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>16007</clinician_id>
@@ -520,33 +518,33 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.21,10.93</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Kråkerøy</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-galleri-oslo-74625</g:id>
-      <g:title>Ledig time – Oris Dental Galleri Oslo – 1. september kl. 13:45</g:title>
-      <g:description>Book time hos Azadeh Zadmehr (Tannlege) ved Oris Dental Galleri Oslo. Første ledige time: 1. september kl. 13:45. Varighet: 45 min.</g:description>
+      <g:id>oris-galleri-oslo-58953</g:id>
+      <g:title>Ledig time – Oris Dental Galleri Oslo – 2. september kl. 09:00</g:title>
+      <g:description>Book time hos Nine Dehdar Urfjell (Tannlege) ved Oris Dental Galleri Oslo. Første ledige time: 2. september kl. 09:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/galleri-oslo</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Azi-kopi.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nine-Dehdar-Urfjell-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:45</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>09:00</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:45:00Z</time_from_iso>
-      <clinician_name>Azadeh Zadmehr</clinician_name>
+      <time_from_iso>2026-09-02T07:00:00Z</time_from_iso>
+      <clinician_name>Nine Dehdar Urfjell</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>74625</clinician_id>
+      <clinician_id>58953</clinician_id>
       <clinic_name>Oris Dental Galleri Oslo</clinic_name>
       <clinic_address>Schweigaardsgate 6, 4 et</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -558,11 +556,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.911,10.758</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-gressvik-3021</g:id>
@@ -599,12 +597,12 @@
       <g:custom_label_0>Gressvik</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-gronnegata-tannlegesenter-37674</g:id>
-      <g:title>Ledig time – Oris Dental Grønnegata Tannlegesenter – 4. september kl. 08:00</g:title>
-      <g:description>Book time hos Kristian Kjørstad (Tannlege) ved Oris Dental Grønnegata Tannlegesenter. Første ledige time: 4. september kl. 08:00. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Grønnegata Tannlegesenter – 3. september kl. 18:40</g:title>
+      <g:description>Book time hos Kristian Kjørstad (Tannlege) ved Oris Dental Grønnegata Tannlegesenter. Første ledige time: 3. september kl. 18:40. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/gronnegata</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Kristian-Kjorstad.-Tannlege.-kkjoerstad%40gmail-7_size_down.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -612,12 +610,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>4. september</appointment_date>
-      <appointment_time>08:00</appointment_time>
-      <appointment_weekday>Fredag</appointment_weekday>
-      <appointment_weekday_date>Fredag 4. september</appointment_weekday_date>
+      <appointment_date>3. september</appointment_date>
+      <appointment_time>18:40</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-04T06:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-03T16:40:00Z</time_from_iso>
       <clinician_name>Kristian Kjørstad</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>37674</clinician_id>
@@ -632,18 +630,18 @@
       <geo_radius_value>30000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>69.6517,18.9587</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Tromsø</g:custom_label_0>
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>148 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hamar-43852</g:id>
-      <g:title>Ledig time – Oris Dental Hamar – 9. september kl. 10:00</g:title>
+      <g:title>Ledig time – Oris Dental Hamar – 15. september kl. 09:30</g:title>
       <g:description>Book time hos  Nora Hui
- Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 9. september kl. 10:00. Varighet: 45 min.</g:description>
+ Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 15. september kl. 09:30. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/hamar</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nora-Hui-Andersen-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -651,12 +649,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>9. september</appointment_date>
-      <appointment_time>10:00</appointment_time>
-      <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 9. september</appointment_weekday_date>
+      <appointment_date>15. september</appointment_date>
+      <appointment_time>09:30</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 15. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-09T08:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-15T07:30:00Z</time_from_iso>
       <clinician_name> Nora Hui
  Andersen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
@@ -677,28 +675,28 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>63 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-harstad-torv-16313</g:id>
-      <g:title>Ledig time – Oris Dental Harstad Torv – 3. september kl. 10:30</g:title>
-      <g:description>Book time hos Mia  Holm (Tannlege) ved Oris Dental Harstad Torv. Første ledige time: 3. september kl. 10:30. Varighet: 60 min.</g:description>
+      <g:id>oris-harstad-torv-9094</g:id>
+      <g:title>Ledig time – Oris Dental Harstad Torv – 7. september kl. 10:45</g:title>
+      <g:description>Book time hos Christel Bruun Eriksen (Tannlege) ved Oris Dental Harstad Torv. Første ledige time: 7. september kl. 10:45. Varighet: 60 min.</g:description>
       <g:link>https://orisdental.no/klinikker/harstad-torv</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/010-Holm-Mia_dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/007-Eriksen-Christel_dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>3. september</appointment_date>
-      <appointment_time>10:30</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
+      <appointment_date>7. september</appointment_date>
+      <appointment_time>10:45</appointment_time>
+      <appointment_weekday>Mandag</appointment_weekday>
+      <appointment_weekday_date>Mandag 7. september</appointment_weekday_date>
       <appointment_duration_minutes>60</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T08:30:00Z</time_from_iso>
-      <clinician_name>Mia  Holm</clinician_name>
+      <time_from_iso>2026-09-07T08:45:00Z</time_from_iso>
+      <clinician_name>Christel Bruun Eriksen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>16313</clinician_id>
+      <clinician_id>9094</clinician_id>
       <clinic_name>Oris Dental Harstad Torv</clinic_name>
       <clinic_address>Torvet 1B</clinic_address>
       <clinic_city>Harstad</clinic_city>
@@ -710,11 +708,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>68.8005,16.5413</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Harstad</g:custom_label_0>
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-haugesund-5224</g:id>
@@ -752,12 +750,12 @@
       <g:custom_label_1>Haugesund</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>73 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-hinna-park-132948</g:id>
-      <g:title>Ledig time – Oris Dental Hinna Park – 1. september kl. 13:50</g:title>
-      <g:description>Book time hos Mads Øglænd Loose (Tannlege) ved Oris Dental Hinna Park. Første ledige time: 1. september kl. 13:50. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Hinna Park – 2. september kl. 10:10</g:title>
+      <g:description>Book time hos Mads Øglænd Loose (Tannlege) ved Oris Dental Hinna Park. Første ledige time: 2. september kl. 10:10. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/hinna-park</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mads-Oglaend-Loose-Tannlege-mads.loose%40orisdental-9.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -765,12 +763,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:50</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>10:10</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:50:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T08:10:00Z</time_from_iso>
       <clinician_name>Mads Øglænd Loose</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>132948</clinician_id>
@@ -785,11 +783,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.916,5.736</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Stavanger</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-homansbyen-55997</g:id>
@@ -822,33 +820,33 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.923,10.728</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-hvalertannlegene-2171</g:id>
-      <g:title>Ledig time – Oris Dental Hvalertannlegene – 1. september kl. 13:10</g:title>
-      <g:description>Book time hos Andrea Marie Andersen (Tannlege) ved Oris Dental Hvalertannlegene. Første ledige time: 1. september kl. 13:10. Varighet: 40 min.</g:description>
+      <g:id>oris-hvalertannlegene-2943</g:id>
+      <g:title>Ledig time – Oris Dental Hvalertannlegene – 3. september kl. 08:40</g:title>
+      <g:description>Book time hos Eugen Rask Sveinsen Treimo (Tannlege) ved Oris Dental Hvalertannlegene. Første ledige time: 3. september kl. 08:40. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/hvalertannlegene</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/andrea-marie-andersen_-dentist_-sarpsborg_.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Eugen-Rask-Sveinsen-Treimo-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:10</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>3. september</appointment_date>
+      <appointment_time>08:40</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:10:00Z</time_from_iso>
-      <clinician_name>Andrea Marie Andersen</clinician_name>
+      <time_from_iso>2026-09-03T06:40:00Z</time_from_iso>
+      <clinician_name>Eugen Rask Sveinsen Treimo</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>2171</clinician_id>
+      <clinician_id>2943</clinician_id>
       <clinic_name>Oris Dental Hvalertannlegene</clinic_name>
       <clinic_address>Norderhaugveien 14</clinic_address>
       <clinic_city>Vesterøy</clinic_city>
@@ -864,28 +862,29 @@
       <g:custom_label_0>Vesterøy</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <g:daily_budget>9 kr</g:daily_budget>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-indre-arna-15094</g:id>
-      <g:title>Ledig time – Oris Dental Indre Arna – 7. september kl. 09:30</g:title>
-      <g:description>Book time hos Infanta Antonipillai (Tannlege) ved Oris Dental Indre Arna. Første ledige time: 7. september kl. 09:30. Varighet: 45 min.</g:description>
+      <g:id>oris-indre-arna-13343</g:id>
+      <g:title>Ledig time – Oris Dental Indre Arna – 4. september kl. 13:45</g:title>
+      <g:description>Book time hos Marit Kløve (Tannlege) ved Oris Dental Indre Arna. Første ledige time: 4. september kl. 13:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/indre-arna</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Infanta-antonipillai_tannlege_147Indre-Arna.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Marit-Klove-Tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>7. september</appointment_date>
-      <appointment_time>09:30</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 7. september</appointment_weekday_date>
+      <appointment_date>4. september</appointment_date>
+      <appointment_time>13:45</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 4. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-07T07:30:00Z</time_from_iso>
-      <clinician_name>Infanta Antonipillai</clinician_name>
+      <time_from_iso>2026-09-04T11:45:00Z</time_from_iso>
+      <clinician_name>Marit Kløve</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>15094</clinician_id>
+      <clinician_id>13343</clinician_id>
       <clinic_name>Oris Dental Indre Arna</clinic_name>
       <clinic_address>Indre Arna-vegen 170</clinic_address>
       <clinic_city>Indre Arna</clinic_city>
@@ -901,49 +900,13 @@
       <g:custom_label_0>Indre Arna</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
-    </item>
-    <item>
-      <g:id>oris-jorpeland-5475</g:id>
-      <g:title>Ledig time – Oris Dental Jørpeland – 3. september kl. 12:40</g:title>
-      <g:description>Book time hos Ina Eckeberg (Tannlege) ved Oris Dental Jørpeland. Første ledige time: 3. september kl. 12:40. Varighet: 50 min.</g:description>
-      <g:link>https://orisdental.no/klinikker/jorpeland</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ina-Eckeberg-tannlege-12.jpg</g:image_link>
-      <g:availability>in stock</g:availability>
-      <g:condition>new</g:condition>
-      <g:brand>Oris Dental</g:brand>
-      <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
-      <g:price>1423.00 NOK</g:price>
-      <appointment_date>3. september</appointment_date>
-      <appointment_time>12:40</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
-      <appointment_duration_minutes>50</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T10:40:00Z</time_from_iso>
-      <clinician_name>Ina Eckeberg</clinician_name>
-      <clinician_title>Tannlege</clinician_title>
-      <clinician_id>5475</clinician_id>
-      <clinic_name>Oris Dental Jørpeland</clinic_name>
-      <clinic_address>Stålverksvegen 73</clinic_address>
-      <clinic_city>Jørpeland</clinic_city>
-      <clinic_zip>4100</clinic_zip>
-      <clinic_phone>51 74 77 45</clinic_phone>
-      <clinic_region>Sor Vest</clinic_region>
-      <latitude>59.0142</latitude>
-      <longitude>6.0463</longitude>
-      <geo_radius_value>25000</geo_radius_value>
-      <geo_radius_unit>km</geo_radius_unit>
-      <geo_coordinates>59.0142,6.0463</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter</product_category>
-      <g:custom_label_0>Jørpeland</g:custom_label_0>
-      <g:custom_label_1>Sor Vest</g:custom_label_1>
-      <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <g:daily_budget>24 kr</g:daily_budget>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-knapstad-2328</g:id>
-      <g:title>Ledig time – Oris Dental Knapstad – 1. september kl. 14:15</g:title>
-      <g:description>Book time hos Dalia Shwan (Tannlege) ved Oris Dental Knapstad. Første ledige time: 1. september kl. 14:15. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Knapstad – 2. september kl. 11:15</g:title>
+      <g:description>Book time hos Dalia Shwan (Tannlege) ved Oris Dental Knapstad. Første ledige time: 2. september kl. 11:15. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/knapstad</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Dalia-Shwan_Tannlege_Knapstad.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -951,12 +914,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>14:15</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>11:15</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T12:15:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T09:15:00Z</time_from_iso>
       <clinician_name>Dalia Shwan</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>2328</clinician_id>
@@ -971,12 +934,12 @@
       <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.6179,11.0425</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager</product_category>
       <g:custom_label_0>Knapstad</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-kolsas-4833</g:id>
@@ -1013,28 +976,28 @@
       <g:custom_label_0>Kolsås</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-kristiansand-11563</g:id>
-      <g:title>Ledig time – Oris Dental Kristiansand – 1. september kl. 13:10</g:title>
-      <g:description>Book time hos Kha Duong (Tannlege) ved Oris Dental Kristiansand. Første ledige time: 1. september kl. 13:10. Varighet: 40 min.</g:description>
+      <g:id>oris-kristiansand-8335</g:id>
+      <g:title>Ledig time – Oris Dental Kristiansand – 2. september kl. 12:30</g:title>
+      <g:description>Book time hos Ane Ribe (Tannlege) ved Oris Dental Kristiansand. Første ledige time: 2. september kl. 12:30. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/kristiansand</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tannlege-Kha-Doung-kdbergen%40outlook.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tannlege-Ane-Ribe-Ane.ribe%40orisdental.no_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:10</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>12:30</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:10:00Z</time_from_iso>
-      <clinician_name>Kha Duong</clinician_name>
+      <time_from_iso>2026-09-02T10:30:00Z</time_from_iso>
+      <clinician_name>Ane Ribe</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>11563</clinician_id>
+      <clinician_id>8335</clinician_id>
       <clinic_name>Oris Dental Kristiansand</clinic_name>
       <clinic_address>Markensgate 17</clinic_address>
       <clinic_city>Kristiansand S</clinic_city>
@@ -1046,11 +1009,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.1461,7.9961</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Kristiansand S</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-leutenhaven-99188</g:id>
@@ -1083,17 +1046,17 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.43,10.39</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>198 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lillehammer-20366</g:id>
-      <g:title>Ledig time – Oris Dental Lillehammer – 1. september kl. 13:00</g:title>
-      <g:description>Book time hos Kristin R. Skinnes (Tannlege) ved Oris Dental Lillehammer. Første ledige time: 1. september kl. 13:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Lillehammer – 3. september kl. 10:00</g:title>
+      <g:description>Book time hos Kristin R. Skinnes (Tannlege) ved Oris Dental Lillehammer. Første ledige time: 3. september kl. 10:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lillehammer</g:link>
       <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1101,12 +1064,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:00</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>3. september</appointment_date>
+      <appointment_time>10:00</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-03T08:00:00Z</time_from_iso>
       <clinician_name>Kristin R. Skinnes</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>20366</clinician_id>
@@ -1125,28 +1088,28 @@
       <g:custom_label_0>Lillehammer</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-lokketangen-12590</g:id>
-      <g:title>Ledig time – Oris Dental Løkketangen – 3. september kl. 10:20</g:title>
-      <g:description>Book time hos Anemone Elisabeth Ossum (Tannlege) ved Oris Dental Løkketangen. Første ledige time: 3. september kl. 10:20. Varighet: 40 min.</g:description>
+      <g:id>oris-lokketangen-19538</g:id>
+      <g:title>Ledig time – Oris Dental Løkketangen – 4. september kl. 09:30</g:title>
+      <g:description>Book time hos Henriette Næss Liisberg (Tannlege) ved Oris Dental Løkketangen. Første ledige time: 4. september kl. 09:30. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lokketangen</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Anemone-Elisabeth-Ossum-tannlege.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Henriette-Naess-Liisberg-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>3. september</appointment_date>
-      <appointment_time>10:20</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
+      <appointment_date>4. september</appointment_date>
+      <appointment_time>09:30</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 4. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T08:20:00Z</time_from_iso>
-      <clinician_name>Anemone Elisabeth Ossum</clinician_name>
+      <time_from_iso>2026-09-04T07:30:00Z</time_from_iso>
+      <clinician_name>Henriette Næss Liisberg</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>12590</clinician_id>
+      <clinician_id>19538</clinician_id>
       <clinic_name>Oris Dental Løkketangen</clinic_name>
       <clinic_address>Løkketangen 12a</clinic_address>
       <clinic_city>Sandvika</clinic_city>
@@ -1162,7 +1125,8 @@
       <g:custom_label_0>Sandvika</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <g:daily_budget>89 kr</g:daily_budget>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lokkeveien-116316</g:id>
@@ -1200,7 +1164,7 @@
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lykkegarden-tidligere-trondheim-torg-25379</g:id>
@@ -1233,11 +1197,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.431,10.395</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-lysaker-596</g:id>
@@ -1270,32 +1234,32 @@
       <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.913,10.6409</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Snorking og snorkeskinne, Tannbehandling med laser, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Lysaker</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-madla-123883</g:id>
-      <g:title>Ledig time – Oris Dental Madla – 2. september kl. 08:40</g:title>
-      <g:description>Book time hos Guro Forbord Ziesler (Tannlege) ved Oris Dental Madla. Første ledige time: 2. september kl. 08:40. Varighet: 30 min.</g:description>
+      <g:id>oris-madla-135377</g:id>
+      <g:title>Ledig time – Oris Dental Madla – 2. september kl. 13:20</g:title>
+      <g:description>Book time hos Poyan Miralimohammadi (Tannlege) ved Oris Dental Madla. Første ledige time: 2. september kl. 13:20. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/madla</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Guro-Forbord-Anderssen-tannlege-guro.forbord%40orisdental.no-185-22.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-Poyan-Mirahimhammodi-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>2. september</appointment_date>
-      <appointment_time>08:40</appointment_time>
+      <appointment_time>13:20</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-02T06:40:00Z</time_from_iso>
-      <clinician_name>Guro Forbord Ziesler</clinician_name>
+      <time_from_iso>2026-09-02T11:20:00Z</time_from_iso>
+      <clinician_name>Poyan Miralimohammadi</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>123883</clinician_id>
+      <clinician_id>135377</clinician_id>
       <clinic_name>Oris Dental Madla</clinic_name>
       <clinic_address>Madlagården, Madlamarkveien 2A</clinic_address>
       <clinic_city>Hafrsfjord</clinic_city>
@@ -1307,16 +1271,16 @@
       <geo_radius_value>4000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.955,5.69</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Hafrsfjord</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-maloy-4433</g:id>
-      <g:title>Ledig time – Oris Dental Måløy – 7. september kl. 12:45</g:title>
-      <g:description>Book time hos Kristina Enoksson (Tannlege) ved Oris Dental Måløy. Første ledige time: 7. september kl. 12:45. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Måløy – 15. september kl. 08:00</g:title>
+      <g:description>Book time hos Kristina Enoksson (Tannlege) ved Oris Dental Måløy. Første ledige time: 15. september kl. 08:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/maaloy</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/DSC09006-kopi-2web.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1324,12 +1288,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>7. september</appointment_date>
-      <appointment_time>12:45</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 7. september</appointment_weekday_date>
+      <appointment_date>15. september</appointment_date>
+      <appointment_time>08:00</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 15. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-07T10:45:00Z</time_from_iso>
+      <time_from_iso>2026-09-15T06:00:00Z</time_from_iso>
       <clinician_name>Kristina Enoksson</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>4433</clinician_id>
@@ -1349,28 +1313,28 @@
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-mo-i-rana-14575</g:id>
-      <g:title>Ledig time – Oris Dental Mo i Rana – 1. september kl. 13:00</g:title>
-      <g:description>Book time hos Maren Sæterstad Kulseng (Tannlege) ved Oris Dental Mo i Rana. Første ledige time: 1. september kl. 13:00. Varighet: 40 min.</g:description>
+      <g:id>oris-mo-i-rana-5491</g:id>
+      <g:title>Ledig time – Oris Dental Mo i Rana – 3. september kl. 13:40</g:title>
+      <g:description>Book time hos Colin Eriksen (Tannlege) ved Oris Dental Mo i Rana. Første ledige time: 3. september kl. 13:40. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/mo-i-rana</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Maren-Saeterstad-Kulstad-tannlege-msaeterstad%40gmail.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Colin-Eriksen-tannlege-colin.eriksen%40orisdental.no_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:00</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>3. september</appointment_date>
+      <appointment_time>13:40</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:00:00Z</time_from_iso>
-      <clinician_name>Maren Sæterstad Kulseng</clinician_name>
+      <time_from_iso>2026-09-03T11:40:00Z</time_from_iso>
+      <clinician_name>Colin Eriksen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>14575</clinician_id>
+      <clinician_id>5491</clinician_id>
       <clinic_name>Oris Dental Mo i Rana</clinic_name>
       <clinic_address>Nordahl Griegs gate 6</clinic_address>
       <clinic_city>Mo i Rana</clinic_city>
@@ -1382,11 +1346,11 @@
       <geo_radius_value>50000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>66.3134,14.1432</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Mo i Rana</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moa-469</g:id>
@@ -1419,12 +1383,12 @@
       <geo_radius_value>10000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>62.47,6.33</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Ålesund</g:custom_label_0>
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>99 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moelv-14973</g:id>
@@ -1457,16 +1421,16 @@
       <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.9328,10.6974</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager</product_category>
       <g:custom_label_0>Moelv</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-moss-spesialistklinikk-28759</g:id>
-      <g:title>Ledig time – Oris Dental Moss Spesialistklinikk – 8. september kl. 10:15</g:title>
-      <g:description>Book time hos Anette Moen Barnholt (Tannlege) ved Oris Dental Moss Spesialistklinikk. Første ledige time: 8. september kl. 10:15. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Moss Spesialistklinikk – 17. september kl. 12:30</g:title>
+      <g:description>Book time hos Anette Moen Barnholt (Tannlege) ved Oris Dental Moss Spesialistklinikk. Første ledige time: 17. september kl. 12:30. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/moss-spesialistklinikk</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Anette-Moen-Barnholt-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1474,12 +1438,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>8. september</appointment_date>
-      <appointment_time>10:15</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 8. september</appointment_weekday_date>
+      <appointment_date>17. september</appointment_date>
+      <appointment_time>12:30</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 17. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-08T08:15:00Z</time_from_iso>
+      <time_from_iso>2026-09-17T10:30:00Z</time_from_iso>
       <clinician_name>Anette Moen Barnholt</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>28759</clinician_id>
@@ -1499,12 +1463,12 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>69 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-narvik-13771</g:id>
-      <g:title>Ledig time – Oris Dental Narvik – 2. september kl. 09:00</g:title>
-      <g:description>Book time hos Mathias Gyllan Hanssen (Tannlege) ved Oris Dental Narvik. Første ledige time: 2. september kl. 09:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Narvik – 3. september kl. 11:00</g:title>
+      <g:description>Book time hos Mathias Gyllan Hanssen (Tannlege) ved Oris Dental Narvik. Første ledige time: 3. september kl. 11:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/narvik</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mathias-Gylland-Dentist-Tannlege-20250117-R5__0023_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1512,12 +1476,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>2. september</appointment_date>
-      <appointment_time>09:00</appointment_time>
-      <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
+      <appointment_date>3. september</appointment_date>
+      <appointment_time>11:00</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-02T07:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-03T09:00:00Z</time_from_iso>
       <clinician_name>Mathias Gyllan Hanssen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>13771</clinician_id>
@@ -1537,28 +1501,28 @@
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>42 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-nesttun-3553</g:id>
-      <g:title>Ledig time – Oris Dental Nesttun – 3. september kl. 08:45</g:title>
-      <g:description>Book time hos Trond Helgesen (Tannlege) ved Oris Dental Nesttun. Første ledige time: 3. september kl. 08:45. Varighet: 30 min.</g:description>
+      <g:id>oris-nesttun-7346</g:id>
+      <g:title>Ledig time – Oris Dental Nesttun – 3. september kl. 09:00</g:title>
+      <g:description>Book time hos Randi Berge Jacobsen (Tannlege) ved Oris Dental Nesttun. Første ledige time: 3. september kl. 09:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/nesttun</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Trond-Helgesen-Tannlege-trond.helgesen%40orisdental-10.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Randi-Berge-Jacobsen-Tannlege-randi.jacobsen%40orisdental-4.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>3. september</appointment_date>
-      <appointment_time>08:45</appointment_time>
+      <appointment_time>09:00</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T06:45:00Z</time_from_iso>
-      <clinician_name>Trond Helgesen</clinician_name>
+      <time_from_iso>2026-09-03T07:00:00Z</time_from_iso>
+      <clinician_name>Randi Berge Jacobsen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>3553</clinician_id>
+      <clinician_id>7346</clinician_id>
       <clinic_name>Oris Dental Nesttun</clinic_name>
       <clinic_address>Østre Nesttunvegen 2</clinic_address>
       <clinic_city>Nesttun</clinic_city>
@@ -1574,28 +1538,29 @@
       <g:custom_label_0>Nesttun</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <g:daily_budget>59 kr</g:daily_budget>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-orkanger-14454</g:id>
-      <g:title>Ledig time – Oris Dental Orkanger – 3. september kl. 14:00</g:title>
-      <g:description>Book time hos Nourhanim Fadul (Tannlege) ved Oris Dental Orkanger. Første ledige time: 3. september kl. 14:00. Varighet: 45 min.</g:description>
+      <g:id>oris-orkanger-5499</g:id>
+      <g:title>Ledig time – Oris Dental Orkanger – 3. september kl. 12:30</g:title>
+      <g:description>Book time hos Kenneth Brænd (Tannlege) ved Oris Dental Orkanger. Første ledige time: 3. september kl. 12:30. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/orkanger</g:link>
-      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Kenneth-Braend-tannlege_size_down.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>3. september</appointment_date>
-      <appointment_time>14:00</appointment_time>
+      <appointment_time>12:30</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T12:00:00Z</time_from_iso>
-      <clinician_name>Nourhanim Fadul</clinician_name>
+      <time_from_iso>2026-09-03T10:30:00Z</time_from_iso>
+      <clinician_name>Kenneth Brænd</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>14454</clinician_id>
+      <clinician_id>5499</clinician_id>
       <clinic_name>Oris Dental Orkanger</clinic_name>
       <clinic_address>Orkdalsveien 113</clinic_address>
       <clinic_city>Orkanger</clinic_city>
@@ -1607,33 +1572,32 @@
       <geo_radius_value>20000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.3039,9.8519</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Orkanger</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <g:daily_budget>24 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-rommen-7015</g:id>
-      <g:title>Ledig time – Oris Dental Rommen – 1. september kl. 13:10</g:title>
-      <g:description>Book time hos Sarwat Malik (Tannlege) ved Oris Dental Rommen. Første ledige time: 1. september kl. 13:10. Varighet: 40 min.</g:description>
+      <g:id>oris-rommen-4214</g:id>
+      <g:title>Ledig time – Oris Dental Rommen – 2. september kl. 08:30</g:title>
+      <g:description>Book time hos Mai Dinh (Tannlege) ved Oris Dental Rommen. Første ledige time: 2. september kl. 08:30. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/rommen</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Sarwat-Malik-dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Mai-Dihn-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:10</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>08:30</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:10:00Z</time_from_iso>
-      <clinician_name>Sarwat Malik</clinician_name>
+      <time_from_iso>2026-09-02T06:30:00Z</time_from_iso>
+      <clinician_name>Mai Dinh</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7015</clinician_id>
+      <clinician_id>4214</clinician_id>
       <clinic_name>Oris Dental Rommen</clinic_name>
       <clinic_address>Nedre Rommen 5c, 3. et</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -1645,11 +1609,11 @@
       <geo_radius_value>4000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.96,10.905</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-ryen-469</g:id>
@@ -1682,32 +1646,32 @@
       <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.896,10.805</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-sanden-22187</g:id>
-      <g:title>Ledig time – Oris Dental Sanden – 1. september kl. 13:40</g:title>
-      <g:description>Book time hos Maren Rasmussen (Tannlege) ved Oris Dental Sanden. Første ledige time: 1. september kl. 13:40. Varighet: 30 min.</g:description>
+      <g:id>oris-sanden-24404</g:id>
+      <g:title>Ledig time – Oris Dental Sanden – 3. september kl. 08:20</g:title>
+      <g:description>Book time hos Daniel Hafzi (Tannlege) ved Oris Dental Sanden. Første ledige time: 3. september kl. 08:20. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sanden</g:link>
-      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Daniel-Hafzi_Tannlege_Sanden.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:40</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>3. september</appointment_date>
+      <appointment_time>08:20</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:40:00Z</time_from_iso>
-      <clinician_name>Maren Rasmussen</clinician_name>
+      <time_from_iso>2026-09-03T06:20:00Z</time_from_iso>
+      <clinician_name>Daniel Hafzi</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>22187</clinician_id>
+      <clinician_id>24404</clinician_id>
       <clinic_name>Oris Dental Sanden</clinic_name>
       <clinic_address>Kongens gate 60</clinic_address>
       <clinic_city>Trondheim</clinic_city>
@@ -1723,13 +1687,12 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <g:daily_budget>198 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sandnes-39929</g:id>
-      <g:title>Ledig time – Oris Dental Sandnes – 2. september kl. 09:20</g:title>
-      <g:description>Book time hos Richard Cornelius Roth (Tannlege) ved Oris Dental Sandnes. Første ledige time: 2. september kl. 09:20. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Sandnes – 2. september kl. 10:40</g:title>
+      <g:description>Book time hos Richard Cornelius Roth (Tannlege) ved Oris Dental Sandnes. Første ledige time: 2. september kl. 10:40. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sandnes</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/RS6944_Richard-Cornelius-Roth_Tannlege_143-Sandnes_web.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1738,11 +1701,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>2. september</appointment_date>
-      <appointment_time>09:20</appointment_time>
+      <appointment_time>10:40</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-02T07:20:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T08:40:00Z</time_from_iso>
       <clinician_name>Richard Cornelius Roth</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>39929</clinician_id>
@@ -1757,32 +1720,32 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>58.8514,5.7368</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Sandnes</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-sarpsborg-7314</g:id>
-      <g:title>Ledig time – Oris Dental Sarpsborg – 1. september kl. 15:30</g:title>
-      <g:description>Book time hos Tore Indrevær (Tannlege) ved Oris Dental Sarpsborg. Første ledige time: 1. september kl. 15:30. Varighet: 30 min.</g:description>
+      <g:id>oris-sarpsborg-7315</g:id>
+      <g:title>Ledig time – Oris Dental Sarpsborg – 2. september kl. 13:00</g:title>
+      <g:description>Book time hos Anne-Sophie Indrevær (Tannlege) ved Oris Dental Sarpsborg. Første ledige time: 2. september kl. 13:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sarpsborg</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tore-Indrevaer-tannlege-5.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-Anne-Sophie-Indrevaer-%E2%80%93-tannlege-6.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>15:30</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>13:00</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T13:30:00Z</time_from_iso>
-      <clinician_name>Tore Indrevær</clinician_name>
+      <time_from_iso>2026-09-02T11:00:00Z</time_from_iso>
+      <clinician_name>Anne-Sophie Indrevær</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7314</clinician_id>
+      <clinician_id>7315</clinician_id>
       <clinic_name>Oris Dental Sarpsborg</clinic_name>
       <clinic_address>Kirkegata 63</clinic_address>
       <clinic_city>Sarpsborg</clinic_city>
@@ -1794,11 +1757,11 @@
       <geo_radius_value>8000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.284,11.1091</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Sarpsborg</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-sirkus-shopping-13722</g:id>
@@ -1831,16 +1794,16 @@
       <geo_radius_value>3000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>63.435,10.45</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Tannregulering, Usynlig tannregulering</product_category>
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-skoyen-11995</g:id>
-      <g:title>Ledig time – Oris Dental Skøyen – 2. september kl. 12:30</g:title>
-      <g:description>Book time hos Fanny Bjørnstad (Tannlege) ved Oris Dental Skøyen. Første ledige time: 2. september kl. 12:30. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Skøyen – 2. september kl. 13:50</g:title>
+      <g:description>Book time hos Fanny Bjørnstad (Tannlege) ved Oris Dental Skøyen. Første ledige time: 2. september kl. 13:50. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/skoyen</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Fanny-Bjornstad-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1849,11 +1812,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>2. september</appointment_date>
-      <appointment_time>12:30</appointment_time>
+      <appointment_time>13:50</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-02T10:30:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T11:50:00Z</time_from_iso>
       <clinician_name>Fanny Bjørnstad</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>11995</clinician_id>
@@ -1868,17 +1831,17 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.921,10.68</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannpleie, Trekke tann, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannbleking hos tannlege, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannpleie, Trekke tann, Tannlegeskrekk (Odontofobi), Estetisk og funksjonell behandling, Tannbleking hos tannlege, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-slemmestad-8316</g:id>
-      <g:title>Ledig time – Oris Dental Slemmestad – 8. september kl. 09:00</g:title>
-      <g:description>Book time hos Benedikte Aune (Tannlege) ved Oris Dental Slemmestad. Første ledige time: 8. september kl. 09:00. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Slemmestad – 8. september kl. 13:00</g:title>
+      <g:description>Book time hos Benedikte Aune (Tannlege) ved Oris Dental Slemmestad. Første ledige time: 8. september kl. 13:00. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/slemmestad</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Benedikte-Aune_Tannlege_Slemmestad.png</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1887,11 +1850,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>8. september</appointment_date>
-      <appointment_time>09:00</appointment_time>
+      <appointment_time>13:00</appointment_time>
       <appointment_weekday>Tirsdag</appointment_weekday>
       <appointment_weekday_date>Tirsdag 8. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-08T07:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-08T11:00:00Z</time_from_iso>
       <clinician_name>Benedikte Aune</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>8316</clinician_id>
@@ -1910,28 +1873,28 @@
       <g:custom_label_0>Slemmestad</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-sogne-17916</g:id>
-      <g:title>Ledig time – Oris Dental Søgne – 2. september kl. 14:00</g:title>
-      <g:description>Book time hos Nelcy Olsen Barreth (Tannlege) ved Oris Dental Søgne. Første ledige time: 2. september kl. 14:00. Varighet: 45 min.</g:description>
+      <g:id>oris-sogne-6398</g:id>
+      <g:title>Ledig time – Oris Dental Søgne – 3. september kl. 10:30</g:title>
+      <g:description>Book time hos Tone Heimdal Nodenes (Tannlege) ved Oris Dental Søgne. Første ledige time: 3. september kl. 10:30. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/sogne</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nelcy-Olsen-Bareth-tannlege.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tone-Heimdal-Nodenes-tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>2. september</appointment_date>
-      <appointment_time>14:00</appointment_time>
-      <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
+      <appointment_date>3. september</appointment_date>
+      <appointment_time>10:30</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-09-02T12:00:00Z</time_from_iso>
-      <clinician_name>Nelcy Olsen Barreth</clinician_name>
+      <time_from_iso>2026-09-03T08:30:00Z</time_from_iso>
+      <clinician_name>Tone Heimdal Nodenes</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>17916</clinician_id>
+      <clinician_id>6398</clinician_id>
       <clinic_name>Oris Dental Søgne</clinic_name>
       <clinic_address>Rådhusveien 37</clinic_address>
       <clinic_city>Søgne</clinic_city>
@@ -1947,12 +1910,12 @@
       <g:custom_label_0>Søgne</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stoa-i-arendal-6641</g:id>
-      <g:title>Ledig time – Oris Dental Stoa i Arendal – 1. september kl. 14:45</g:title>
-      <g:description>Book time hos Hilde Kjempekjenn (Tannlege) ved Oris Dental Stoa i Arendal. Første ledige time: 1. september kl. 14:45. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Stoa i Arendal – 2. september kl. 13:15</g:title>
+      <g:description>Book time hos Hilde Kjempekjenn (Tannlege) ved Oris Dental Stoa i Arendal. Første ledige time: 2. september kl. 13:15. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/stoa</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Hilde-Randbo-Kjempekjenn-tannlege-hilde.kjempekjenn%40orisdental-15.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1960,12 +1923,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>14:45</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>13:15</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T12:45:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T11:15:00Z</time_from_iso>
       <clinician_name>Hilde Kjempekjenn</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>6641</clinician_id>
@@ -1984,12 +1947,12 @@
       <g:custom_label_0>Arendal</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-stord-leirvik-22552</g:id>
-      <g:title>Ledig time – Oris Dental Stord Leirvik – 1. september kl. 13:10</g:title>
-      <g:description>Book time hos Piotr Pominkiewicz (Tannlege) ved Oris Dental Stord Leirvik. Første ledige time: 1. september kl. 13:10. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Stord Leirvik – 2. september kl. 09:30</g:title>
+      <g:description>Book time hos Piotr Pominkiewicz (Tannlege) ved Oris Dental Stord Leirvik. Første ledige time: 2. september kl. 09:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/stord-leirvik</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Bilde-00697-Tannlege-Piotr-Pominkiewicz-avd-173-Stord-og-165-Leirvik-dentist-blue-1.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1997,12 +1960,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>13:10</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>09:30</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T11:10:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T07:30:00Z</time_from_iso>
       <clinician_name>Piotr Pominkiewicz</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>22552</clinician_id>
@@ -2017,12 +1980,12 @@
       <geo_radius_value>10000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.78,5.5</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Tilbaketrukket tannkjøtt (retraksjonskirurgi), Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Stord</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>36 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-strandgaten-23078</g:id>
@@ -2059,28 +2022,28 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-tarnplassen-7488</g:id>
-      <g:title>Ledig time – Oris Dental Tårnplassen – 1. september kl. 12:45</g:title>
-      <g:description>Book time hos Vibeke Nøst Henriksen (Tannlege) ved Oris Dental Tårnplassen. Første ledige time: 1. september kl. 12:45. Varighet: 30 min.</g:description>
+      <g:id>oris-tarnplassen-3685</g:id>
+      <g:title>Ledig time – Oris Dental Tårnplassen – 2. september kl. 09:00</g:title>
+      <g:description>Book time hos Ørjan Mellingen (Tannlege) ved Oris Dental Tårnplassen. Første ledige time: 2. september kl. 09:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/tarnplassen</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Vibeke-Nost-Henriksen-tannlege-vibekenh%40yahoo.no-11.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Orjan-Mellingen-tannlege-orjan.mellingen%40orisdental-14.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>12:45</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>09:00</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T10:45:00Z</time_from_iso>
-      <clinician_name>Vibeke Nøst Henriksen</clinician_name>
+      <time_from_iso>2026-09-02T07:00:00Z</time_from_iso>
+      <clinician_name>Ørjan Mellingen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7488</clinician_id>
+      <clinician_id>3685</clinician_id>
       <clinic_name>Oris Dental Tårnplassen</clinic_name>
       <clinic_address>Valkendorfsgaten 5</clinic_address>
       <clinic_city>Bergen</clinic_city>
@@ -2096,7 +2059,8 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <g:daily_budget>109 kr</g:daily_budget>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-tonsberg-38501</g:id>
@@ -2129,16 +2093,16 @@
       <geo_radius_value>15000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.2678,10.4072</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannlegeskrekk (Odontofobi), Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Tannimplantat, Gebiss (tannprotese), Søvnapné, Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager, Tannbehandling i narkose eller sedasjon, Bitt og tannstilling, Usynlig tannregulering</product_category>
       <g:custom_label_0>Tønsberg</g:custom_label_0>
       <g:custom_label_1>Vestfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-vagsbygd-7003</g:id>
-      <g:title>Ledig time – Oris Dental Vågsbygd – 3. september kl. 11:00</g:title>
-      <g:description>Book time hos Henriette Eide (Tannlege) ved Oris Dental Vågsbygd. Første ledige time: 3. september kl. 11:00. Varighet: 40 min.</g:description>
+      <g:title>Ledig time – Oris Dental Vågsbygd – 2. september kl. 10:45</g:title>
+      <g:description>Book time hos Henriette Eide (Tannlege) ved Oris Dental Vågsbygd. Første ledige time: 2. september kl. 10:45. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/vagsbygd</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Tannlege-Henriette-Eide-Vagsbygd-tannklinikk2-1.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -2146,12 +2110,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>3. september</appointment_date>
-      <appointment_time>11:00</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 3. september</appointment_weekday_date>
+      <appointment_date>2. september</appointment_date>
+      <appointment_time>10:45</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 2. september</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-09-03T09:00:00Z</time_from_iso>
+      <time_from_iso>2026-09-02T08:45:00Z</time_from_iso>
       <clinician_name>Henriette Eide</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>7003</clinician_id>
@@ -2170,7 +2134,7 @@
       <g:custom_label_0>Kristiansand</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
       <g:id>oris-vestkanten-24819</g:id>
@@ -2203,35 +2167,35 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>60.38,5.23</geo_coordinates>
-      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Gebiss (tannprotese), Snorking og snorkeskinne</product_category>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Hull i tennene (karies), Min tannhelsestatus, Tannpleie, Tannfylling, Rotfylling, Trekke tann, Bedøvelse hos tannlegen, Tannrens, Estetisk og funksjonell behandling, Tannrens med Airflow, Tannbleking hos tannlege, Tannkrone, Tannbro, Skallfasetter, Kompleks behandling, Tannkjøttbetennelse: periodontitt og gingivitt, Gebiss (tannprotese), Snorking og snorkeskinne, Bittskinne – hjelp ved tanngnissing, tannpressing og kjeveplager</product_category>
       <g:custom_label_0>Loddefjord</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
     <item>
-      <g:id>oris-voyenenga-7398</g:id>
-      <g:title>Ledig time – Oris Dental Vøyenenga – 1. september kl. 14:00</g:title>
-      <g:description>Book time hos Victoria Holberg Wasler (Tannlege) ved Oris Dental Vøyenenga. Første ledige time: 1. september kl. 14:00. Varighet: 60 min.</g:description>
+      <g:id>oris-voyenenga-9962</g:id>
+      <g:title>Ledig time – Oris Dental Vøyenenga – 11. september kl. 08:15</g:title>
+      <g:description>Book time hos Emily Briksdal (Tannlege) ved Oris Dental Vøyenenga. Første ledige time: 11. september kl. 08:15. Varighet: 60 min.</g:description>
       <g:link>https://orisdental.no/klinikker/voyenenga</g:link>
-      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Navn-Emily-Briksdal_-dentist_-vaeyenenga_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>1. september</appointment_date>
-      <appointment_time>14:00</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 1. september</appointment_weekday_date>
+      <appointment_date>11. september</appointment_date>
+      <appointment_time>08:15</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 11. september</appointment_weekday_date>
       <appointment_duration_minutes>60</appointment_duration_minutes>
-      <time_from_iso>2026-09-01T12:00:00Z</time_from_iso>
-      <clinician_name>Victoria Holberg Wasler</clinician_name>
+      <time_from_iso>2026-09-11T06:15:00Z</time_from_iso>
+      <clinician_name>Emily Briksdal</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7398</clinician_id>
+      <clinician_id>9962</clinician_id>
       <clinic_name>Oris Dental Vøyenenga</clinic_name>
       <clinic_address>Vøyenengtunet 4</clinic_address>
-      <clinic_city>Vøyenenga</clinic_city>
+      <clinic_city>​1339Vøyenenga</clinic_city>
       <clinic_zip>1339</clinic_zip>
       <clinic_phone>67 13 71 02</clinic_phone>
       <clinic_region>Akershus</clinic_region>
@@ -2240,12 +2204,11 @@
       <geo_radius_value>5000</geo_radius_value>
       <geo_radius_unit>km</geo_radius_unit>
       <geo_coordinates>59.9079,10.4851</geo_coordinates>
-      <product_category/>
-      <g:custom_label_0>Vøyenenga</g:custom_label_0>
+      <product_category>Generell tannlegebehandling, Tannundersøkelse, Min tannhelsestatus, Tannfylling, Trekke tann, Estetisk og funksjonell behandling, Tannbleking hos tannlege, Tannkrone, Tannbro, Kompleks behandling, Oralkirurgi, Tannkjøttbetennelse: periodontitt og gingivitt, Gebiss (tannprotese)</product_category>
+      <g:custom_label_0>​1339Vøyenenga</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
-      <g:custom_label_4/>
-      <g:daily_budget>49 kr</g:daily_budget>
-      <feed_generated_at>2026-09-01T12:45:16+0200</feed_generated_at>
+      <g:custom_label_4>akutt</g:custom_label_4>
+      <feed_generated_at>2026-09-01T17:23:18+0200</feed_generated_at>
     </item>
   </channel>
 </rss>
