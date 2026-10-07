@@ -561,6 +561,9 @@ def build_feed(items: list[dict]) -> str:
     desc_el = ET.SubElement(channel, "description")
     desc_el.text = "Automatisk oppdatert feed med ledige tannlegetimer hos Oris Dental"
 
+    ttl_el = ET.SubElement(channel, "ttl")
+    ttl_el.text = "60"
+
     generated_at = datetime.now(OSLO_TZ).strftime("%Y-%m-%dT%H:%M:%S%z")
 
     for item in items:
@@ -575,6 +578,10 @@ def build_feed(items: list[dict]) -> str:
             el.text = str(text) if text is not None else ""
 
         # Påkrevde Google/Meta-felt med g: prefiks
+        # Utløpsdato: tidspunktet for timen + 1 time (hindrer Meta i å vise utdaterte tider)
+        from datetime import timezone
+        exp_dt = datetime.fromisoformat(item["time_from_iso"].replace("Z", "+00:00")) + __import__("datetime").timedelta(hours=1)
+        g("expiration_date",           exp_dt.strftime("%Y-%m-%dT%H:%M:%S+00:00"))
         g("id",                       item["id"])
         g("title",                    item["title"])
         g("description",              item["description"])
