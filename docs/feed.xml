@@ -41,7 +41,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T12:30:00+00:00</g:expiration_date>
@@ -80,13 +80,13 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-13T19:30:00+00:00</g:expiration_date>
-      <g:id>oris-arken-asane-87376</g:id>
-      <g:title>Ledig time – Oris Dental Arken Åsane – 13. oktober kl. 20:30</g:title>
-      <g:description>Book time hos Bashar Alshiekh (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 13. oktober kl. 20:30. Varighet: 30 min.</g:description>
+      <g:expiration_date>2026-10-14T08:00:00+00:00</g:expiration_date>
+      <g:id>oris-arken-asane-94501</g:id>
+      <g:title>Ledig time – Oris Dental Arken Åsane – 14. oktober kl. 09:00</g:title>
+      <g:description>Book time hos Olaa Elnour (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 14. oktober kl. 09:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/arken-asane</g:link>
       <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -94,15 +94,15 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>13. oktober</appointment_date>
-      <appointment_time>20:30</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 13. oktober</appointment_weekday_date>
+      <appointment_date>14. oktober</appointment_date>
+      <appointment_time>09:00</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-13T18:30:00Z</time_from_iso>
-      <clinician_name>Bashar Alshiekh</clinician_name>
+      <time_from_iso>2026-10-14T07:00:00Z</time_from_iso>
+      <clinician_name>Olaa Elnour</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>87376</clinician_id>
+      <clinician_id>94501</clinician_id>
       <clinic_name>Oris Dental Arken Åsane</clinic_name>
       <clinic_address>Åsane Senter 37</clinic_address>
       <clinic_city>UIset</clinic_city>
@@ -118,13 +118,13 @@
       <g:custom_label_0>UIset</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T09:00:00+00:00</g:expiration_date>
+      <g:expiration_date>2026-10-14T10:45:00+00:00</g:expiration_date>
       <g:id>oris-askoy-13289</g:id>
-      <g:title>Ledig time – Oris Dental Askøy – 14. oktober kl. 10:00</g:title>
-      <g:description>Book time hos Hassan Ali (Tannlege) ved Oris Dental Askøy. Første ledige time: 14. oktober kl. 10:00. Varighet: 45 min.</g:description>
+      <g:title>Ledig time – Oris Dental Askøy – 14. oktober kl. 11:45</g:title>
+      <g:description>Book time hos Hassan Ali (Tannlege) ved Oris Dental Askøy. Første ledige time: 14. oktober kl. 11:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/askoy</g:link>
       <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -133,11 +133,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>14. oktober</appointment_date>
-      <appointment_time>10:00</appointment_time>
+      <appointment_time>11:45</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T08:00:00Z</time_from_iso>
+      <time_from_iso>2026-10-14T09:45:00Z</time_from_iso>
       <clinician_name>Hassan Ali</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>13289</clinician_id>
@@ -156,7 +156,7 @@
       <g:custom_label_0>Kleppestø</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T13:30:00+00:00</g:expiration_date>
@@ -194,7 +194,7 @@
       <g:custom_label_0>Bodø</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T07:00:00+00:00</g:expiration_date>
@@ -232,29 +232,29 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T08:30:00+00:00</g:expiration_date>
-      <g:id>oris-bryn-11824</g:id>
-      <g:title>Ledig time – Oris Dental Bryn – 14. oktober kl. 09:30</g:title>
-      <g:description>Book time hos Lars Ove Haug (Tannlege) ved Oris Dental Bryn. Første ledige time: 14. oktober kl. 09:30. Varighet: 30 min.</g:description>
+      <g:expiration_date>2026-10-14T09:30:00+00:00</g:expiration_date>
+      <g:id>oris-bryn-8737</g:id>
+      <g:title>Ledig time – Oris Dental Bryn – 14. oktober kl. 10:30</g:title>
+      <g:description>Book time hos Ulla Rognsaa Kildal (Tannlege) ved Oris Dental Bryn. Første ledige time: 14. oktober kl. 10:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/bryn</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Lars-Ove-Haug-tannlege-4.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ulla-Rognsaa-Kildal-tannlege-10.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>14. oktober</appointment_date>
-      <appointment_time>09:30</appointment_time>
+      <appointment_time>10:30</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T07:30:00Z</time_from_iso>
-      <clinician_name>Lars Ove Haug</clinician_name>
+      <time_from_iso>2026-10-14T08:30:00Z</time_from_iso>
+      <clinician_name>Ulla Rognsaa Kildal</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>11824</clinician_id>
+      <clinician_id>8737</clinician_id>
       <clinic_name>Oris Dental Bryn</clinic_name>
       <clinic_address>Østensjøveien 79</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -270,7 +270,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T07:00:00+00:00</g:expiration_date>
@@ -308,7 +308,7 @@
       <g:custom_label_0>Bryne</g:custom_label_0>
       <g:custom_label_1>Bryne</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-16T09:00:00+00:00</g:expiration_date>
@@ -346,7 +346,7 @@
       <g:custom_label_0>Drammen</g:custom_label_0>
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T10:30:00+00:00</g:expiration_date>
@@ -385,7 +385,7 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-20T11:30:00+00:00</g:expiration_date>
@@ -423,7 +423,7 @@
       <g:custom_label_0>Egersund</g:custom_label_0>
       <g:custom_label_1>Egersund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T08:10:00+00:00</g:expiration_date>
@@ -461,7 +461,7 @@
       <g:custom_label_0>Nordfjordeid</g:custom_label_0>
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T08:10:00+00:00</g:expiration_date>
@@ -500,29 +500,29 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T07:30:00+00:00</g:expiration_date>
-      <g:id>oris-galleri-oslo-7</g:id>
-      <g:title>Ledig time – Oris Dental Galleri Oslo – 14. oktober kl. 08:30</g:title>
-      <g:description>Book time hos Cecilie Attramadal (Tannlege) ved Oris Dental Galleri Oslo. Første ledige time: 14. oktober kl. 08:30. Varighet: 45 min.</g:description>
+      <g:expiration_date>2026-10-14T08:45:00+00:00</g:expiration_date>
+      <g:id>oris-galleri-oslo-58953</g:id>
+      <g:title>Ledig time – Oris Dental Galleri Oslo – 14. oktober kl. 09:45</g:title>
+      <g:description>Book time hos Nine Sjasmin Urfjell (Tannlege) ved Oris Dental Galleri Oslo. Første ledige time: 14. oktober kl. 09:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/galleri-oslo</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Cecilie-Gjovaag-Attramadal-dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nine-Dehdar-Urfjell-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>14. oktober</appointment_date>
-      <appointment_time>08:30</appointment_time>
+      <appointment_time>09:45</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T06:30:00Z</time_from_iso>
-      <clinician_name>Cecilie Attramadal</clinician_name>
+      <time_from_iso>2026-10-14T07:45:00Z</time_from_iso>
+      <clinician_name>Nine Sjasmin Urfjell</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7</clinician_id>
+      <clinician_id>58953</clinician_id>
       <clinic_name>Oris Dental Galleri Oslo</clinic_name>
       <clinic_address>Schweigaardsgate 6, 4 et</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -538,7 +538,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T07:45:00+00:00</g:expiration_date>
@@ -576,7 +576,7 @@
       <g:custom_label_0>Gressvik</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-16T11:00:00+00:00</g:expiration_date>
@@ -615,14 +615,14 @@
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>148 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-26T13:30:00+00:00</g:expiration_date>
+      <g:expiration_date>2026-10-30T08:45:00+00:00</g:expiration_date>
       <g:id>oris-hamar-43852</g:id>
-      <g:title>Ledig time – Oris Dental Hamar – 26. oktober kl. 13:30</g:title>
+      <g:title>Ledig time – Oris Dental Hamar – 30. oktober kl. 08:45</g:title>
       <g:description>Book time hos  Nora Hui
- Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 26. oktober kl. 13:30. Varighet: 45 min.</g:description>
+ Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 30. oktober kl. 08:45. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/hamar</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nora-Hui-Andersen-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -630,12 +630,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>26. oktober</appointment_date>
-      <appointment_time>13:30</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 26. oktober</appointment_weekday_date>
+      <appointment_date>30. oktober</appointment_date>
+      <appointment_time>08:45</appointment_time>
+      <appointment_weekday>Fredag</appointment_weekday>
+      <appointment_weekday_date>Fredag 30. oktober</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-10-26T12:30:00Z</time_from_iso>
+      <time_from_iso>2026-10-30T07:45:00Z</time_from_iso>
       <clinician_name> Nora Hui
  Andersen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
@@ -656,7 +656,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>63 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T07:15:00+00:00</g:expiration_date>
@@ -694,7 +694,7 @@
       <g:custom_label_0>Harstad</g:custom_label_0>
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T13:30:00+00:00</g:expiration_date>
@@ -732,7 +732,7 @@
       <g:custom_label_0>Haugesund</g:custom_label_0>
       <g:custom_label_1>Haugesund</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T10:00:00+00:00</g:expiration_date>
@@ -770,7 +770,7 @@
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Stavanger</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-19T11:45:00+00:00</g:expiration_date>
@@ -809,7 +809,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T13:50:00+00:00</g:expiration_date>
@@ -848,7 +848,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>9 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-16T08:30:00+00:00</g:expiration_date>
@@ -887,29 +887,29 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>24 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T07:45:00+00:00</g:expiration_date>
-      <g:id>oris-knapstad-469</g:id>
-      <g:title>Ledig time – Oris Dental Knapstad – 14. oktober kl. 08:45</g:title>
-      <g:description>Book time hos Egil Jakobsen (Tannlege) ved Oris Dental Knapstad. Første ledige time: 14. oktober kl. 08:45. Varighet: 30 min.</g:description>
+      <g:expiration_date>2026-10-15T12:15:00+00:00</g:expiration_date>
+      <g:id>oris-knapstad-2328</g:id>
+      <g:title>Ledig time – Oris Dental Knapstad – 15. oktober kl. 13:15</g:title>
+      <g:description>Book time hos Dalia Shwan (Tannlege) ved Oris Dental Knapstad. Første ledige time: 15. oktober kl. 13:15. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/knapstad</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Egil-Jakobsen-tannlege.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Dalia-Shwan_Tannlege_Knapstad.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>14. oktober</appointment_date>
-      <appointment_time>08:45</appointment_time>
-      <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
+      <appointment_date>15. oktober</appointment_date>
+      <appointment_time>13:15</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 15. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T06:45:00Z</time_from_iso>
-      <clinician_name>Egil Jakobsen</clinician_name>
+      <time_from_iso>2026-10-15T11:15:00Z</time_from_iso>
+      <clinician_name>Dalia Shwan</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>469</clinician_id>
+      <clinician_id>2328</clinician_id>
       <clinic_name>Oris Dental Knapstad</clinic_name>
       <clinic_address>Veigård 3</clinic_address>
       <clinic_city>Knapstad</clinic_city>
@@ -925,7 +925,8 @@
       <g:custom_label_0>Knapstad</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <g:daily_budget>20 kr</g:daily_budget>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T09:00:00+00:00</g:expiration_date>
@@ -964,7 +965,7 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>69 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T08:30:00+00:00</g:expiration_date>
@@ -1002,7 +1003,7 @@
       <g:custom_label_0>Kristiansand S</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T09:00:00+00:00</g:expiration_date>
@@ -1040,13 +1041,13 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T13:00:00+00:00</g:expiration_date>
+      <g:expiration_date>2026-10-20T07:30:00+00:00</g:expiration_date>
       <g:id>oris-lillehammer-20366</g:id>
-      <g:title>Ledig time – Oris Dental Lillehammer – 14. oktober kl. 14:00</g:title>
-      <g:description>Book time hos Kristin R. Skinnes (Tannlege) ved Oris Dental Lillehammer. Første ledige time: 14. oktober kl. 14:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Lillehammer – 20. oktober kl. 08:30</g:title>
+      <g:description>Book time hos Kristin R. Skinnes (Tannlege) ved Oris Dental Lillehammer. Første ledige time: 20. oktober kl. 08:30. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/lillehammer</g:link>
       <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1054,12 +1055,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>14. oktober</appointment_date>
-      <appointment_time>14:00</appointment_time>
-      <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
+      <appointment_date>20. oktober</appointment_date>
+      <appointment_time>08:30</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 20. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T12:00:00Z</time_from_iso>
+      <time_from_iso>2026-10-20T06:30:00Z</time_from_iso>
       <clinician_name>Kristin R. Skinnes</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>20366</clinician_id>
@@ -1078,7 +1079,7 @@
       <g:custom_label_0>Lillehammer</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T12:40:00+00:00</g:expiration_date>
@@ -1116,7 +1117,7 @@
       <g:custom_label_0>Sandvika</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T09:00:00+00:00</g:expiration_date>
@@ -1154,7 +1155,7 @@
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T07:40:00+00:00</g:expiration_date>
@@ -1192,7 +1193,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T07:10:00+00:00</g:expiration_date>
@@ -1230,13 +1231,13 @@
       <g:custom_label_0>Lysaker</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T16:00:00+00:00</g:expiration_date>
+      <g:expiration_date>2026-10-15T09:20:00+00:00</g:expiration_date>
       <g:id>oris-madla-145530</g:id>
-      <g:title>Ledig time – Oris Dental Madla – 14. oktober kl. 17:00</g:title>
-      <g:description>Book time hos Victoria Read-Vänskä (Tannlege) ved Oris Dental Madla. Første ledige time: 14. oktober kl. 17:00. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Madla – 15. oktober kl. 10:20</g:title>
+      <g:description>Book time hos Victoria Read-Vänskä (Tannlege) ved Oris Dental Madla. Første ledige time: 15. oktober kl. 10:20. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/madla</g:link>
       <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1244,12 +1245,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>14. oktober</appointment_date>
-      <appointment_time>17:00</appointment_time>
-      <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
+      <appointment_date>15. oktober</appointment_date>
+      <appointment_time>10:20</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 15. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T15:00:00Z</time_from_iso>
+      <time_from_iso>2026-10-15T08:20:00Z</time_from_iso>
       <clinician_name>Victoria Read-Vänskä</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>145530</clinician_id>
@@ -1269,7 +1270,7 @@
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T09:15:00+00:00</g:expiration_date>
@@ -1308,29 +1309,29 @@
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T07:15:00+00:00</g:expiration_date>
-      <g:id>oris-mo-i-rana-1205</g:id>
-      <g:title>Ledig time – Oris Dental Mo i Rana – 14. oktober kl. 08:15</g:title>
-      <g:description>Book time hos Jin Salim (Tannlege) ved Oris Dental Mo i Rana. Første ledige time: 14. oktober kl. 08:15. Varighet: 40 min.</g:description>
+      <g:expiration_date>2026-10-15T07:30:00+00:00</g:expiration_date>
+      <g:id>oris-mo-i-rana-5491</g:id>
+      <g:title>Ledig time – Oris Dental Mo i Rana – 15. oktober kl. 08:30</g:title>
+      <g:description>Book time hos Colin Eriksen (Tannlege) ved Oris Dental Mo i Rana. Første ledige time: 15. oktober kl. 08:30. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/mo-i-rana</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Jin-Salim-tannlege-jin.salim%40orisdental.no_.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Colin-Eriksen-tannlege-colin.eriksen%40orisdental.no_.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>14. oktober</appointment_date>
-      <appointment_time>08:15</appointment_time>
-      <appointment_weekday>Onsdag</appointment_weekday>
-      <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
+      <appointment_date>15. oktober</appointment_date>
+      <appointment_time>08:30</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 15. oktober</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T06:15:00Z</time_from_iso>
-      <clinician_name>Jin Salim</clinician_name>
+      <time_from_iso>2026-10-15T06:30:00Z</time_from_iso>
+      <clinician_name>Colin Eriksen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>1205</clinician_id>
+      <clinician_id>5491</clinician_id>
       <clinic_name>Oris Dental Mo i Rana</clinic_name>
       <clinic_address>Nordahl Griegs gate 6</clinic_address>
       <clinic_city>Mo i Rana</clinic_city>
@@ -1346,14 +1347,13 @@
       <g:custom_label_0>Mo i Rana</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
-      <g:daily_budget>51 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-15T09:20:00+00:00</g:expiration_date>
+      <g:expiration_date>2026-10-15T09:50:00+00:00</g:expiration_date>
       <g:id>oris-moa-469</g:id>
-      <g:title>Ledig time – Oris Dental Moa – 15. oktober kl. 10:20</g:title>
-      <g:description>Book time hos Fredrik Skodje (Tannlege) ved Oris Dental Moa. Første ledige time: 15. oktober kl. 10:20. Varighet: 30 min.</g:description>
+      <g:title>Ledig time – Oris Dental Moa – 15. oktober kl. 10:50</g:title>
+      <g:description>Book time hos Fredrik Skodje (Tannlege) ved Oris Dental Moa. Første ledige time: 15. oktober kl. 10:50. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/moa</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-fREDRIK-sKODJE_-specialist-5__.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -1362,11 +1362,11 @@
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>15. oktober</appointment_date>
-      <appointment_time>10:20</appointment_time>
+      <appointment_time>10:50</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 15. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-15T08:20:00Z</time_from_iso>
+      <time_from_iso>2026-10-15T08:50:00Z</time_from_iso>
       <clinician_name>Fredrik Skodje</clinician_name>
       <clinician_title>Tannlege</clinician_title>
       <clinician_id>469</clinician_id>
@@ -1386,7 +1386,7 @@
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>99 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-05T10:00:00+00:00</g:expiration_date>
@@ -1424,7 +1424,7 @@
       <g:custom_label_0>Moelv</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-16T09:15:00+00:00</g:expiration_date>
@@ -1462,7 +1462,7 @@
       <g:custom_label_0>Moss</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-21T07:00:00+00:00</g:expiration_date>
@@ -1501,29 +1501,29 @@
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>42 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-13T17:30:00+00:00</g:expiration_date>
-      <g:id>oris-nesttun-26141</g:id>
-      <g:title>Ledig time – Oris Dental Nesttun – 13. oktober kl. 18:30</g:title>
-      <g:description>Book time hos Sindre Jørgensen (Tannlege) ved Oris Dental Nesttun. Første ledige time: 13. oktober kl. 18:30. Varighet: 30 min.</g:description>
+      <g:expiration_date>2026-10-15T08:45:00+00:00</g:expiration_date>
+      <g:id>oris-nesttun-16967</g:id>
+      <g:title>Ledig time – Oris Dental Nesttun – 15. oktober kl. 09:45</g:title>
+      <g:description>Book time hos Helene Meyer (Tannlege) ved Oris Dental Nesttun. Første ledige time: 15. oktober kl. 09:45. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/nesttun</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Sindre-Jorgensen-Sekse-Tannlege-sindre.sekse%40orisdental-14.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Helene-Meyer-Tannlege-helene.meyer%40orisdental-15.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>13. oktober</appointment_date>
-      <appointment_time>18:30</appointment_time>
-      <appointment_weekday>Tirsdag</appointment_weekday>
-      <appointment_weekday_date>Tirsdag 13. oktober</appointment_weekday_date>
+      <appointment_date>15. oktober</appointment_date>
+      <appointment_time>09:45</appointment_time>
+      <appointment_weekday>Torsdag</appointment_weekday>
+      <appointment_weekday_date>Torsdag 15. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-13T16:30:00Z</time_from_iso>
-      <clinician_name>Sindre Jørgensen</clinician_name>
+      <time_from_iso>2026-10-15T07:45:00Z</time_from_iso>
+      <clinician_name>Helene Meyer</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>26141</clinician_id>
+      <clinician_id>16967</clinician_id>
       <clinic_name>Oris Dental Nesttun</clinic_name>
       <clinic_address>Østre Nesttunvegen 2</clinic_address>
       <clinic_city>Nesttun</clinic_city>
@@ -1539,7 +1539,7 @@
       <g:custom_label_0>Nesttun</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T07:30:00+00:00</g:expiration_date>
@@ -1577,29 +1577,29 @@
       <g:custom_label_0>Hagan</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-15T11:30:00+00:00</g:expiration_date>
-      <g:id>oris-orkanger-5499</g:id>
-      <g:title>Ledig time – Oris Dental Orkanger – 15. oktober kl. 12:30</g:title>
-      <g:description>Book time hos Kenneth Brænd (Tannlege) ved Oris Dental Orkanger. Første ledige time: 15. oktober kl. 12:30. Varighet: 45 min.</g:description>
+      <g:expiration_date>2026-10-14T07:30:00+00:00</g:expiration_date>
+      <g:id>oris-orkanger-14454</g:id>
+      <g:title>Ledig time – Oris Dental Orkanger – 14. oktober kl. 08:30</g:title>
+      <g:description>Book time hos Nourhanim Fadul (Tannlege) ved Oris Dental Orkanger. Første ledige time: 14. oktober kl. 08:30. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/orkanger</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Kenneth-Braend-tannlege_size_down.jpg</g:image_link>
+      <g:image_link>https://marops-ops.github.io/oris-feed/fallback.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>15. oktober</appointment_date>
-      <appointment_time>12:30</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 15. oktober</appointment_weekday_date>
+      <appointment_date>14. oktober</appointment_date>
+      <appointment_time>08:30</appointment_time>
+      <appointment_weekday>Onsdag</appointment_weekday>
+      <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-10-15T10:30:00Z</time_from_iso>
-      <clinician_name>Kenneth Brænd</clinician_name>
+      <time_from_iso>2026-10-14T06:30:00Z</time_from_iso>
+      <clinician_name>Nourhanim Fadul</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>5499</clinician_id>
+      <clinician_id>14454</clinician_id>
       <clinic_name>Oris Dental Orkanger</clinic_name>
       <clinic_address>Orkdalsveien 113</clinic_address>
       <clinic_city>Orkanger</clinic_city>
@@ -1615,7 +1615,8 @@
       <g:custom_label_0>Orkanger</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <g:daily_budget>24 kr</g:daily_budget>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-19T07:30:00+00:00</g:expiration_date>
@@ -1653,7 +1654,7 @@
       <g:custom_label_0>Indre Arna</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T07:30:00+00:00</g:expiration_date>
@@ -1691,29 +1692,29 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T09:45:00+00:00</g:expiration_date>
-      <g:id>oris-ryen-471</g:id>
-      <g:title>Ledig time – Oris Dental Ryen – 14. oktober kl. 10:45</g:title>
-      <g:description>Book time hos Elin  Mellemstrand (Tannlege) ved Oris Dental Ryen. Første ledige time: 14. oktober kl. 10:45. Varighet: 40 min.</g:description>
+      <g:expiration_date>2026-10-14T12:20:00+00:00</g:expiration_date>
+      <g:id>oris-ryen-469</g:id>
+      <g:title>Ledig time – Oris Dental Ryen – 14. oktober kl. 13:20</g:title>
+      <g:description>Book time hos Ole Kristian Aas (Tannlege) ved Oris Dental Ryen. Første ledige time: 14. oktober kl. 13:20. Varighet: 40 min.</g:description>
       <g:link>https://orisdental.no/klinikker/ryen</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Elin-Mellemstrand-Tannlege-Ryen%40orisdental-9.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Ole-Kristian-Aas-Tannlege-Ryen%40orisdental-4.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>14. oktober</appointment_date>
-      <appointment_time>10:45</appointment_time>
+      <appointment_time>13:20</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
       <appointment_duration_minutes>40</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T08:45:00Z</time_from_iso>
-      <clinician_name>Elin  Mellemstrand</clinician_name>
+      <time_from_iso>2026-10-14T11:20:00Z</time_from_iso>
+      <clinician_name>Ole Kristian Aas</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>471</clinician_id>
+      <clinician_id>469</clinician_id>
       <clinic_name>Oris Dental Ryen</clinic_name>
       <clinic_address>Ryensvingen 5</clinic_address>
       <clinic_city>Oslo</clinic_city>
@@ -1729,8 +1730,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
-      <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T11:30:00+00:00</g:expiration_date>
@@ -1768,7 +1768,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T09:10:00+00:00</g:expiration_date>
@@ -1806,7 +1806,7 @@
       <g:custom_label_0>Sandnes</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-19T07:15:00+00:00</g:expiration_date>
@@ -1844,7 +1844,7 @@
       <g:custom_label_0>Sandvika</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-16T06:50:00+00:00</g:expiration_date>
@@ -1882,7 +1882,7 @@
       <g:custom_label_0>Sarpsborg</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T07:45:00+00:00</g:expiration_date>
@@ -1921,7 +1921,7 @@
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>79 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T12:10:00+00:00</g:expiration_date>
@@ -1960,7 +1960,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T11:40:00+00:00</g:expiration_date>
@@ -1998,7 +1998,7 @@
       <g:custom_label_0>Slemmestad</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T13:15:00+00:00</g:expiration_date>
@@ -2036,7 +2036,7 @@
       <g:custom_label_0>Søgne</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T12:30:00+00:00</g:expiration_date>
@@ -2074,7 +2074,7 @@
       <g:custom_label_0>Arendal</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T08:30:00+00:00</g:expiration_date>
@@ -2113,29 +2113,29 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>36 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-14T07:15:00+00:00</g:expiration_date>
-      <g:id>oris-strandgaten-22403</g:id>
-      <g:title>Ledig time – Oris Dental Strandgaten – 14. oktober kl. 08:15</g:title>
-      <g:description>Book time hos Liv Karin Søvik Johnsen (Tannlege) ved Oris Dental Strandgaten. Første ledige time: 14. oktober kl. 08:15. Varighet: 30 min.</g:description>
+      <g:expiration_date>2026-10-14T08:15:00+00:00</g:expiration_date>
+      <g:id>oris-strandgaten-23078</g:id>
+      <g:title>Ledig time – Oris Dental Strandgaten – 14. oktober kl. 09:15</g:title>
+      <g:description>Book time hos Navalan Murugasimman (Tannlege) ved Oris Dental Strandgaten. Første ledige time: 14. oktober kl. 09:15. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/tannlege-i-bergen-sentrum</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Liv-Karin-Sovik-Johnsen-dentist.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Navalan-Murugasimman_Image-1.png</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>14. oktober</appointment_date>
-      <appointment_time>08:15</appointment_time>
+      <appointment_time>09:15</appointment_time>
       <appointment_weekday>Onsdag</appointment_weekday>
       <appointment_weekday_date>Onsdag 14. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-14T06:15:00Z</time_from_iso>
-      <clinician_name>Liv Karin Søvik Johnsen</clinician_name>
+      <time_from_iso>2026-10-14T07:15:00Z</time_from_iso>
+      <clinician_name>Navalan Murugasimman</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>22403</clinician_id>
+      <clinician_id>23078</clinician_id>
       <clinic_name>Oris Dental Strandgaten</clinic_name>
       <clinic_address>Strandgaten 5</clinic_address>
       <clinic_city>Bergen</clinic_city>
@@ -2151,8 +2151,7 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-02T09:00:00+00:00</g:expiration_date>
@@ -2191,29 +2190,29 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-15T11:45:00+00:00</g:expiration_date>
-      <g:id>oris-tarnplassen-7488</g:id>
-      <g:title>Ledig time – Oris Dental Tårnplassen – 15. oktober kl. 12:45</g:title>
-      <g:description>Book time hos Vibeke Nøst Henriksen (Tannlege) ved Oris Dental Tårnplassen. Første ledige time: 15. oktober kl. 12:45. Varighet: 30 min.</g:description>
+      <g:expiration_date>2026-10-15T09:00:00+00:00</g:expiration_date>
+      <g:id>oris-tarnplassen-3685</g:id>
+      <g:title>Ledig time – Oris Dental Tårnplassen – 15. oktober kl. 10:00</g:title>
+      <g:description>Book time hos Ørjan Mellingen (Tannlege) ved Oris Dental Tårnplassen. Første ledige time: 15. oktober kl. 10:00. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/tarnplassen</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Vibeke-Nost-Henriksen-tannlege-vibekenh%40yahoo.no-11.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Orjan-Mellingen-tannlege-orjan.mellingen%40orisdental-14.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
       <appointment_date>15. oktober</appointment_date>
-      <appointment_time>12:45</appointment_time>
+      <appointment_time>10:00</appointment_time>
       <appointment_weekday>Torsdag</appointment_weekday>
       <appointment_weekday_date>Torsdag 15. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-15T10:45:00Z</time_from_iso>
-      <clinician_name>Vibeke Nøst Henriksen</clinician_name>
+      <time_from_iso>2026-10-15T08:00:00Z</time_from_iso>
+      <clinician_name>Ørjan Mellingen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>7488</clinician_id>
+      <clinician_id>3685</clinician_id>
       <clinic_name>Oris Dental Tårnplassen</clinic_name>
       <clinic_address>Valkendorfsgaten 5</clinic_address>
       <clinic_city>Bergen</clinic_city>
@@ -2229,7 +2228,8 @@
       <g:custom_label_0>Bergen</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <g:daily_budget>109 kr</g:daily_budget>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T07:10:00+00:00</g:expiration_date>
@@ -2267,7 +2267,7 @@
       <g:custom_label_0>Tønsberg</g:custom_label_0>
       <g:custom_label_1>Vestfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-15T09:45:00+00:00</g:expiration_date>
@@ -2305,7 +2305,7 @@
       <g:custom_label_0>Kristiansand</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-16T07:30:00+00:00</g:expiration_date>
@@ -2343,7 +2343,7 @@
       <g:custom_label_0>Loddefjord</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-14T08:15:00+00:00</g:expiration_date>
@@ -2382,7 +2382,7 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>49 kr</g:daily_budget>
-      <feed_generated_at>2026-10-13T15:09:57+0200</feed_generated_at>
+      <feed_generated_at>2026-10-13T22:06:37+0200</feed_generated_at>
     </item>
   </channel>
 </rss>
