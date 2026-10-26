@@ -41,7 +41,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T15:00:00+00:00</g:expiration_date>
@@ -80,29 +80,29 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-10-26T20:15:00+00:00</g:expiration_date>
-      <g:id>oris-arken-asane-45695</g:id>
-      <g:title>Ledig time – Oris Dental Arken Åsane – 26. oktober kl. 20:15</g:title>
-      <g:description>Book time hos Linn Johannesen (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 26. oktober kl. 20:15. Varighet: 30 min.</g:description>
+      <g:expiration_date>2026-10-27T08:15:00+00:00</g:expiration_date>
+      <g:id>oris-arken-asane-87374</g:id>
+      <g:title>Ledig time – Oris Dental Arken Åsane – 27. oktober kl. 08:15</g:title>
+      <g:description>Book time hos Hege Haavik (Tannlege) ved Oris Dental Arken Åsane. Første ledige time: 27. oktober kl. 08:15. Varighet: 30 min.</g:description>
       <g:link>https://orisdental.no/klinikker/arken-asane</g:link>
-      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Linn-Iren-Johannesen-tannlege.jpg</g:image_link>
+      <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/AAA-Hege-Haavik-hege.haavik%40orisdental.no-%E2%80%93-Tannlege.jpg</g:image_link>
       <g:availability>in stock</g:availability>
       <g:condition>new</g:condition>
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>26. oktober</appointment_date>
-      <appointment_time>20:15</appointment_time>
-      <appointment_weekday>Mandag</appointment_weekday>
-      <appointment_weekday_date>Mandag 26. oktober</appointment_weekday_date>
+      <appointment_date>27. oktober</appointment_date>
+      <appointment_time>08:15</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 27. oktober</appointment_weekday_date>
       <appointment_duration_minutes>30</appointment_duration_minutes>
-      <time_from_iso>2026-10-26T19:15:00Z</time_from_iso>
-      <clinician_name>Linn Johannesen</clinician_name>
+      <time_from_iso>2026-10-27T07:15:00Z</time_from_iso>
+      <clinician_name>Hege Haavik</clinician_name>
       <clinician_title>Tannlege</clinician_title>
-      <clinician_id>45695</clinician_id>
+      <clinician_id>87374</clinician_id>
       <clinic_name>Oris Dental Arken Åsane</clinic_name>
       <clinic_address>Åsane Senter 37</clinic_address>
       <clinic_city>UIset</clinic_city>
@@ -118,7 +118,7 @@
       <g:custom_label_0>UIset</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T09:15:00+00:00</g:expiration_date>
@@ -156,7 +156,7 @@
       <g:custom_label_0>Kleppestø</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T13:45:00+00:00</g:expiration_date>
@@ -194,7 +194,7 @@
       <g:custom_label_0>Bodø</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T13:15:00+00:00</g:expiration_date>
@@ -233,7 +233,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T10:30:00+00:00</g:expiration_date>
@@ -271,7 +271,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T08:30:00+00:00</g:expiration_date>
@@ -309,7 +309,7 @@
       <g:custom_label_0>Bryne</g:custom_label_0>
       <g:custom_label_1>Bryne</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-30T09:00:00+00:00</g:expiration_date>
@@ -347,7 +347,7 @@
       <g:custom_label_0>Drammen</g:custom_label_0>
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-09T10:20:00+00:00</g:expiration_date>
@@ -386,7 +386,7 @@
       <g:custom_label_1>Buskerud</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-13T08:00:00+00:00</g:expiration_date>
@@ -424,7 +424,7 @@
       <g:custom_label_0>Egersund</g:custom_label_0>
       <g:custom_label_1>Egersund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-03T08:50:00+00:00</g:expiration_date>
@@ -462,7 +462,7 @@
       <g:custom_label_0>Nordfjordeid</g:custom_label_0>
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T10:40:00+00:00</g:expiration_date>
@@ -501,7 +501,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>119 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T09:45:00+00:00</g:expiration_date>
@@ -539,7 +539,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T08:00:00+00:00</g:expiration_date>
@@ -578,7 +578,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>30 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-03T09:40:00+00:00</g:expiration_date>
@@ -617,14 +617,14 @@
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>148 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
-      <g:expiration_date>2026-11-05T09:45:00+00:00</g:expiration_date>
+      <g:expiration_date>2026-11-10T10:00:00+00:00</g:expiration_date>
       <g:id>oris-hamar-43852</g:id>
-      <g:title>Ledig time – Oris Dental Hamar – 5. november kl. 09:45</g:title>
+      <g:title>Ledig time – Oris Dental Hamar – 10. november kl. 10:00</g:title>
       <g:description>Book time hos  Nora Hui
- Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 5. november kl. 09:45. Varighet: 45 min.</g:description>
+ Andersen (Tannlege) ved Oris Dental Hamar. Første ledige time: 10. november kl. 10:00. Varighet: 45 min.</g:description>
       <g:link>https://orisdental.no/klinikker/hamar</g:link>
       <g:image_link>https://odnowwwproduction.blob.core.windows.net/app/uploads/Nora-Hui-Andersen-dentist.jpg</g:image_link>
       <g:availability>in stock</g:availability>
@@ -632,12 +632,12 @@
       <g:brand>Oris Dental</g:brand>
       <g:google_product_category>Health &amp;amp; Beauty</g:google_product_category>
       <g:price>1423.00 NOK</g:price>
-      <appointment_date>5. november</appointment_date>
-      <appointment_time>09:45</appointment_time>
-      <appointment_weekday>Torsdag</appointment_weekday>
-      <appointment_weekday_date>Torsdag 5. november</appointment_weekday_date>
+      <appointment_date>10. november</appointment_date>
+      <appointment_time>10:00</appointment_time>
+      <appointment_weekday>Tirsdag</appointment_weekday>
+      <appointment_weekday_date>Tirsdag 10. november</appointment_weekday_date>
       <appointment_duration_minutes>45</appointment_duration_minutes>
-      <time_from_iso>2026-11-05T08:45:00Z</time_from_iso>
+      <time_from_iso>2026-11-10T09:00:00Z</time_from_iso>
       <clinician_name> Nora Hui
  Andersen</clinician_name>
       <clinician_title>Tannlege</clinician_title>
@@ -658,7 +658,7 @@
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>63 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T09:45:00+00:00</g:expiration_date>
@@ -696,7 +696,7 @@
       <g:custom_label_0>Harstad</g:custom_label_0>
       <g:custom_label_1>Troms</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T09:30:00+00:00</g:expiration_date>
@@ -734,7 +734,7 @@
       <g:custom_label_0>Haugesund</g:custom_label_0>
       <g:custom_label_1>Haugesund</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T09:30:00+00:00</g:expiration_date>
@@ -772,7 +772,7 @@
       <g:custom_label_0>Stavanger</g:custom_label_0>
       <g:custom_label_1>Stavanger</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T08:30:00+00:00</g:expiration_date>
@@ -810,7 +810,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T13:20:00+00:00</g:expiration_date>
@@ -849,7 +849,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>9 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-10T09:45:00+00:00</g:expiration_date>
@@ -887,7 +887,7 @@
       <g:custom_label_0>Indre Arna</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T09:45:00+00:00</g:expiration_date>
@@ -926,7 +926,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>20 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T13:15:00+00:00</g:expiration_date>
@@ -965,7 +965,7 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>69 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T08:00:00+00:00</g:expiration_date>
@@ -1003,7 +1003,7 @@
       <g:custom_label_0>Kristiansand S</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T10:45:00+00:00</g:expiration_date>
@@ -1041,7 +1041,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T14:10:00+00:00</g:expiration_date>
@@ -1079,7 +1079,7 @@
       <g:custom_label_0>Sandvika</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-29T13:30:00+00:00</g:expiration_date>
@@ -1118,7 +1118,7 @@
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T07:10:00+00:00</g:expiration_date>
@@ -1156,7 +1156,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T08:10:00+00:00</g:expiration_date>
@@ -1194,7 +1194,7 @@
       <g:custom_label_0>Lysaker</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T09:10:00+00:00</g:expiration_date>
@@ -1232,7 +1232,7 @@
       <g:custom_label_0>Hafrsfjord</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-30T08:00:00+00:00</g:expiration_date>
@@ -1271,7 +1271,7 @@
       <g:custom_label_1>Nord Vest</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>12 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T10:40:00+00:00</g:expiration_date>
@@ -1309,7 +1309,7 @@
       <g:custom_label_0>Mo i Rana</g:custom_label_0>
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-02T08:20:00+00:00</g:expiration_date>
@@ -1348,7 +1348,7 @@
       <g:custom_label_1>Alesund</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>99 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T12:00:00+00:00</g:expiration_date>
@@ -1386,7 +1386,7 @@
       <g:custom_label_0>Moelv</g:custom_label_0>
       <g:custom_label_1>Innlandet</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-11T08:30:00+00:00</g:expiration_date>
@@ -1425,7 +1425,7 @@
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>69 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-10T10:30:00+00:00</g:expiration_date>
@@ -1464,7 +1464,7 @@
       <g:custom_label_1>Nordland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>42 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T13:00:00+00:00</g:expiration_date>
@@ -1502,7 +1502,7 @@
       <g:custom_label_0>Nesttun</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-04T08:30:00+00:00</g:expiration_date>
@@ -1540,7 +1540,7 @@
       <g:custom_label_0>Hagan</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-29T09:10:00+00:00</g:expiration_date>
@@ -1578,7 +1578,7 @@
       <g:custom_label_0>Orkanger</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-10T08:30:00+00:00</g:expiration_date>
@@ -1616,7 +1616,7 @@
       <g:custom_label_0>Indre Arna</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T11:40:00+00:00</g:expiration_date>
@@ -1655,7 +1655,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>128 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T13:50:00+00:00</g:expiration_date>
@@ -1693,7 +1693,7 @@
       <g:custom_label_0>Oslo</g:custom_label_0>
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T14:30:00+00:00</g:expiration_date>
@@ -1731,7 +1731,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T08:30:00+00:00</g:expiration_date>
@@ -1769,7 +1769,7 @@
       <g:custom_label_0>Sandnes</g:custom_label_0>
       <g:custom_label_1>Sor Vest</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T08:15:00+00:00</g:expiration_date>
@@ -1807,7 +1807,7 @@
       <g:custom_label_0>Sandvika</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T14:30:00+00:00</g:expiration_date>
@@ -1845,7 +1845,7 @@
       <g:custom_label_0>Sarpsborg</g:custom_label_0>
       <g:custom_label_1>Ostfold</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T11:00:00+00:00</g:expiration_date>
@@ -1883,7 +1883,7 @@
       <g:custom_label_0>Trondheim</g:custom_label_0>
       <g:custom_label_1>Trondelag</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T10:00:00+00:00</g:expiration_date>
@@ -1922,7 +1922,7 @@
       <g:custom_label_1>Oslo</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T12:45:00+00:00</g:expiration_date>
@@ -1960,7 +1960,7 @@
       <g:custom_label_0>Slemmestad</g:custom_label_0>
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-30T08:15:00+00:00</g:expiration_date>
@@ -1998,7 +1998,7 @@
       <g:custom_label_0>Søgne</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T14:45:00+00:00</g:expiration_date>
@@ -2037,7 +2037,7 @@
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>89 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T14:00:00+00:00</g:expiration_date>
@@ -2075,7 +2075,7 @@
       <g:custom_label_0>Stord</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T10:00:00+00:00</g:expiration_date>
@@ -2114,7 +2114,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>138 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-02T10:20:00+00:00</g:expiration_date>
@@ -2153,7 +2153,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>59 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T09:30:00+00:00</g:expiration_date>
@@ -2192,7 +2192,7 @@
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4/>
       <g:daily_budget>109 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T09:20:00+00:00</g:expiration_date>
@@ -2230,7 +2230,7 @@
       <g:custom_label_0>Tønsberg</g:custom_label_0>
       <g:custom_label_1>Vestfold</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-27T10:00:00+00:00</g:expiration_date>
@@ -2268,7 +2268,7 @@
       <g:custom_label_0>Kristiansand</g:custom_label_0>
       <g:custom_label_1>Agder</g:custom_label_1>
       <g:custom_label_4/>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-11-06T11:15:00+00:00</g:expiration_date>
@@ -2306,7 +2306,7 @@
       <g:custom_label_0>Loddefjord</g:custom_label_0>
       <g:custom_label_1>Vestland</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
     <item>
       <g:expiration_date>2026-10-28T13:15:00+00:00</g:expiration_date>
@@ -2345,7 +2345,7 @@
       <g:custom_label_1>Akershus</g:custom_label_1>
       <g:custom_label_4>akutt</g:custom_label_4>
       <g:daily_budget>49 kr</g:daily_budget>
-      <feed_generated_at>2026-10-26T18:50:58+0100</feed_generated_at>
+      <feed_generated_at>2026-10-26T23:17:11+0100</feed_generated_at>
     </item>
   </channel>
 </rss>
